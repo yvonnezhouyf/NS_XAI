@@ -13,7 +13,7 @@ The next script (claim_verifier.py) will read this + evidence_240.json and
 emit V+/V-/U/N/A labels.
 
 Usage:
-    cd /home/yvyfz/Desktop/NS_XAI/ns_explainer
+    cd .
 
     # Pilot: 10 records
     python evaluation/faithfulness/claim_extractor.py --limit 10 \

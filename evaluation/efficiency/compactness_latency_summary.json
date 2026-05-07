@@ -913,8 +913,8 @@
         }
       },
       "inputs": {
-        "evidence": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/faithfulness/evidence_240.json",
-        "claims": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/faithfulness/claims_240.json"
+        "evidence": "./evaluation/faithfulness/evidence_240.json",
+        "claims": "./evaluation/faithfulness/claims_240.json"
       }
     },
     "b1": {
@@ -1825,8 +1825,8 @@
         }
       },
       "inputs": {
-        "evidence": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/baselines/b1_trajectory_only/evidence_240.json",
-        "claims": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/baselines/b1_trajectory_only/claims_240.json"
+        "evidence": "./evaluation/baselines/b1_trajectory_only/evidence_240.json",
+        "claims": "./evaluation/baselines/b1_trajectory_only/claims_240.json"
       }
     },
     "b2": {
@@ -2737,8 +2737,8 @@
         }
       },
       "inputs": {
-        "evidence": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/baselines/b2_trajectory_policy/evidence_240.json",
-        "claims": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/baselines/b2_trajectory_policy/claims_240.json"
+        "evidence": "./evaluation/baselines/b2_trajectory_policy/evidence_240.json",
+        "claims": "./evaluation/baselines/b2_trajectory_policy/claims_240.json"
       }
     },
     "b4": {
@@ -3649,8 +3649,8 @@
         }
       },
       "inputs": {
-        "evidence": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/baselines/b4_single_snapshot/evidence_240.json",
-        "claims": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/baselines/b4_single_snapshot/claims_240.json"
+        "evidence": "./evaluation/baselines/b4_single_snapshot/evidence_240.json",
+        "claims": "./evaluation/baselines/b4_single_snapshot/claims_240.json"
       }
     },
     "a2": {
@@ -4561,8 +4561,8 @@
         }
       },
       "inputs": {
-        "evidence": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/ablations/a2_pctl_only/evidence_240.json",
-        "claims": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/ablations/a2_pctl_only/claims_240.json"
+        "evidence": "./evaluation/ablations/a2_pctl_only/evidence_240.json",
+        "claims": "./evaluation/ablations/a2_pctl_only/claims_240.json"
       }
     },
     "a3": {
@@ -5473,8 +5473,8 @@
         }
       },
       "inputs": {
-        "evidence": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/ablations/a3_derived_only/evidence_240.json",
-        "claims": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/ablations/a3_derived_only/claims_240.json"
+        "evidence": "./evaluation/ablations/a3_derived_only/evidence_240.json",
+        "claims": "./evaluation/ablations/a3_derived_only/claims_240.json"
       }
     },
     "a4": {
@@ -6385,8 +6385,8 @@
         }
       },
       "inputs": {
-        "evidence": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/ablations/a4_fixed_reference/evidence_240.json",
-        "claims": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/ablations/a4_fixed_reference/claims_240.json"
+        "evidence": "./evaluation/ablations/a4_fixed_reference/evidence_240.json",
+        "claims": "./evaluation/ablations/a4_fixed_reference/claims_240.json"
       }
     }
   }

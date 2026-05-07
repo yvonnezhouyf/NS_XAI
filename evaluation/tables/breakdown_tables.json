@@ -10027,14 +10027,14 @@
     ]
   },
   "outputs": {
-    "faithfulness_overall": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/tables/faithfulness_overall.csv",
-    "faithfulness_by_kind": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/tables/faithfulness_by_kind.csv",
-    "faithfulness_by_type": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/tables/faithfulness_by_type.csv",
-    "faithfulness_by_scenario": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/tables/faithfulness_by_scenario.csv",
-    "faithfulness_by_type_kind": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/tables/faithfulness_by_type_kind.csv",
-    "faithfulness_by_scenario_kind": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/tables/faithfulness_by_scenario_kind.csv",
-    "delta_recovery_overall": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/tables/delta_recovery_overall.csv",
-    "delta_recovery_by_type": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/tables/delta_recovery_by_type.csv",
-    "delta_recovery_by_scenario": "/home/yvyfz/Desktop/NS_XAI/ns_explainer/evaluation/tables/delta_recovery_by_scenario.csv"
+    "faithfulness_overall": "./evaluation/tables/faithfulness_overall.csv",
+    "faithfulness_by_kind": "./evaluation/tables/faithfulness_by_kind.csv",
+    "faithfulness_by_type": "./evaluation/tables/faithfulness_by_type.csv",
+    "faithfulness_by_scenario": "./evaluation/tables/faithfulness_by_scenario.csv",
+    "faithfulness_by_type_kind": "./evaluation/tables/faithfulness_by_type_kind.csv",
+    "faithfulness_by_scenario_kind": "./evaluation/tables/faithfulness_by_scenario_kind.csv",
+    "delta_recovery_overall": "./evaluation/tables/delta_recovery_overall.csv",
+    "delta_recovery_by_type": "./evaluation/tables/delta_recovery_by_type.csv",
+    "delta_recovery_by_scenario": "./evaluation/tables/delta_recovery_by_scenario.csv"
   }
 }

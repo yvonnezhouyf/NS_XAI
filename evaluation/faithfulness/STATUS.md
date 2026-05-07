@@ -37,7 +37,7 @@ this folder to leave only the final full-run artifacts and scripts.
 Command:
 
 ```bash
-cd /home/yvyfz/Desktop/NS_XAI/ns_explainer
+cd .
 python evaluation/faithfulness/claim_verifier.py \
   --output evaluation/faithfulness/graded_claims_240.json
 ```
@@ -99,7 +99,7 @@ all-claim summary.
 Full 1A pipeline:
 
 ```bash
-cd /home/yvyfz/Desktop/NS_XAI/ns_explainer
+cd .
 
 # Stage 0: already completed; re-run only if evidence/explanations change.
 python evaluation/faithfulness/generate_evidence.py \

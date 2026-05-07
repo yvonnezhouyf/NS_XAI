@@ -28,7 +28,7 @@ Per-record schema:
 
 Usage:
     conda activate xai39
-    cd /home/yvyfz/Desktop/NS_XAI/ns_explainer
+    cd .
 
     # Smoke test: just 3 queries, no LLM calls
     python faithfulness/generate_evidence.py --limit 3 --skip-llm \

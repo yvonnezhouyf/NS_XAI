@@ -8,17 +8,39 @@ vehicle dispatching.
 ## Repository layout
 
 ```
-core/                  Snapshot-based XAI framework
-                       (query classification, formal specification, PCTL
-                       checking, formula evaluation, explanation generation)
-algo/ADA-MCTS-main/    Adaptive Monte Carlo Tree Search planner
-use_cases/paratransit/ Paratransit instantiation
-                       (PCTL atomic propositions, derived metrics, runner)
-logiex_baseline/       LogiEx-style single-snapshot baseline
-evaluation/            Reproduction scripts for all reported tables
-                       (query_reliability, faithfulness, delta_recovery,
-                        robustness, efficiency, baselines, ablations, tables)
-main_paratransit_demo.py   End-to-end demonstration script
+ns_explainer/
+├── core/                       NS-XAI framework
+│   ├── query_classification.py     query → query type
+│   ├── formula_evaluator.py        formal specification construction
+│   ├── pctl_checking.py            PCTL model checking
+│   ├── explanation_generation.py   evidence-grounded LLM generation
+│   └── orchestrator.py             end-to-end pipeline
+│
+├── algo/
+│   └── ADA-MCTS-main/          Adaptive MCTS planner
+│
+├── use_cases/
+│   └── paratransit/            Paratransit instantiation
+│       ├── ada_mcts_adapter.py     planner ↔ framework adapter
+│       ├── pa_pctl_mapping.py      atomic propositions & derived metrics
+│       ├── adamcts_runner.py       snapshot generation
+│       └── config.py
+│
+├── logiex_baseline/            Single-snapshot LogiEx baseline
+│
+├── evaluation/                 Reproduction scripts for all reported tables
+│   ├── query_reliability/          Table 1 (classification accuracy)
+│   ├── faithfulness/               Numerical faithfulness (Appendix)
+│   ├── delta_recovery/             Table 2 (Δ-Recovery)
+│   ├── robustness/                 Paraphrase robustness (Appendix)
+│   ├── efficiency/                 Compactness & latency (Appendix)
+│   ├── baselines/                  B1, B2
+│   ├── ablations/                  A2, A3, A4
+│   └── tables/                     Table-generation utilities
+│
+├── main_paratransit_demo.py    End-to-end demonstration script
+├── requirements.txt            NS-XAI environment dependencies
+└── README.md
 ```
 
 ## Setup
