@@ -111,7 +111,16 @@ Running ADA-MCTS to produce planning snapshots is computationally expensive
 `mdp_tn_cache/`) are excluded from the repository and are regenerated on the
 first run of the corresponding script.
 
-## License
+## License and third-party assets
 
-Released under the MIT License for non-commercial research use. Code from
-`algo/ADA-MCTS-main/` is included in accordance with its upstream license.
+This anonymized release is provided for non-commercial research review and
+paper-reproducibility purposes. The NS-XAI code written for this project excludes
+third-party assets and will receive a formal public license in the camera-ready
+release.
+
+The repository uses ADA-MCTS code under `algo/ADA-MCTS-main/` and the public
+paratransit data source linked above. These upstream resources are credited in
+the paper and this README, but their public repositories do not appear to provide
+explicit license or terms-of-use files. Citation provides scholarly credit, but
+it does not establish reuse or redistribution terms. Users should consult the
+upstream repositories or authors before reusing or redistributing those assets.

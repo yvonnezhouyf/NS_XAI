@@ -37,5 +37,8 @@ use_cases/paratransit/data/
 # User-study raw exports (released separately as anonymized supplement)
 user_study_exports/
 
+# User-study
+user_study/
+
 # Ad-hoc notebook checkpoints
 .ipynb_checkpoints/
