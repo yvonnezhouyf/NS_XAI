@@ -1,6 +1,6 @@
 # NS-XAI: Cross-Snapshot Explanations for Adaptive Planning
 
-Reference implementation for the NeurIPS 2026 submission *"Cross-Snapshot
+Reference implementation for *"Cross-Snapshot
 Explanations for Adaptive Planning in Non-Stationary Environments."* The
 framework instantiates cross-snapshot explanation on ADA-MCTS for paratransit
 vehicle dispatching.
