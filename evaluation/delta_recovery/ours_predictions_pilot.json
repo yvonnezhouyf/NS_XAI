@@ -1,0 +1,434 @@
+{
+  "method_name": "ours_pilot",
+  "created_at": "2026-04-29T10:07:04.047334Z",
+  "model": "gpt-5.4-mini",
+  "prompt_source": "embedded:DELTA_RECOVERY_PROMPT",
+  "prompt_sha256": "95791d3b7ac197370ee81b9c2e6cee2fb79f513efda762de752866ddb76a5de9",
+  "config": {
+    "min_prob_delta_pp": 1.0,
+    "min_minute_delta": 1.0,
+    "min_count_delta": 0.5,
+    "min_raw_delta": 0.05,
+    "max_delta_targets": 12,
+    "include_zero_deltas": false,
+    "skip_llm": false
+  },
+  "records": [
+    {
+      "query_id": "Q0021",
+      "type_k": 1,
+      "scenario": 0,
+      "query_text": "Why was Vehicle 4 picked over Vehicle 0 at request 1?",
+      "method_name": "ours_pilot",
+      "targets": [
+        {
+          "component_id": "P=? [F<=2 pickup_delay_ge_60]::V4::delta",
+          "kind": "delta",
+          "metric": "P=? [F<=2 pickup_delay_ge_60]",
+          "metric_label": "P=? [F<=2 pickup_delay_ge_60]",
+          "subject": "V4",
+          "unit": "percentage_points",
+          "previous_value": 0.0,
+          "current_value": 98.530404,
+          "delta_value": 98.530404,
+          "abs_delta": 98.530404,
+          "sign": "+",
+          "description": "current minus reference change in P=? [F<=2 pickup_delay_ge_60] for V4"
+        },
+        {
+          "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V0::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_DROPOFF_BY_VEHICLE",
+          "metric_label": "ETA_DROPOFF_BY_VEHICLE",
+          "subject": "V0",
+          "unit": "minutes",
+          "previous_value": 115.81,
+          "current_value": 142.94,
+          "delta_value": 27.13,
+          "abs_delta": 27.13,
+          "sign": "+",
+          "description": "current minus reference change in ETA_DROPOFF_BY_VEHICLE for V0"
+        },
+        {
+          "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V4::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_DROPOFF_BY_VEHICLE",
+          "metric_label": "ETA_DROPOFF_BY_VEHICLE",
+          "subject": "V4",
+          "unit": "minutes",
+          "previous_value": 167.4,
+          "current_value": 194.28,
+          "delta_value": 26.88,
+          "abs_delta": 26.88,
+          "sign": "+",
+          "description": "current minus reference change in ETA_DROPOFF_BY_VEHICLE for V4"
+        },
+        {
+          "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V0::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_PICKUP_BY_VEHICLE",
+          "metric_label": "ETA_PICKUP_BY_VEHICLE",
+          "subject": "V0",
+          "unit": "minutes",
+          "previous_value": 79.78,
+          "current_value": 98.47,
+          "delta_value": 18.69,
+          "abs_delta": 18.69,
+          "sign": "+",
+          "description": "current minus reference change in ETA_PICKUP_BY_VEHICLE for V0"
+        },
+        {
+          "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V4::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_PICKUP_BY_VEHICLE",
+          "metric_label": "ETA_PICKUP_BY_VEHICLE",
+          "subject": "V4",
+          "unit": "minutes",
+          "previous_value": 79.05,
+          "current_value": 91.75,
+          "delta_value": 12.7,
+          "abs_delta": 12.7,
+          "sign": "+",
+          "description": "current minus reference change in ETA_PICKUP_BY_VEHICLE for V4"
+        }
+      ],
+      "target_count": 5,
+      "status": "ok",
+      "prediction": {
+        "components": [
+          {
+            "component_id": "P=? [F<=2 pickup_delay_ge_60]::V4::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V0::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V4::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V0::delta",
+            "status": "recovered",
+            "direction": "+",
+            "magnitude": 18.7,
+            "scalar_value": null,
+            "evidence_text": "Earlier, ... 79.8 minutes for Vehicle 0; now ... 98.5 minutes"
+          },
+          {
+            "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V4::delta",
+            "status": "recovered",
+            "direction": "+",
+            "magnitude": 12.7,
+            "scalar_value": null,
+            "evidence_text": "Earlier, ... 79.1 minutes for Vehicle 4; now ... 91.8 minutes"
+          }
+        ]
+      },
+      "elapsed_sec": 2.84
+    },
+    {
+      "query_id": "Q1191",
+      "type_k": 26,
+      "scenario": 1,
+      "query_text": "At request 4 after the crash, how do traffic and route burden affect assigned vs closest timing?",
+      "method_name": "ours_pilot",
+      "targets": [
+        {
+          "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V1::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_DROPOFF_BY_VEHICLE",
+          "metric_label": "ETA_DROPOFF_BY_VEHICLE",
+          "subject": "V1",
+          "unit": "minutes",
+          "previous_value": 328.23,
+          "current_value": 433.7,
+          "delta_value": 105.47,
+          "abs_delta": 105.47,
+          "sign": "+",
+          "description": "current minus reference change in ETA_DROPOFF_BY_VEHICLE for V1"
+        },
+        {
+          "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V2::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_DROPOFF_BY_VEHICLE",
+          "metric_label": "ETA_DROPOFF_BY_VEHICLE",
+          "subject": "V2",
+          "unit": "minutes",
+          "previous_value": 144.85,
+          "current_value": 212.58,
+          "delta_value": 67.73,
+          "abs_delta": 67.73,
+          "sign": "+",
+          "description": "current minus reference change in ETA_DROPOFF_BY_VEHICLE for V2"
+        },
+        {
+          "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V0::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_DROPOFF_BY_VEHICLE",
+          "metric_label": "ETA_DROPOFF_BY_VEHICLE",
+          "subject": "V0",
+          "unit": "minutes",
+          "previous_value": 155.31,
+          "current_value": 217.28,
+          "delta_value": 61.97,
+          "abs_delta": 61.97,
+          "sign": "+",
+          "description": "current minus reference change in ETA_DROPOFF_BY_VEHICLE for V0"
+        },
+        {
+          "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V4::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_DROPOFF_BY_VEHICLE",
+          "metric_label": "ETA_DROPOFF_BY_VEHICLE",
+          "subject": "V4",
+          "unit": "minutes",
+          "previous_value": 378.83,
+          "current_value": 336.41,
+          "delta_value": -42.42,
+          "abs_delta": 42.42,
+          "sign": "-",
+          "description": "current minus reference change in ETA_DROPOFF_BY_VEHICLE for V4"
+        },
+        {
+          "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V2::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_PICKUP_BY_VEHICLE",
+          "metric_label": "ETA_PICKUP_BY_VEHICLE",
+          "subject": "V2",
+          "unit": "minutes",
+          "previous_value": 70.82,
+          "current_value": 103.94,
+          "delta_value": 33.12,
+          "abs_delta": 33.12,
+          "sign": "+",
+          "description": "current minus reference change in ETA_PICKUP_BY_VEHICLE for V2"
+        },
+        {
+          "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V0::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_PICKUP_BY_VEHICLE",
+          "metric_label": "ETA_PICKUP_BY_VEHICLE",
+          "subject": "V0",
+          "unit": "minutes",
+          "previous_value": 61.57,
+          "current_value": 86.13,
+          "delta_value": 24.56,
+          "abs_delta": 24.56,
+          "sign": "+",
+          "description": "current minus reference change in ETA_PICKUP_BY_VEHICLE for V0"
+        },
+        {
+          "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V1::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_PICKUP_BY_VEHICLE",
+          "metric_label": "ETA_PICKUP_BY_VEHICLE",
+          "subject": "V1",
+          "unit": "minutes",
+          "previous_value": 75.18,
+          "current_value": 99.33,
+          "delta_value": 24.15,
+          "abs_delta": 24.15,
+          "sign": "+",
+          "description": "current minus reference change in ETA_PICKUP_BY_VEHICLE for V1"
+        },
+        {
+          "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V4::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_PICKUP_BY_VEHICLE",
+          "metric_label": "ETA_PICKUP_BY_VEHICLE",
+          "subject": "V4",
+          "unit": "minutes",
+          "previous_value": 92.4,
+          "current_value": 82.06,
+          "delta_value": -10.34,
+          "abs_delta": 10.34,
+          "sign": "-",
+          "description": "current minus reference change in ETA_PICKUP_BY_VEHICLE for V4"
+        },
+        {
+          "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V3::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_DROPOFF_BY_VEHICLE",
+          "metric_label": "ETA_DROPOFF_BY_VEHICLE",
+          "subject": "V3",
+          "unit": "minutes",
+          "previous_value": 216.28,
+          "current_value": 212.4,
+          "delta_value": -3.88,
+          "abs_delta": 3.88,
+          "sign": "-",
+          "description": "current minus reference change in ETA_DROPOFF_BY_VEHICLE for V3"
+        },
+        {
+          "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V3::delta",
+          "kind": "delta",
+          "metric": "DERIVED: ETA_PICKUP_BY_VEHICLE",
+          "metric_label": "ETA_PICKUP_BY_VEHICLE",
+          "subject": "V3",
+          "unit": "minutes",
+          "previous_value": 75.79,
+          "current_value": 74.42,
+          "delta_value": -1.37,
+          "abs_delta": 1.37,
+          "sign": "-",
+          "description": "current minus reference change in ETA_PICKUP_BY_VEHICLE for V3"
+        }
+      ],
+      "target_count": 10,
+      "status": "ok",
+      "prediction": {
+        "components": [
+          {
+            "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V1::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V2::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V0::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V4::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V2::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V0::delta",
+            "status": "recovered",
+            "direction": "+",
+            "magnitude": 24.5,
+            "scalar_value": null,
+            "evidence_text": "\"V0 moved from 61.6 to 86.1 minutes\""
+          },
+          {
+            "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V1::delta",
+            "status": "recovered",
+            "direction": "+",
+            "magnitude": 24.1,
+            "scalar_value": null,
+            "evidence_text": "\"V1 moved from 75.2 to 99.3 minutes\""
+          },
+          {
+            "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V4::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_DROPOFF_BY_VEHICLE::V3::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          },
+          {
+            "component_id": "DERIVED: ETA_PICKUP_BY_VEHICLE::V3::delta",
+            "status": "not_mentioned",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": null,
+            "evidence_text": null
+          }
+        ]
+      },
+      "elapsed_sec": 3.54
+    },
+    {
+      "query_id": "Q0421",
+      "type_k": 4,
+      "scenario": 0,
+      "query_text": "At what epoch does the dispatcher stop being overly pessimistic?",
+      "method_name": "ours_pilot",
+      "targets": [
+        {
+          "component_id": "DERIVED: TURNING_INTERVAL::global::display_start",
+          "kind": "scalar",
+          "metric": "DERIVED: TURNING_INTERVAL",
+          "metric_label": "TURNING_INTERVAL",
+          "subject": "global",
+          "unit": "request_index",
+          "target_value": 5.0,
+          "tolerance": 0.5,
+          "description": "start of the displayed recovery interval"
+        },
+        {
+          "component_id": "DERIVED: TURNING_INTERVAL::global::display_end",
+          "kind": "scalar",
+          "metric": "DERIVED: TURNING_INTERVAL",
+          "metric_label": "TURNING_INTERVAL",
+          "subject": "global",
+          "unit": "request_index",
+          "target_value": 6.0,
+          "tolerance": 0.5,
+          "description": "end of the displayed recovery interval"
+        }
+      ],
+      "target_count": 2,
+      "status": "ok",
+      "prediction": {
+        "components": [
+          {
+            "component_id": "DERIVED: TURNING_INTERVAL::global::display_start",
+            "status": "recovered",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": 5,
+            "evidence_text": "the turning interval at request 5–6"
+          },
+          {
+            "component_id": "DERIVED: TURNING_INTERVAL::global::display_end",
+            "status": "recovered",
+            "direction": null,
+            "magnitude": null,
+            "scalar_value": 6,
+            "evidence_text": "the turning interval at request 5–6"
+          }
+        ]
+      },
+      "elapsed_sec": 1.73
+    }
+  ]
+}

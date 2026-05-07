@@ -1,0 +1,1681 @@
+method,method_name,family,query_id,type_k,scenario,status,claim_status,latency_sec,explanation_words,explanation_chars,input_words,input_chars,claim_count,numerical_claim_count,categorical_claim_count,comparative_claim_count,causal_claim_count,unique_numeric_values
+ours,Full NS-XAI,main,Q0021,1,0,ok,ok,42.7,241,1458,198,1350,19,10,3,4,2,10
+ours,Full NS-XAI,main,Q0036,1,0,ok,ok,19.47,268,1606,198,1351,15,9,0,5,1,9
+ours,Full NS-XAI,main,Q0686,1,0,ok,ok,36.93,228,1385,286,1743,13,13,0,0,0,9
+ours,Full NS-XAI,main,Q0701,1,0,ok,ok,30.09,218,1358,289,1766,13,7,1,3,2,7
+ours,Full NS-XAI,main,Q0811,1,0,ok,ok,19.05,192,1232,201,1365,12,5,4,2,1,5
+ours,Full NS-XAI,main,Q0931,1,0,ok,ok,27.75,261,1633,284,1735,17,16,0,0,1,14
+ours,Full NS-XAI,main,Q0941,1,0,ok,ok,29.26,263,1722,289,1758,11,10,0,0,1,8
+ours,Full NS-XAI,main,Q0956,1,0,ok,ok,28.33,239,1473,284,1742,22,12,4,4,2,10
+ours,Full NS-XAI,main,Q0961,1,0,ok,ok,24.45,241,1481,227,1378,17,15,0,1,1,11
+ours,Full NS-XAI,main,Q0151,2,0,ok,ok,28.17,191,1180,230,1394,5,3,2,0,0,3
+ours,Full NS-XAI,main,Q0156,2,0,ok,ok,15.82,209,1266,232,1412,11,3,7,1,0,3
+ours,Full NS-XAI,main,Q0161,2,0,ok,ok,14.77,183,1085,231,1401,12,7,1,4,0,7
+ours,Full NS-XAI,main,Q0166,2,0,ok,ok,15.76,206,1221,231,1408,8,2,5,1,0,2
+ours,Full NS-XAI,main,Q0171,2,0,ok,ok,16.52,201,1270,173,1051,10,4,4,1,1,3
+ours,Full NS-XAI,main,Q0176,2,0,ok,ok,16.64,187,1214,232,1414,5,4,1,0,0,4
+ours,Full NS-XAI,main,Q0181,2,0,ok,ok,16.26,194,1182,198,1197,10,4,4,2,0,4
+ours,Full NS-XAI,main,Q0186,2,0,ok,ok,15.5,168,1023,231,1408,8,7,1,0,0,6
+ours,Full NS-XAI,main,Q0191,2,0,ok,ok,15.8,188,1203,172,1042,6,5,1,0,0,2
+ours,Full NS-XAI,main,Q0196,2,0,ok,ok,14.32,173,1056,174,1063,8,6,2,0,0,4
+ours,Full NS-XAI,main,Q0301,3,0,ok,ok,21.43,223,1335,58,398,9,2,3,1,3,2
+ours,Full NS-XAI,main,Q0306,3,0,ok,ok,28.82,191,1150,56,382,7,3,3,1,0,3
+ours,Full NS-XAI,main,Q0311,3,0,ok,ok,26.81,189,1186,57,386,11,8,1,1,1,6
+ours,Full NS-XAI,main,Q0316,3,0,ok,ok,15.19,181,1143,56,389,5,0,4,0,1,0
+ours,Full NS-XAI,main,Q0321,3,0,ok,ok,17.34,209,1318,57,398,6,4,1,0,1,3
+ours,Full NS-XAI,main,Q0326,3,0,ok,ok,17.19,218,1319,57,386,10,1,7,1,1,1
+ours,Full NS-XAI,main,Q0331,3,0,ok,ok,23.63,235,1454,57,388,9,1,7,0,1,1
+ours,Full NS-XAI,main,Q0336,3,0,ok,ok,15.72,198,1251,54,376,6,5,0,0,1,5
+ours,Full NS-XAI,main,Q1506,3,0,ok,ok,16.99,221,1358,57,385,5,5,0,0,0,4
+ours,Full NS-XAI,main,Q1511,3,0,ok,ok,13.48,184,1136,57,393,8,5,0,2,1,3
+ours,Full NS-XAI,main,Q0426,4,0,ok,ok,9.13,145,900,40,333,9,2,6,1,0,2
+ours,Full NS-XAI,main,Q0431,4,0,ok,ok,7.69,107,700,40,339,4,2,2,0,0,2
+ours,Full NS-XAI,main,Q0441,4,0,ok,ok,11.05,152,937,43,347,11,4,5,0,2,2
+ours,Full NS-XAI,main,Q0446,4,0,ok,ok,10.38,162,1050,41,338,14,4,9,0,1,2
+ours,Full NS-XAI,main,Q0451,4,0,ok,ok,9.46,119,766,38,322,9,5,3,1,0,2
+ours,Full NS-XAI,main,Q1531,4,0,ok,ok,10.67,98,615,40,336,5,2,3,0,0,1
+ours,Full NS-XAI,main,Q1536,4,0,ok,ok,11.52,149,961,38,323,10,6,3,0,1,2
+ours,Full NS-XAI,main,Q0541,5,0,ok,ok,12.96,153,986,166,1016,5,4,1,0,0,2
+ours,Full NS-XAI,main,Q0546,5,0,ok,ok,15.16,179,1142,167,1017,6,2,4,0,0,2
+ours,Full NS-XAI,main,Q0551,5,0,ok,ok,15.74,164,1026,165,1005,5,3,1,1,0,3
+ours,Full NS-XAI,main,Q0556,5,0,ok,ok,15.27,204,1261,165,1007,6,5,1,0,0,3
+ours,Full NS-XAI,main,Q0561,5,0,ok,ok,15.34,193,1224,168,1028,4,3,1,0,0,3
+ours,Full NS-XAI,main,Q0566,5,0,ok,ok,14.09,174,1093,165,1010,11,3,5,2,1,3
+ours,Full NS-XAI,main,Q0571,5,0,ok,ok,18.84,190,1200,166,1013,4,1,2,1,0,1
+ours,Full NS-XAI,main,Q0576,5,0,ok,ok,15.07,153,971,167,1016,4,2,0,1,1,1
+ours,Full NS-XAI,main,Q1561,5,0,ok,ok,15.07,181,1132,165,1005,8,3,3,2,0,3
+ours,Full NS-XAI,main,Q1151,26,0,ok,ok,18.04,293,1744,231,1412,26,19,5,1,1,12
+ours,Full NS-XAI,main,Q1156,26,0,ok,ok,20.16,267,1651,232,1427,19,13,1,5,0,10
+ours,Full NS-XAI,main,Q1161,26,0,ok,ok,23.87,252,1526,230,1415,22,16,5,0,1,11
+ours,Full NS-XAI,main,Q1166,26,0,ok,ok,27.31,245,1594,230,1407,18,12,2,2,2,7
+ours,Full NS-XAI,main,Q1171,26,0,ok,ok,19.1,236,1539,230,1412,19,12,4,2,1,9
+ours,Full NS-XAI,main,Q1176,26,0,ok,ok,15.98,252,1612,232,1427,11,9,2,0,0,8
+ours,Full NS-XAI,main,Q1181,26,0,ok,ok,15.86,253,1544,147,1017,17,14,3,0,0,10
+ours,Full NS-XAI,main,Q1186,26,0,ok,ok,18.33,214,1357,231,1416,15,12,1,1,1,11
+ours,Full NS-XAI,main,Q1681,26,0,ok,ok,26.22,180,1157,228,1394,8,8,0,0,0,6
+ours,Full NS-XAI,main,Q1686,26,0,ok,ok,15.01,173,1093,145,1005,8,8,0,0,0,7
+ours,Full NS-XAI,main,Q0071,1,1,ok,ok,43.45,236,1378,200,1388,9,9,0,0,0,9
+ours,Full NS-XAI,main,Q0076,1,1,ok,ok,40.43,223,1384,201,1401,21,12,5,3,1,11
+ours,Full NS-XAI,main,Q0096,1,1,ok,ok,26.82,224,1389,198,1361,16,9,2,3,2,9
+ours,Full NS-XAI,main,Q0721,1,1,ok,ok,25.14,238,1538,183,1260,12,8,1,2,1,8
+ours,Full NS-XAI,main,Q0851,1,1,ok,ok,15.85,214,1314,199,1382,15,10,3,1,1,9
+ours,Full NS-XAI,main,Q0861,1,1,ok,ok,17.45,259,1591,201,1376,17,11,2,4,0,10
+ours,Full NS-XAI,main,Q0871,1,1,ok,ok,20.04,206,1255,201,1389,21,14,4,2,1,9
+ours,Full NS-XAI,main,Q0881,1,1,ok,ok,15.23,212,1306,197,1381,16,10,1,5,0,9
+ours,Full NS-XAI,main,Q0886,1,1,ok,ok,53.18,228,1405,201,1389,13,12,0,1,0,10
+ours,Full NS-XAI,main,Q0976,1,1,ok,ok,32.32,267,1619,290,1798,13,12,1,0,0,10
+ours,Full NS-XAI,main,Q0211,2,1,ok,ok,16.66,200,1221,200,1235,10,4,5,1,0,3
+ours,Full NS-XAI,main,Q0221,2,1,ok,ok,31.7,193,1200,235,1439,12,8,3,1,0,7
+ours,Full NS-XAI,main,Q0231,2,1,ok,ok,17.15,195,1182,232,1434,10,6,4,0,0,5
+ours,Full NS-XAI,main,Q0236,2,1,ok,ok,15.92,207,1295,232,1463,3,2,1,0,0,2
+ours,Full NS-XAI,main,Q0241,2,1,ok,ok,16.01,193,1234,233,1440,6,3,2,1,0,3
+ours,Full NS-XAI,main,Q0341,3,1,ok,ok,18.1,216,1365,59,408,5,3,2,0,0,2
+ours,Full NS-XAI,main,Q0346,3,1,ok,ok,14.72,205,1289,60,412,6,3,3,0,0,3
+ours,Full NS-XAI,main,Q0351,3,1,ok,ok,15.78,192,1194,62,412,4,1,3,0,0,1
+ours,Full NS-XAI,main,Q0361,3,1,ok,ok,14.91,163,1032,58,400,4,3,0,0,1,3
+ours,Full NS-XAI,main,Q0366,3,1,ok,ok,16.33,175,1095,60,411,6,2,2,0,2,2
+ours,Full NS-XAI,main,Q0371,3,1,ok,ok,15.89,221,1363,60,403,10,3,3,2,2,3
+ours,Full NS-XAI,main,Q0376,3,1,ok,ok,17.52,223,1395,60,409,4,4,0,0,0,4
+ours,Full NS-XAI,main,Q1501,3,1,ok,ok,14.73,218,1353,60,409,6,5,0,0,1,3
+ours,Full NS-XAI,main,Q0461,4,1,ok,ok,72.47,156,1013,40,339,3,3,0,0,0,1
+ours,Full NS-XAI,main,Q0466,4,1,ok,ok,13.46,146,898,42,349,5,3,0,1,1,2
+ours,Full NS-XAI,main,Q0471,4,1,ok,ok,11.81,164,1062,41,341,5,2,2,0,1,2
+ours,Full NS-XAI,main,Q0476,4,1,ok,ok,11.3,160,1018,41,342,5,5,0,0,0,2
+ours,Full NS-XAI,main,Q0486,4,1,ok,ok,13.54,145,921,38,327,8,2,4,0,2,1
+ours,Full NS-XAI,main,Q0491,4,1,ok,ok,15.81,147,958,38,334,8,2,4,0,2,2
+ours,Full NS-XAI,main,Q0496,4,1,ok,ok,10.2,108,700,40,338,3,2,1,0,0,2
+ours,Full NS-XAI,main,Q1386,4,1,ok,ok,10.4,127,842,40,337,5,1,3,0,1,1
+ours,Full NS-XAI,main,Q1526,4,1,ok,ok,9.26,93,582,41,335,4,2,2,0,0,1
+ours,Full NS-XAI,main,Q0581,5,1,ok,ok,16.36,202,1255,168,1058,5,2,3,0,0,2
+ours,Full NS-XAI,main,Q0586,5,1,ok,ok,15.4,217,1333,168,1038,7,4,3,0,0,3
+ours,Full NS-XAI,main,Q0591,5,1,ok,ok,18.09,198,1237,194,1200,10,6,4,0,0,5
+ours,Full NS-XAI,main,Q0596,5,1,ok,ok,24.68,206,1285,165,1046,7,4,3,0,0,4
+ours,Full NS-XAI,main,Q0601,5,1,ok,ok,25.35,217,1395,169,1051,9,5,4,0,0,4
+ours,Full NS-XAI,main,Q0606,5,1,ok,ok,15.35,203,1247,194,1202,8,3,5,0,0,3
+ours,Full NS-XAI,main,Q0611,5,1,ok,ok,18.74,177,1069,167,1035,7,3,4,0,0,3
+ours,Full NS-XAI,main,Q0616,5,1,ok,ok,16.8,227,1439,224,1401,5,3,2,0,0,3
+ours,Full NS-XAI,main,Q1551,5,1,ok,ok,15.99,205,1260,225,1402,7,5,2,0,0,4
+ours,Full NS-XAI,main,Q1556,5,1,ok,ok,15.2,162,998,170,1058,8,7,1,0,0,6
+ours,Full NS-XAI,main,Q1191,26,1,ok,ok,52.79,263,1716,232,1446,13,12,1,0,0,10
+ours,Full NS-XAI,main,Q1196,26,1,ok,ok,28.24,237,1470,232,1438,11,8,3,0,0,7
+ours,Full NS-XAI,main,Q1201,26,1,ok,ok,48.29,238,1470,235,1461,12,12,0,0,0,9
+ours,Full NS-XAI,main,Q1206,26,1,ok,ok,24.85,288,1862,233,1456,20,16,2,1,1,12
+ours,Full NS-XAI,main,Q1211,26,1,ok,ok,47.85,247,1567,230,1435,13,13,0,0,0,11
+ours,Full NS-XAI,main,Q1216,26,1,ok,ok,37.95,276,1670,233,1453,15,10,2,2,1,10
+ours,Full NS-XAI,main,Q1221,26,1,ok,ok,15.99,270,1708,232,1439,15,12,2,0,1,10
+ours,Full NS-XAI,main,Q1226,26,1,ok,ok,22.03,249,1543,233,1461,12,12,0,0,0,10
+ours,Full NS-XAI,main,Q1671,26,1,ok,ok,41.56,161,1005,232,1441,9,9,0,0,0,8
+ours,Full NS-XAI,main,Q1676,26,1,ok,ok,23.01,167,1081,232,1440,10,7,1,2,0,6
+ours,Full NS-XAI,main,Q0101,1,2,ok,ok,49.76,217,1353,200,1393,15,11,2,1,1,9
+ours,Full NS-XAI,main,Q0111,1,2,ok,ok,34.25,254,1523,180,1238,9,6,2,0,1,6
+ours,Full NS-XAI,main,Q0766,1,2,ok,ok,21.06,217,1325,201,1395,9,8,1,0,0,8
+ours,Full NS-XAI,main,Q0786,1,2,ok,ok,16.54,245,1550,201,1401,16,10,4,2,0,8
+ours,Full NS-XAI,main,Q0896,1,2,ok,ok,15.26,239,1499,179,1233,14,13,0,1,0,9
+ours,Full NS-XAI,main,Q0911,1,2,ok,ok,17.2,248,1496,200,1389,15,11,1,3,0,11
+ours,Full NS-XAI,main,Q0916,1,2,ok,ok,14.38,215,1319,199,1373,17,10,6,1,0,10
+ours,Full NS-XAI,main,Q0921,1,2,ok,ok,17.95,263,1624,200,1399,18,9,6,3,0,9
+ours,Full NS-XAI,main,Q0926,1,2,ok,ok,24.19,233,1430,182,1241,15,12,2,1,0,9
+ours,Full NS-XAI,main,Q1041,1,2,ok,ok,18.22,250,1556,254,1604,7,6,1,0,0,6
+ours,Full NS-XAI,main,Q0251,2,2,ok,ok,21.74,188,1175,233,1443,6,4,2,0,0,4
+ours,Full NS-XAI,main,Q0256,2,2,ok,ok,17.37,221,1389,176,1096,7,6,1,0,0,6
+ours,Full NS-XAI,main,Q0266,2,2,ok,ok,15.97,193,1192,233,1443,7,0,5,2,0,0
+ours,Full NS-XAI,main,Q0281,2,2,ok,ok,21.05,193,1189,235,1452,9,7,1,1,0,5
+ours,Full NS-XAI,main,Q0286,2,2,ok,ok,14.52,196,1233,234,1454,10,8,1,1,0,6
+ours,Full NS-XAI,main,Q0381,3,2,ok,ok,42.04,212,1280,59,407,11,3,8,0,0,2
+ours,Full NS-XAI,main,Q0386,3,2,ok,ok,14.95,198,1248,60,409,11,5,2,0,4,3
+ours,Full NS-XAI,main,Q0391,3,2,ok,ok,17.35,222,1430,58,402,8,5,2,0,1,5
+ours,Full NS-XAI,main,Q0396,3,2,ok,ok,31.01,264,1562,58,394,3,3,0,0,0,2
+ours,Full NS-XAI,main,Q0401,3,2,ok,ok,27.44,232,1429,60,415,5,4,1,0,0,3
+ours,Full NS-XAI,main,Q0406,3,2,ok,ok,23.11,171,1065,57,397,1,1,0,0,0,1
+ours,Full NS-XAI,main,Q0411,3,2,ok,ok,17.85,214,1308,60,401,6,4,0,0,2,4
+ours,Full NS-XAI,main,Q0416,3,2,ok,ok,16.15,240,1435,61,420,4,4,0,0,0,4
+ours,Full NS-XAI,main,Q1516,3,2,ok,ok,23.9,188,1134,57,392,4,2,2,0,0,2
+ours,Full NS-XAI,main,Q1521,3,2,ok,ok,18.01,217,1313,58,399,8,7,0,0,1,4
+ours,Full NS-XAI,main,Q0506,4,2,ok,ok,9.31,122,745,40,337,3,2,0,0,1,1
+ours,Full NS-XAI,main,Q0511,4,2,ok,ok,10.01,116,733,40,335,4,3,0,1,0,2
+ours,Full NS-XAI,main,Q0516,4,2,ok,ok,10.92,120,740,39,325,7,3,3,0,1,2
+ours,Full NS-XAI,main,Q0521,4,2,ok,ok,6.66,93,582,39,328,4,2,1,0,1,2
+ours,Full NS-XAI,main,Q0531,4,2,ok,ok,9.63,148,930,40,336,5,4,1,0,0,2
+ours,Full NS-XAI,main,Q1541,4,2,ok,ok,9.34,144,886,42,343,4,4,0,0,0,2
+ours,Full NS-XAI,main,Q1546,4,2,ok,ok,8.58,116,726,40,331,3,1,2,0,0,1
+ours,Full NS-XAI,main,Q0621,5,2,ok,ok,18.76,167,1025,168,1055,6,3,3,0,0,3
+ours,Full NS-XAI,main,Q0626,5,2,ok,ok,12.19,164,1046,168,1042,6,2,3,1,0,2
+ours,Full NS-XAI,main,Q0631,5,2,ok,ok,14.18,189,1172,195,1229,9,5,2,1,1,5
+ours,Full NS-XAI,main,Q0636,5,2,ok,ok,15.84,231,1441,168,1052,8,5,2,1,0,3
+ours,Full NS-XAI,main,Q0641,5,2,ok,ok,17.2,167,1037,168,1043,8,3,5,0,0,3
+ours,Full NS-XAI,main,Q0646,5,2,ok,ok,12.76,184,1123,194,1216,10,7,2,1,0,7
+ours,Full NS-XAI,main,Q0651,5,2,ok,ok,25.26,186,1114,168,1054,10,5,3,2,0,5
+ours,Full NS-XAI,main,Q0656,5,2,ok,ok,15.21,173,1068,225,1406,5,2,1,1,1,2
+ours,Full NS-XAI,main,Q1566,5,2,ok,ok,15.65,224,1411,224,1396,7,7,0,0,0,6
+ours,Full NS-XAI,main,Q1051,12,2,ok,ok,15.12,204,1272,258,1648,10,8,0,1,1,8
+ours,Full NS-XAI,main,Q1056,12,2,ok,ok,34.31,210,1349,200,1289,23,12,6,1,4,12
+ours,Full NS-XAI,main,Q1061,12,2,ok,ok,26.46,161,1042,227,1462,6,4,1,0,1,4
+ours,Full NS-XAI,main,Q1066,12,2,ok,ok,26.78,200,1249,260,1660,13,8,3,1,1,8
+ours,Full NS-XAI,main,Q1071,12,2,ok,ok,15.01,224,1444,200,1283,12,8,0,2,2,8
+ours,Full NS-XAI,main,Q1081,12,2,ok,ok,17.56,226,1397,258,1649,17,10,6,1,0,10
+ours,Full NS-XAI,main,Q1086,12,2,ok,ok,38.47,230,1490,259,1670,7,5,2,0,0,5
+ours,Full NS-XAI,main,Q1091,12,2,ok,ok,18.8,204,1255,202,1295,10,8,0,1,1,8
+ours,Full NS-XAI,main,Q1096,12,2,ok,ok,39.07,194,1203,229,1476,18,12,4,0,2,12
+ours,Full NS-XAI,main,Q1101,12,2,ok,ok,16.23,197,1213,261,1664,13,10,1,2,0,10
+ours,Full NS-XAI,main,Q1106,12,2,ok,ok,29.22,199,1269,200,1292,13,10,2,0,1,10
+ours,Full NS-XAI,main,Q1116,12,2,ok,ok,58.24,235,1469,260,1662,7,4,3,0,0,4
+ours,Full NS-XAI,main,Q1121,12,2,ok,ok,26.65,220,1433,200,1285,17,8,5,2,2,8
+ours,Full NS-XAI,main,Q1126,12,2,ok,ok,40.98,219,1357,228,1470,17,8,5,1,3,8
+ours,Full NS-XAI,main,Q1131,12,2,ok,ok,31.05,209,1248,261,1669,13,8,4,0,1,8
+ours,Full NS-XAI,main,Q1136,12,2,ok,ok,20.64,228,1431,259,1666,7,7,0,0,0,7
+ours,Full NS-XAI,main,Q1141,12,2,ok,ok,26.21,214,1329,201,1287,12,10,2,0,0,10
+ours,Full NS-XAI,main,Q1146,12,2,ok,ok,25.74,206,1318,227,1471,14,8,3,2,1,8
+ours,Full NS-XAI,main,Q1396,12,2,ok,ok,28.98,251,1547,265,1691,10,10,0,0,0,10
+ours,Full NS-XAI,main,Q1576,12,2,ok,ok,14.28,205,1274,201,1289,6,6,0,0,0,6
+ours,Full NS-XAI,main,Q1581,12,2,ok,ok,26.63,210,1299,226,1466,10,8,2,0,0,6
+ours,Full NS-XAI,main,Q1586,12,2,ok,ok,30.12,174,1077,260,1660,11,8,0,2,1,8
+ours,Full NS-XAI,main,Q1591,12,2,ok,ok,33.2,193,1222,200,1287,15,11,1,2,1,11
+ours,Full NS-XAI,main,Q1596,12,2,ok,ok,48.51,207,1318,227,1481,13,8,2,0,3,8
+ours,Full NS-XAI,main,Q1601,12,2,ok,ok,32.38,252,1584,260,1664,12,11,1,0,0,10
+ours,Full NS-XAI,main,Q1606,12,2,ok,ok,30.66,190,1243,259,1659,12,10,2,0,0,7
+ours,Full NS-XAI,main,Q1611,12,2,ok,ok,25.29,209,1346,200,1285,13,8,2,1,2,8
+ours,Full NS-XAI,main,Q1616,12,2,ok,ok,25.67,204,1247,227,1470,17,12,2,1,2,12
+ours,Full NS-XAI,main,Q1271,15,2,ok,ok,38.37,170,1118,200,1302,7,4,3,0,0,4
+ours,Full NS-XAI,main,Q1276,15,2,ok,ok,24.29,176,1136,202,1299,10,9,1,0,0,9
+ours,Full NS-XAI,main,Q1281,15,2,ok,ok,17.42,165,1066,203,1312,8,8,0,0,0,8
+ours,Full NS-XAI,main,Q1286,15,2,ok,ok,13.77,182,1219,202,1305,10,6,1,1,2,6
+ours,Full NS-XAI,main,Q1291,15,2,ok,ok,13.72,159,1032,202,1297,7,4,1,1,1,4
+ours,Full NS-XAI,main,Q1296,15,2,ok,ok,24.76,164,1045,202,1314,8,8,0,0,0,8
+ours,Full NS-XAI,main,Q1301,15,2,ok,ok,33.08,212,1301,202,1307,10,6,3,1,0,5
+ours,Full NS-XAI,main,Q1306,15,2,ok,ok,40.59,186,1221,259,1665,7,7,0,0,0,7
+ours,Full NS-XAI,main,Q1311,15,2,ok,ok,40.65,197,1255,259,1661,9,8,1,0,0,8
+ours,Full NS-XAI,main,Q1316,15,2,ok,ok,28.84,203,1315,201,1302,13,10,1,0,2,9
+ours,Full NS-XAI,main,Q1321,15,2,ok,ok,25.28,131,826,203,1313,8,6,1,0,1,6
+ours,Full NS-XAI,main,Q1326,15,2,ok,ok,18.51,158,1010,204,1320,6,6,0,0,0,6
+ours,Full NS-XAI,main,Q1331,15,2,ok,ok,14.6,205,1300,203,1312,12,10,0,0,2,10
+ours,Full NS-XAI,main,Q1336,15,2,ok,ok,34.36,174,1127,200,1300,15,6,7,2,0,6
+ours,Full NS-XAI,main,Q1341,15,2,ok,ok,19.28,144,931,206,1330,6,6,0,0,0,6
+ours,Full NS-XAI,main,Q1346,15,2,ok,ok,28.64,161,1036,201,1308,6,6,0,0,0,6
+ours,Full NS-XAI,main,Q1351,15,2,ok,ok,14.75,147,973,202,1305,8,7,0,0,1,7
+ours,Full NS-XAI,main,Q1356,15,2,ok,ok,33.3,153,992,257,1659,9,7,2,0,0,7
+ours,Full NS-XAI,main,Q1361,15,2,ok,ok,26.28,138,908,259,1658,5,3,0,1,1,3
+ours,Full NS-XAI,main,Q1366,15,2,ok,ok,63.91,185,1126,204,1317,5,2,2,0,1,1
+ours,Full NS-XAI,main,Q1621,15,2,ok,ok,24.23,196,1217,202,1311,5,5,0,0,0,5
+ours,Full NS-XAI,main,Q1626,15,2,ok,ok,12.48,144,920,201,1296,8,8,0,0,0,8
+ours,Full NS-XAI,main,Q1631,15,2,ok,ok,23.86,140,876,204,1313,6,6,0,0,0,6
+ours,Full NS-XAI,main,Q1636,15,2,ok,ok,27.99,159,1016,203,1313,9,6,2,0,1,6
+ours,Full NS-XAI,main,Q1641,15,2,ok,ok,16.23,158,1053,200,1294,8,8,0,0,0,7
+ours,Full NS-XAI,main,Q1646,15,2,ok,ok,14.35,133,876,201,1301,6,6,0,0,0,6
+ours,Full NS-XAI,main,Q1651,15,2,ok,ok,34.05,225,1383,201,1303,18,12,5,1,0,12
+ours,Full NS-XAI,main,Q1656,15,2,ok,ok,38.64,219,1376,259,1662,10,10,0,0,0,10
+ours,Full NS-XAI,main,Q1661,15,2,ok,ok,34.67,159,1017,259,1653,7,7,0,0,0,7
+ours,Full NS-XAI,main,Q1666,15,2,ok,ok,44.59,153,980,203,1308,7,6,1,0,0,6
+ours,Full NS-XAI,main,Q1231,26,2,ok,ok,57.48,215,1386,232,1453,9,7,0,1,1,6
+ours,Full NS-XAI,main,Q1236,26,2,ok,ok,37.38,307,1952,232,1450,20,19,1,0,0,13
+ours,Full NS-XAI,main,Q1241,26,2,ok,ok,29.77,233,1502,232,1449,12,11,0,1,0,11
+ours,Full NS-XAI,main,Q1246,26,2,ok,ok,43.06,230,1469,231,1444,14,7,3,3,1,7
+ours,Full NS-XAI,main,Q1251,26,2,ok,ok,50.41,315,1915,232,1456,15,15,0,0,0,13
+ours,Full NS-XAI,main,Q1256,26,2,ok,ok,40.3,260,1585,233,1455,18,17,1,0,0,12
+ours,Full NS-XAI,main,Q1261,26,2,ok,ok,37.98,273,1752,232,1449,21,19,2,0,0,15
+ours,Full NS-XAI,main,Q1266,26,2,ok,ok,39.84,270,1726,231,1453,10,10,0,0,0,8
+ours,Full NS-XAI,main,Q1691,26,2,ok,ok,23.54,162,1000,231,1425,7,7,0,0,0,6
+ours,Full NS-XAI,main,Q1696,26,2,ok,ok,57.58,209,1393,230,1434,10,10,0,0,0,8
+ours,Full NS-XAI,main,Q1401,1,0,ok,ok,44.9,218,1382,140,984,17,12,2,3,0,8
+ours,Full NS-XAI,main,Q0421,4,0,ok,ok,14.39,146,886,39,328,5,5,0,0,0,2
+ours,Full NS-XAI,main,Q0456,4,0,ok,ok,10.93,116,734,40,342,5,2,3,0,0,2
+ours,Full NS-XAI,main,Q0356,3,1,ok,ok,12.23,169,1064,57,397,6,3,3,0,0,2
+ours,Full NS-XAI,main,Q1411,3,1,ok,ok,35.41,202,1244,56,385,12,7,3,1,1,7
+ours,Full NS-XAI,main,Q0261,2,2,ok,ok,38.02,170,1003,201,1258,6,5,1,0,0,5
+ours,Full NS-XAI,main,Q0276,2,2,ok,ok,17.96,212,1267,202,1264,11,3,8,0,0,3
+ours,Full NS-XAI,main,Q0296,2,2,ok,ok,24.11,202,1214,201,1257,9,7,2,0,0,6
+ours,Full NS-XAI,main,Q0501,4,2,ok,ok,12.43,109,697,40,337,6,4,2,0,0,2
+ours,Full NS-XAI,main,Q0526,4,2,ok,ok,11.9,181,1141,40,346,5,4,0,0,1,2
+ours,Full NS-XAI,main,Q0536,4,2,ok,ok,16.49,155,1025,38,327,6,3,2,0,1,1
+ours,Full NS-XAI,main,Q1571,5,2,ok,ok,16.57,170,1041,195,1220,8,0,7,1,0,0
+ours,Full NS-XAI,main,Q1076,12,2,ok,ok,18.79,203,1282,229,1476,16,4,8,2,2,4
+ours,Full NS-XAI,main,Q0436,4,0,ok,ok,11.52,135,866,39,333,4,3,1,0,0,2
+ours,Full NS-XAI,main,Q1391,5,0,ok,ok,38.2,150,954,162,992,4,1,3,0,0,1
+ours,Full NS-XAI,main,Q0201,2,1,ok,ok,39.27,183,1147,201,1246,7,6,0,1,0,4
+ours,Full NS-XAI,main,Q0206,2,1,ok,ok,17.07,225,1412,234,1434,17,9,6,1,1,4
+ours,Full NS-XAI,main,Q0216,2,1,ok,ok,14.1,186,1158,202,1251,7,3,3,1,0,2
+ours,Full NS-XAI,main,Q0226,2,1,ok,ok,17.07,180,1127,205,1262,13,7,6,0,0,6
+ours,Full NS-XAI,main,Q0246,2,1,ok,ok,15.64,192,1168,234,1444,7,3,3,1,0,3
+ours,Full NS-XAI,main,Q0481,4,1,ok,ok,10.69,134,846,38,327,6,6,0,0,0,2
+ours,Full NS-XAI,main,Q0271,2,2,ok,ok,37.42,191,1223,173,1077,10,7,2,1,0,5
+ours,Full NS-XAI,main,Q0291,2,2,ok,ok,14.35,207,1282,232,1458,10,3,6,1,0,3
+ours,Full NS-XAI,main,Q1111,12,2,ok,ok,34.48,213,1335,227,1468,7,6,1,0,0,6
+b1,B1 trajectory-only,baseline,Q0021,1,0,ok,ok,2.34,121,776,111,757,6,5,1,0,0,5
+b1,B1 trajectory-only,baseline,Q0036,1,0,ok,ok,2.68,124,773,111,757,9,5,3,0,1,5
+b1,B1 trajectory-only,baseline,Q0686,1,0,ok,ok,2.82,141,892,111,762,11,7,4,0,0,7
+b1,B1 trajectory-only,baseline,Q0701,1,0,ok,ok,2.63,138,942,114,785,11,9,2,0,0,9
+b1,B1 trajectory-only,baseline,Q0811,1,0,ok,ok,2.01,136,882,114,772,11,6,4,0,1,4
+b1,B1 trajectory-only,baseline,Q0931,1,0,ok,ok,2.72,136,861,109,752,5,4,0,1,0,4
+b1,B1 trajectory-only,baseline,Q0941,1,0,ok,ok,2.81,150,970,115,781,10,5,5,0,0,5
+b1,B1 trajectory-only,baseline,Q0956,1,0,ok,ok,1.99,146,932,109,757,6,5,1,0,0,5
+b1,B1 trajectory-only,baseline,Q0961,1,0,ok,ok,3.58,146,928,112,761,4,4,0,0,0,4
+b1,B1 trajectory-only,baseline,Q0151,2,0,ok,ok,1.96,117,749,108,747,8,5,2,1,0,5
+b1,B1 trajectory-only,baseline,Q0156,2,0,ok,ok,1.87,142,918,110,765,4,4,0,0,0,4
+b1,B1 trajectory-only,baseline,Q0161,2,0,ok,ok,2.07,136,926,109,755,15,10,4,0,1,10
+b1,B1 trajectory-only,baseline,Q0166,2,0,ok,ok,1.84,122,849,109,760,12,10,2,0,0,8
+b1,B1 trajectory-only,baseline,Q0171,2,0,ok,ok,1.99,119,785,111,768,9,5,4,0,0,5
+b1,B1 trajectory-only,baseline,Q0176,2,0,ok,ok,1.75,124,854,110,765,4,4,0,0,0,4
+b1,B1 trajectory-only,baseline,Q0181,2,0,ok,ok,1.97,134,890,108,750,11,8,3,0,0,6
+b1,B1 trajectory-only,baseline,Q0186,2,0,ok,ok,3.66,114,701,109,759,10,7,3,0,0,6
+b1,B1 trajectory-only,baseline,Q0191,2,0,ok,ok,1.73,120,805,110,760,12,7,3,1,1,6
+b1,B1 trajectory-only,baseline,Q0196,2,0,ok,ok,1.51,119,804,112,781,6,6,0,0,0,4
+b1,B1 trajectory-only,baseline,Q0301,3,0,ok,ok,1.71,149,956,112,770,14,8,5,0,1,8
+b1,B1 trajectory-only,baseline,Q0306,3,0,ok,ok,1.67,128,853,110,754,4,4,0,0,0,4
+b1,B1 trajectory-only,baseline,Q0311,3,0,ok,ok,1.84,137,849,111,759,14,8,5,0,1,7
+b1,B1 trajectory-only,baseline,Q0316,3,0,ok,ok,1.95,131,851,110,759,9,7,2,0,0,5
+b1,B1 trajectory-only,baseline,Q0321,3,0,ok,ok,1.97,153,1020,111,768,8,5,3,0,0,5
+b1,B1 trajectory-only,baseline,Q0326,3,0,ok,ok,2.13,164,1032,111,755,14,9,5,0,0,9
+b1,B1 trajectory-only,baseline,Q0331,3,0,ok,ok,2.03,165,1012,111,759,9,5,3,1,0,5
+b1,B1 trajectory-only,baseline,Q0336,3,0,ok,ok,2.0,148,936,108,746,10,5,4,1,0,5
+b1,B1 trajectory-only,baseline,Q1506,3,0,ok,ok,2.0,154,1053,111,755,8,6,2,0,0,6
+b1,B1 trajectory-only,baseline,Q1511,3,0,ok,ok,2.83,149,955,111,763,10,5,4,0,1,5
+b1,B1 trajectory-only,baseline,Q0426,4,0,ok,ok,2.11,114,782,111,775,8,6,2,0,0,4
+b1,B1 trajectory-only,baseline,Q0431,4,0,ok,ok,2.01,141,948,111,781,10,9,0,1,0,7
+b1,B1 trajectory-only,baseline,Q0441,4,0,ok,ok,2.01,149,983,114,789,8,6,1,1,0,6
+b1,B1 trajectory-only,baseline,Q0446,4,0,ok,ok,2.0,154,980,112,780,11,10,1,0,0,8
+b1,B1 trajectory-only,baseline,Q0451,4,0,ok,ok,2.38,130,836,109,764,11,9,1,1,0,7
+b1,B1 trajectory-only,baseline,Q1531,4,0,ok,ok,1.71,124,833,111,778,11,6,4,0,1,6
+b1,B1 trajectory-only,baseline,Q1536,4,0,ok,ok,1.85,138,928,109,765,12,6,4,2,0,6
+b1,B1 trajectory-only,baseline,Q0541,5,0,ok,ok,1.74,123,769,112,774,5,4,1,0,0,4
+b1,B1 trajectory-only,baseline,Q0546,5,0,ok,ok,1.84,138,866,113,775,8,6,1,1,0,6
+b1,B1 trajectory-only,baseline,Q0551,5,0,ok,ok,1.39,101,650,111,764,6,1,5,0,0,1
+b1,B1 trajectory-only,baseline,Q0556,5,0,ok,ok,1.93,133,840,111,764,5,5,0,0,0,5
+b1,B1 trajectory-only,baseline,Q0561,5,0,ok,ok,1.73,143,918,114,785,9,5,3,1,0,5
+b1,B1 trajectory-only,baseline,Q0566,5,0,ok,ok,2.08,118,763,111,766,9,5,2,1,1,5
+b1,B1 trajectory-only,baseline,Q0571,5,0,ok,ok,1.67,120,775,112,771,6,2,4,0,0,2
+b1,B1 trajectory-only,baseline,Q0576,5,0,ok,ok,1.88,109,697,113,774,10,3,5,0,2,3
+b1,B1 trajectory-only,baseline,Q1561,5,0,ok,ok,1.81,126,791,111,763,6,3,2,1,0,3
+b1,B1 trajectory-only,baseline,Q1151,26,0,ok,ok,1.72,139,876,116,798,6,5,1,0,0,3
+b1,B1 trajectory-only,baseline,Q1156,26,0,ok,ok,2.08,144,909,117,810,4,2,2,0,0,2
+b1,B1 trajectory-only,baseline,Q1161,26,0,ok,ok,2.08,144,902,115,799,11,6,4,1,0,6
+b1,B1 trajectory-only,baseline,Q1166,26,0,ok,ok,3.61,155,922,115,791,12,9,3,0,0,8
+b1,B1 trajectory-only,baseline,Q1171,26,0,ok,ok,3.66,144,940,115,794,8,6,0,1,1,4
+b1,B1 trajectory-only,baseline,Q1176,26,0,ok,ok,1.91,129,812,117,809,9,5,3,1,0,4
+b1,B1 trajectory-only,baseline,Q1181,26,0,ok,ok,2.43,156,931,116,793,6,5,0,1,0,4
+b1,B1 trajectory-only,baseline,Q1186,26,0,ok,ok,1.95,160,1000,116,798,7,4,3,0,0,4
+b1,B1 trajectory-only,baseline,Q1681,26,0,ok,ok,1.51,93,629,113,777,4,4,0,0,0,4
+b1,B1 trajectory-only,baseline,Q1686,26,0,ok,ok,1.4,64,433,114,782,9,9,0,0,0,8
+b1,B1 trajectory-only,baseline,Q0071,1,1,ok,ok,3.47,141,867,114,785,8,6,1,0,1,5
+b1,B1 trajectory-only,baseline,Q0076,1,1,ok,ok,1.78,141,867,117,806,9,7,2,0,0,7
+b1,B1 trajectory-only,baseline,Q0096,1,1,ok,ok,2.84,131,856,111,770,5,4,1,0,0,4
+b1,B1 trajectory-only,baseline,Q0721,1,1,ok,ok,2.22,149,1008,116,799,11,9,1,1,0,7
+b1,B1 trajectory-only,baseline,Q0851,1,1,ok,ok,3.63,136,857,115,787,4,4,0,0,0,4
+b1,B1 trajectory-only,baseline,Q0861,1,1,ok,ok,2.12,143,898,114,785,6,4,1,1,0,4
+b1,B1 trajectory-only,baseline,Q0871,1,1,ok,ok,2.01,128,783,115,785,8,6,0,2,0,4
+b1,B1 trajectory-only,baseline,Q0881,1,1,ok,ok,2.19,140,879,111,776,8,6,2,0,0,6
+b1,B1 trajectory-only,baseline,Q0886,1,1,ok,ok,2.15,140,885,115,788,6,6,0,0,0,6
+b1,B1 trajectory-only,baseline,Q0976,1,1,ok,ok,3.71,131,861,115,796,6,6,0,0,0,5
+b1,B1 trajectory-only,baseline,Q0211,2,1,ok,ok,1.93,123,760,111,776,9,6,3,0,0,4
+b1,B1 trajectory-only,baseline,Q0221,2,1,ok,ok,2.63,129,848,113,786,9,7,2,0,0,6
+b1,B1 trajectory-only,baseline,Q0231,2,1,ok,ok,2.51,137,903,110,773,12,10,1,1,0,7
+b1,B1 trajectory-only,baseline,Q0236,2,1,ok,ok,2.42,150,988,113,796,16,13,2,0,1,9
+b1,B1 trajectory-only,baseline,Q0241,2,1,ok,ok,2.8,144,955,115,802,12,9,3,0,0,6
+b1,B1 trajectory-only,baseline,Q0341,3,1,ok,ok,2.89,161,985,113,787,7,6,1,0,0,3
+b1,B1 trajectory-only,baseline,Q0346,3,1,ok,ok,2.51,151,1050,114,791,8,7,1,0,0,6
+b1,B1 trajectory-only,baseline,Q0351,3,1,ok,ok,2.28,166,1033,116,791,11,10,1,0,0,7
+b1,B1 trajectory-only,baseline,Q0361,3,1,ok,ok,2.13,151,1027,112,779,8,7,1,0,0,7
+b1,B1 trajectory-only,baseline,Q0366,3,1,ok,ok,1.93,154,962,114,790,8,6,2,0,0,6
+b1,B1 trajectory-only,baseline,Q0371,3,1,ok,ok,2.01,149,996,114,780,11,9,2,0,0,7
+b1,B1 trajectory-only,baseline,Q0376,3,1,ok,ok,2.28,162,1039,114,789,6,5,0,1,0,5
+b1,B1 trajectory-only,baseline,Q1501,3,1,ok,ok,1.95,145,942,114,786,14,11,2,1,0,11
+b1,B1 trajectory-only,baseline,Q0461,4,1,ok,ok,2.57,153,1001,111,790,8,7,1,0,0,7
+b1,B1 trajectory-only,baseline,Q0466,4,1,ok,ok,2.27,145,970,113,800,11,9,2,0,0,8
+b1,B1 trajectory-only,baseline,Q0471,4,1,ok,ok,1.94,155,1012,112,792,9,9,0,0,0,8
+b1,B1 trajectory-only,baseline,Q0476,4,1,ok,ok,2.44,163,1122,112,793,14,11,2,1,0,10
+b1,B1 trajectory-only,baseline,Q0486,4,1,ok,ok,2.01,144,945,109,778,9,9,0,0,0,8
+b1,B1 trajectory-only,baseline,Q0491,4,1,ok,ok,2.03,133,877,109,785,10,9,1,0,0,8
+b1,B1 trajectory-only,baseline,Q0496,4,1,ok,ok,2.14,124,810,111,789,12,9,1,1,1,8
+b1,B1 trajectory-only,baseline,Q1386,4,1,ok,ok,5.24,146,1008,111,788,8,8,0,0,0,8
+b1,B1 trajectory-only,baseline,Q1526,4,1,ok,ok,2.26,134,868,112,786,11,8,2,0,1,8
+b1,B1 trajectory-only,baseline,Q0581,5,1,ok,ok,1.77,115,731,114,794,6,4,2,0,0,3
+b1,B1 trajectory-only,baseline,Q0586,5,1,ok,ok,1.91,139,892,114,790,10,6,4,0,0,6
+b1,B1 trajectory-only,baseline,Q0591,5,1,ok,ok,1.95,148,867,113,781,9,9,0,0,0,7
+b1,B1 trajectory-only,baseline,Q0596,5,1,ok,ok,1.85,130,843,111,782,9,6,2,1,0,5
+b1,B1 trajectory-only,baseline,Q0601,5,1,ok,ok,1.84,148,957,115,803,7,4,1,2,0,4
+b1,B1 trajectory-only,baseline,Q0606,5,1,ok,ok,1.72,98,639,113,783,5,2,3,0,0,2
+b1,B1 trajectory-only,baseline,Q0611,5,1,ok,ok,3.82,122,753,113,779,8,5,2,1,0,4
+b1,B1 trajectory-only,baseline,Q0616,5,1,ok,ok,1.68,121,778,114,794,10,5,4,1,0,5
+b1,B1 trajectory-only,baseline,Q1551,5,1,ok,ok,3.95,125,825,115,804,2,1,1,0,0,1
+b1,B1 trajectory-only,baseline,Q1556,5,1,ok,ok,3.3,124,837,116,801,8,6,2,0,0,5
+b1,B1 trajectory-only,baseline,Q1191,26,1,ok,ok,1.85,151,931,117,811,8,8,0,0,0,6
+b1,B1 trajectory-only,baseline,Q1196,26,1,ok,ok,5.22,159,1018,117,812,8,6,2,0,0,5
+b1,B1 trajectory-only,baseline,Q1201,26,1,ok,ok,2.55,138,896,120,825,5,3,2,0,0,3
+b1,B1 trajectory-only,baseline,Q1206,26,1,ok,ok,2.03,167,1039,118,821,9,9,0,0,0,7
+b1,B1 trajectory-only,baseline,Q1211,26,1,ok,ok,2.16,163,1010,115,809,7,7,0,0,0,6
+b1,B1 trajectory-only,baseline,Q1216,26,1,ok,ok,2.12,168,1069,118,817,7,4,3,0,0,3
+b1,B1 trajectory-only,baseline,Q1221,26,1,ok,ok,2.04,165,1074,117,807,12,10,2,0,0,8
+b1,B1 trajectory-only,baseline,Q1226,26,1,ok,ok,1.83,152,926,118,825,12,10,2,0,0,8
+b1,B1 trajectory-only,baseline,Q1671,26,1,ok,ok,2.23,156,964,117,812,6,4,2,0,0,3
+b1,B1 trajectory-only,baseline,Q1676,26,1,ok,ok,1.49,114,761,117,805,12,10,2,0,0,8
+b1,B1 trajectory-only,baseline,Q0101,1,2,ok,ok,3.53,156,993,114,774,7,3,3,1,0,3
+b1,B1 trajectory-only,baseline,Q0111,1,2,ok,ok,2.13,141,937,113,775,14,5,7,1,1,5
+b1,B1 trajectory-only,baseline,Q0766,1,2,ok,ok,2.31,168,1054,115,778,12,10,1,0,1,6
+b1,B1 trajectory-only,baseline,Q0786,1,2,ok,ok,1.66,118,779,115,782,9,5,3,0,1,5
+b1,B1 trajectory-only,baseline,Q0896,1,2,ok,ok,1.57,125,750,112,770,6,3,3,0,0,3
+b1,B1 trajectory-only,baseline,Q0911,1,2,ok,ok,1.68,155,911,114,772,10,9,0,1,0,7
+b1,B1 trajectory-only,baseline,Q0916,1,2,ok,ok,1.81,150,919,114,771,9,8,1,0,0,6
+b1,B1 trajectory-only,baseline,Q0921,1,2,ok,ok,1.72,138,848,114,780,5,4,1,0,0,4
+b1,B1 trajectory-only,baseline,Q0926,1,2,ok,ok,2.63,156,963,115,776,10,10,0,0,0,8
+b1,B1 trajectory-only,baseline,Q1041,1,2,ok,ok,2.04,175,1112,112,786,7,6,1,0,0,6
+b1,B1 trajectory-only,baseline,Q0251,2,2,ok,ok,2.05,118,830,111,762,10,8,2,0,0,6
+b1,B1 trajectory-only,baseline,Q0256,2,2,ok,ok,2.39,142,920,114,792,11,8,1,2,0,4
+b1,B1 trajectory-only,baseline,Q0266,2,2,ok,ok,1.98,134,856,111,762,15,13,2,0,0,9
+b1,B1 trajectory-only,baseline,Q0281,2,2,ok,ok,2.03,131,805,113,771,20,16,4,0,0,9
+b1,B1 trajectory-only,baseline,Q0286,2,2,ok,ok,2.05,134,870,112,770,12,11,1,0,0,5
+b1,B1 trajectory-only,baseline,Q0381,3,2,ok,ok,1.96,158,1032,113,772,7,7,0,0,0,7
+b1,B1 trajectory-only,baseline,Q0386,3,2,ok,ok,2.49,197,1298,114,781,9,8,1,0,0,7
+b1,B1 trajectory-only,baseline,Q0391,3,2,ok,ok,3.22,170,1024,112,767,14,11,0,1,2,5
+b1,B1 trajectory-only,baseline,Q0396,3,2,ok,ok,2.22,146,892,112,759,3,3,0,0,0,3
+b1,B1 trajectory-only,baseline,Q0401,3,2,ok,ok,2.31,170,1054,114,787,8,7,1,0,0,5
+b1,B1 trajectory-only,baseline,Q0406,3,2,ok,ok,2.78,147,1011,111,762,12,9,2,1,0,7
+b1,B1 trajectory-only,baseline,Q0411,3,2,ok,ok,1.93,169,1052,114,768,5,5,0,0,0,5
+b1,B1 trajectory-only,baseline,Q0416,3,2,ok,ok,1.88,155,1013,115,788,7,6,1,0,0,5
+b1,B1 trajectory-only,baseline,Q1516,3,2,ok,ok,1.68,136,901,111,762,7,5,2,0,0,4
+b1,B1 trajectory-only,baseline,Q1521,3,2,ok,ok,2.26,175,1093,112,772,11,8,2,1,0,6
+b1,B1 trajectory-only,baseline,Q0506,4,2,ok,ok,1.87,130,849,111,782,10,10,0,0,0,9
+b1,B1 trajectory-only,baseline,Q0511,4,2,ok,ok,3.59,138,932,111,780,12,10,2,0,0,9
+b1,B1 trajectory-only,baseline,Q0516,4,2,ok,ok,1.94,139,849,110,770,13,13,0,0,0,7
+b1,B1 trajectory-only,baseline,Q0521,4,2,ok,ok,1.92,89,593,110,773,10,8,2,0,0,7
+b1,B1 trajectory-only,baseline,Q0531,4,2,ok,ok,3.71,138,910,111,781,9,8,1,0,0,8
+b1,B1 trajectory-only,baseline,Q1541,4,2,ok,ok,1.82,130,864,113,788,12,10,2,0,0,9
+b1,B1 trajectory-only,baseline,Q1546,4,2,ok,ok,1.87,122,802,111,776,10,10,0,0,0,9
+b1,B1 trajectory-only,baseline,Q0621,5,2,ok,ok,1.74,121,763,114,779,7,4,3,0,0,3
+b1,B1 trajectory-only,baseline,Q0626,5,2,ok,ok,1.88,138,839,114,778,4,3,0,1,0,2
+b1,B1 trajectory-only,baseline,Q0631,5,2,ok,ok,1.89,152,918,114,781,16,9,5,2,0,7
+b1,B1 trajectory-only,baseline,Q0636,5,2,ok,ok,1.79,144,855,114,776,7,6,1,0,0,6
+b1,B1 trajectory-only,baseline,Q0641,5,2,ok,ok,1.82,138,894,114,779,9,7,2,0,0,6
+b1,B1 trajectory-only,baseline,Q0646,5,2,ok,ok,2.1,112,697,113,768,5,3,2,0,0,2
+b1,B1 trajectory-only,baseline,Q0651,5,2,ok,ok,2.0,113,677,114,778,9,7,1,1,0,7
+b1,B1 trajectory-only,baseline,Q0656,5,2,ok,ok,3.79,127,805,115,780,8,5,2,1,0,4
+b1,B1 trajectory-only,baseline,Q1566,5,2,ok,ok,1.78,121,770,114,782,7,6,1,0,0,6
+b1,B1 trajectory-only,baseline,Q1051,12,2,ok,ok,2.03,146,975,109,749,17,13,3,1,0,11
+b1,B1 trajectory-only,baseline,Q1056,12,2,ok,ok,1.9,137,873,111,769,8,6,2,0,0,4
+b1,B1 trajectory-only,baseline,Q1061,12,2,ok,ok,2.04,155,1002,111,758,14,9,4,1,0,8
+b1,B1 trajectory-only,baseline,Q1066,12,2,ok,ok,1.94,140,900,111,761,13,10,3,0,0,10
+b1,B1 trajectory-only,baseline,Q1071,12,2,ok,ok,2.01,145,949,111,763,7,6,1,0,0,5
+b1,B1 trajectory-only,baseline,Q1081,12,2,ok,ok,2.44,147,974,109,752,15,11,2,2,0,9
+b1,B1 trajectory-only,baseline,Q1086,12,2,ok,ok,1.96,131,848,110,770,15,13,2,0,0,7
+b1,B1 trajectory-only,baseline,Q1091,12,2,ok,ok,1.82,141,879,113,774,8,6,2,0,0,5
+b1,B1 trajectory-only,baseline,Q1096,12,2,ok,ok,1.71,140,926,113,778,8,6,2,0,0,4
+b1,B1 trajectory-only,baseline,Q1101,12,2,ok,ok,4.27,141,878,112,765,9,7,2,0,0,6
+b1,B1 trajectory-only,baseline,Q1106,12,2,ok,ok,2.06,129,815,111,772,9,7,2,0,0,5
+b1,B1 trajectory-only,baseline,Q1116,12,2,ok,ok,2.38,170,1096,111,763,10,9,1,0,0,8
+b1,B1 trajectory-only,baseline,Q1121,12,2,ok,ok,1.62,127,799,111,765,7,5,2,0,0,4
+b1,B1 trajectory-only,baseline,Q1126,12,2,ok,ok,2.56,138,926,112,766,11,7,2,1,1,6
+b1,B1 trajectory-only,baseline,Q1131,12,2,ok,ok,2.11,146,910,112,772,13,10,2,1,0,6
+b1,B1 trajectory-only,baseline,Q1136,12,2,ok,ok,2.08,153,984,110,766,6,5,1,0,0,5
+b1,B1 trajectory-only,baseline,Q1141,12,2,ok,ok,2.27,169,1077,112,766,15,13,2,0,0,6
+b1,B1 trajectory-only,baseline,Q1146,12,2,ok,ok,1.75,125,814,111,773,10,6,2,1,1,6
+b1,B1 trajectory-only,baseline,Q1396,12,2,ok,ok,1.64,131,852,116,792,9,6,3,0,0,5
+b1,B1 trajectory-only,baseline,Q1576,12,2,ok,ok,1.84,144,923,112,769,8,6,2,0,0,5
+b1,B1 trajectory-only,baseline,Q1581,12,2,ok,ok,2.95,139,914,110,762,21,17,3,1,0,13
+b1,B1 trajectory-only,baseline,Q1586,12,2,ok,ok,2.05,137,892,111,761,13,9,2,2,0,7
+b1,B1 trajectory-only,baseline,Q1591,12,2,ok,ok,1.76,128,806,111,767,12,11,1,0,0,9
+b1,B1 trajectory-only,baseline,Q1596,12,2,ok,ok,2.34,139,956,111,777,9,9,0,0,0,7
+b1,B1 trajectory-only,baseline,Q1601,12,2,ok,ok,2.37,141,924,111,767,12,11,1,0,0,6
+b1,B1 trajectory-only,baseline,Q1606,12,2,ok,ok,2.43,132,835,110,759,6,3,1,0,2,3
+b1,B1 trajectory-only,baseline,Q1611,12,2,ok,ok,2.91,144,980,111,764,13,11,2,0,0,9
+b1,B1 trajectory-only,baseline,Q1616,12,2,ok,ok,1.86,138,873,111,772,11,6,3,0,2,5
+b1,B1 trajectory-only,baseline,Q1271,15,2,ok,ok,2.41,148,967,111,768,16,13,2,1,0,11
+b1,B1 trajectory-only,baseline,Q1276,15,2,ok,ok,1.94,134,909,113,779,9,7,2,0,0,6
+b1,B1 trajectory-only,baseline,Q1281,15,2,ok,ok,2.01,124,828,114,782,5,5,0,0,0,4
+b1,B1 trajectory-only,baseline,Q1286,15,2,ok,ok,1.86,128,807,113,771,4,4,0,0,0,4
+b1,B1 trajectory-only,baseline,Q1291,15,2,ok,ok,2.24,131,814,113,777,8,7,1,0,0,5
+b1,B1 trajectory-only,baseline,Q1296,15,2,ok,ok,3.79,114,761,113,784,7,5,2,0,0,4
+b1,B1 trajectory-only,baseline,Q1301,15,2,ok,ok,2.24,135,866,113,775,10,9,1,0,0,7
+b1,B1 trajectory-only,baseline,Q1306,15,2,ok,ok,1.7,121,755,114,783,5,5,0,0,0,5
+b1,B1 trajectory-only,baseline,Q1311,15,2,ok,ok,2.26,156,1053,114,793,12,10,2,0,0,7
+b1,B1 trajectory-only,baseline,Q1316,15,2,ok,ok,2.09,139,884,112,779,6,6,0,0,0,4
+b1,B1 trajectory-only,baseline,Q1321,15,2,ok,ok,1.75,117,787,114,779,15,6,7,0,2,6
+b1,B1 trajectory-only,baseline,Q1326,15,2,ok,ok,1.59,113,724,115,800,7,3,4,0,0,3
+b1,B1 trajectory-only,baseline,Q1331,15,2,ok,ok,1.87,144,917,114,782,11,7,2,0,2,6
+b1,B1 trajectory-only,baseline,Q1336,15,2,ok,ok,1.78,134,849,111,766,8,4,3,1,0,4
+b1,B1 trajectory-only,baseline,Q1341,15,2,ok,ok,1.56,131,894,117,810,6,4,2,0,0,3
+b1,B1 trajectory-only,baseline,Q1346,15,2,ok,ok,3.36,130,873,112,778,8,6,2,0,0,5
+b1,B1 trajectory-only,baseline,Q1351,15,2,ok,ok,2.91,137,898,113,773,7,5,1,1,0,5
+b1,B1 trajectory-only,baseline,Q1356,15,2,ok,ok,1.88,138,876,112,777,7,5,2,0,0,4
+b1,B1 trajectory-only,baseline,Q1361,15,2,ok,ok,2.0,127,873,114,790,10,8,2,0,0,7
+b1,B1 trajectory-only,baseline,Q1366,15,2,ok,ok,3.42,134,864,115,794,7,5,2,0,0,4
+b1,B1 trajectory-only,baseline,Q1621,15,2,ok,ok,1.96,122,830,113,777,7,6,1,0,0,6
+b1,B1 trajectory-only,baseline,Q1626,15,2,ok,ok,1.54,112,747,112,776,7,5,2,0,0,4
+b1,B1 trajectory-only,baseline,Q1631,15,2,ok,ok,1.54,106,725,115,783,8,5,1,1,1,4
+b1,B1 trajectory-only,baseline,Q1636,15,2,ok,ok,1.65,128,819,114,779,11,9,2,0,0,8
+b1,B1 trajectory-only,baseline,Q1641,15,2,ok,ok,1.57,116,799,111,774,8,5,3,0,0,5
+b1,B1 trajectory-only,baseline,Q1646,15,2,ok,ok,1.64,111,736,112,771,7,5,2,0,0,4
+b1,B1 trajectory-only,baseline,Q1651,15,2,ok,ok,1.86,144,919,112,771,10,8,1,1,0,6
+b1,B1 trajectory-only,baseline,Q1656,15,2,ok,ok,2.31,127,813,114,780,6,5,1,0,0,4
+b1,B1 trajectory-only,baseline,Q1661,15,2,ok,ok,1.77,119,850,114,785,8,5,2,0,1,5
+b1,B1 trajectory-only,baseline,Q1666,15,2,ok,ok,1.66,129,807,114,785,6,5,1,0,0,4
+b1,B1 trajectory-only,baseline,Q1231,26,2,ok,ok,2.05,157,995,117,799,11,8,1,1,1,7
+b1,B1 trajectory-only,baseline,Q1236,26,2,ok,ok,1.8,144,877,117,810,11,7,3,1,0,6
+b1,B1 trajectory-only,baseline,Q1241,26,2,ok,ok,1.9,156,989,117,799,7,7,0,0,0,7
+b1,B1 trajectory-only,baseline,Q1246,26,2,ok,ok,2.27,157,1008,116,790,8,6,2,0,0,6
+b1,B1 trajectory-only,baseline,Q1251,26,2,ok,ok,2.39,160,1020,117,816,7,5,2,0,0,3
+b1,B1 trajectory-only,baseline,Q1256,26,2,ok,ok,2.32,167,1036,118,805,6,6,0,0,0,5
+b1,B1 trajectory-only,baseline,Q1261,26,2,ok,ok,2.27,172,1040,117,797,11,9,1,1,0,6
+b1,B1 trajectory-only,baseline,Q1266,26,2,ok,ok,1.96,171,1054,116,798,8,8,0,0,0,7
+b1,B1 trajectory-only,baseline,Q1691,26,2,ok,ok,1.72,126,825,116,784,8,6,2,0,0,5
+b1,B1 trajectory-only,baseline,Q1696,26,2,ok,ok,1.58,101,657,115,791,10,8,2,0,0,8
+b1,B1 trajectory-only,baseline,Q1401,1,0,ok,ok,1.88,126,783,109,761,4,4,0,0,0,4
+b1,B1 trajectory-only,baseline,Q0421,4,0,ok,ok,2.03,128,842,110,770,10,9,1,0,0,7
+b1,B1 trajectory-only,baseline,Q0456,4,0,ok,ok,2.16,146,945,111,784,6,6,0,0,0,6
+b1,B1 trajectory-only,baseline,Q0356,3,1,ok,ok,2.86,160,1074,111,776,8,6,2,0,0,3
+b1,B1 trajectory-only,baseline,Q1411,3,1,ok,ok,1.88,159,1033,110,764,14,7,2,0,5,5
+b1,B1 trajectory-only,baseline,Q0261,2,2,ok,ok,1.83,138,937,112,770,10,8,1,1,0,8
+b1,B1 trajectory-only,baseline,Q0276,2,2,ok,ok,1.61,115,779,113,776,9,8,1,0,0,6
+b1,B1 trajectory-only,baseline,Q0296,2,2,ok,ok,1.88,154,1007,112,775,11,10,1,0,0,7
+b1,B1 trajectory-only,baseline,Q0501,4,2,ok,ok,2.04,145,886,111,782,19,16,2,1,0,10
+b1,B1 trajectory-only,baseline,Q0526,4,2,ok,ok,2.03,156,1039,111,791,10,9,1,0,0,9
+b1,B1 trajectory-only,baseline,Q0536,4,2,ok,ok,1.65,119,781,109,772,9,6,2,0,1,5
+b1,B1 trajectory-only,baseline,Q1571,5,2,ok,ok,1.62,117,699,114,778,6,5,1,0,0,4
+b1,B1 trajectory-only,baseline,Q1076,12,2,ok,ok,2.27,165,1060,113,772,13,12,1,0,0,11
+b1,B1 trajectory-only,baseline,Q0436,4,0,ok,ok,1.9,134,931,110,775,9,7,2,0,0,5
+b1,B1 trajectory-only,baseline,Q1391,5,0,ok,ok,1.87,124,802,108,750,10,8,2,0,0,7
+b1,B1 trajectory-only,baseline,Q0201,2,1,ok,ok,3.09,144,919,111,777,17,11,6,0,0,8
+b1,B1 trajectory-only,baseline,Q0206,2,1,ok,ok,1.65,128,871,112,781,8,7,0,1,0,5
+b1,B1 trajectory-only,baseline,Q0216,2,1,ok,ok,3.13,127,819,112,782,12,10,2,0,0,6
+b1,B1 trajectory-only,baseline,Q0226,2,1,ok,ok,2.19,153,997,116,803,13,11,1,0,1,8
+b1,B1 trajectory-only,baseline,Q0246,2,1,ok,ok,1.99,137,883,112,780,13,11,2,0,0,7
+b1,B1 trajectory-only,baseline,Q0481,4,1,ok,ok,1.89,133,883,109,778,13,10,2,0,1,9
+b1,B1 trajectory-only,baseline,Q0271,2,2,ok,ok,2.94,134,918,111,773,10,7,2,0,1,5
+b1,B1 trajectory-only,baseline,Q0291,2,2,ok,ok,1.75,124,802,113,784,13,11,2,0,0,5
+b1,B1 trajectory-only,baseline,Q1111,12,2,ok,ok,2.79,125,800,111,764,15,13,2,0,0,10
+b2,B2 trajectory + policy,baseline,Q0021,1,0,ok,ok,2.33,148,854,164,1118,8,6,1,1,0,6
+b2,B2 trajectory + policy,baseline,Q0036,1,0,ok,ok,3.91,165,966,164,1118,11,7,1,3,0,7
+b2,B2 trajectory + policy,baseline,Q0686,1,0,ok,ok,2.1,132,784,164,1126,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0701,1,0,ok,ok,2.58,174,1037,167,1144,9,7,2,0,0,7
+b2,B2 trajectory + policy,baseline,Q0811,1,0,ok,ok,2.07,167,1029,167,1131,7,5,0,2,0,5
+b2,B2 trajectory + policy,baseline,Q0931,1,0,ok,ok,4.1,192,1153,162,1113,16,9,3,2,2,9
+b2,B2 trajectory + policy,baseline,Q0941,1,0,ok,ok,2.41,175,1063,168,1143,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q0956,1,0,ok,ok,2.26,181,1124,162,1114,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0961,1,0,ok,ok,2.28,177,1044,165,1119,6,5,1,0,0,5
+b2,B2 trajectory + policy,baseline,Q0151,2,0,ok,ok,2.18,132,836,161,1108,7,3,4,0,0,3
+b2,B2 trajectory + policy,baseline,Q0156,2,0,ok,ok,3.55,135,868,163,1126,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q0161,2,0,ok,ok,1.64,118,751,162,1119,5,3,0,2,0,3
+b2,B2 trajectory + policy,baseline,Q0166,2,0,ok,ok,1.95,124,823,162,1119,11,9,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q0171,2,0,ok,ok,1.65,121,775,164,1127,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0176,2,0,ok,ok,1.66,118,752,163,1126,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0181,2,0,ok,ok,1.76,118,785,161,1112,9,3,6,0,0,3
+b2,B2 trajectory + policy,baseline,Q0186,2,0,ok,ok,1.69,107,684,162,1116,6,2,3,0,1,2
+b2,B2 trajectory + policy,baseline,Q0191,2,0,ok,ok,1.74,110,686,163,1118,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0196,2,0,ok,ok,1.89,116,770,165,1139,3,2,0,1,0,2
+b2,B2 trajectory + policy,baseline,Q0301,3,0,ok,ok,1.98,171,1097,165,1131,3,3,0,0,0,3
+b2,B2 trajectory + policy,baseline,Q0306,3,0,ok,ok,2.14,161,1014,163,1115,13,6,4,0,3,6
+b2,B2 trajectory + policy,baseline,Q0311,3,0,ok,ok,2.26,163,1028,164,1123,9,5,4,0,0,5
+b2,B2 trajectory + policy,baseline,Q0316,3,0,ok,ok,2.55,166,1098,163,1118,8,7,1,0,0,7
+b2,B2 trajectory + policy,baseline,Q0321,3,0,ok,ok,2.16,169,1053,164,1127,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0326,3,0,ok,ok,2.32,187,1162,164,1116,8,5,1,0,2,5
+b2,B2 trajectory + policy,baseline,Q0331,3,0,ok,ok,2.88,201,1308,164,1121,11,8,0,2,1,8
+b2,B2 trajectory + policy,baseline,Q0336,3,0,ok,ok,2.32,179,1147,161,1103,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q1506,3,0,ok,ok,2.47,205,1279,164,1113,3,3,0,0,0,3
+b2,B2 trajectory + policy,baseline,Q1511,3,0,ok,ok,4.17,205,1272,164,1121,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q0426,4,0,ok,ok,2.48,184,1152,164,1133,3,2,1,0,0,2
+b2,B2 trajectory + policy,baseline,Q0431,4,0,ok,ok,2.24,162,1031,164,1139,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q0441,4,0,ok,ok,1.96,151,953,167,1147,10,5,5,0,0,5
+b2,B2 trajectory + policy,baseline,Q0446,4,0,ok,ok,1.89,139,888,165,1138,6,4,1,1,0,4
+b2,B2 trajectory + policy,baseline,Q0451,4,0,ok,ok,2.09,134,881,162,1122,6,5,1,0,0,5
+b2,B2 trajectory + policy,baseline,Q1531,4,0,ok,ok,3.59,144,875,164,1136,4,2,2,0,0,2
+b2,B2 trajectory + policy,baseline,Q1536,4,0,ok,ok,2.06,154,1003,162,1123,8,5,2,1,0,5
+b2,B2 trajectory + policy,baseline,Q0541,5,0,ok,ok,2.37,148,928,165,1135,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q0546,5,0,ok,ok,1.6,124,768,166,1136,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0551,5,0,ok,ok,2.27,147,889,164,1128,6,4,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q0556,5,0,ok,ok,1.69,121,779,164,1123,7,7,0,0,0,7
+b2,B2 trajectory + policy,baseline,Q0561,5,0,ok,ok,1.81,148,910,167,1144,5,4,0,1,0,4
+b2,B2 trajectory + policy,baseline,Q0566,5,0,ok,ok,1.81,158,943,164,1127,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0571,5,0,ok,ok,2.07,149,909,165,1133,8,5,2,0,1,5
+b2,B2 trajectory + policy,baseline,Q0576,5,0,ok,ok,1.78,119,791,166,1131,5,2,1,1,1,2
+b2,B2 trajectory + policy,baseline,Q1561,5,0,ok,ok,1.63,130,805,164,1121,11,3,6,0,2,3
+b2,B2 trajectory + policy,baseline,Q1151,26,0,ok,ok,2.12,180,1072,169,1159,7,7,0,0,0,7
+b2,B2 trajectory + policy,baseline,Q1156,26,0,ok,ok,2.08,162,1013,170,1171,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q1161,26,0,ok,ok,2.21,163,1062,168,1163,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q1166,26,0,ok,ok,2.07,165,1059,168,1150,12,10,2,0,0,8
+b2,B2 trajectory + policy,baseline,Q1171,26,0,ok,ok,2.4,186,1158,168,1153,10,10,0,0,0,9
+b2,B2 trajectory + policy,baseline,Q1176,26,0,ok,ok,1.94,175,1055,170,1170,7,7,0,0,0,7
+b2,B2 trajectory + policy,baseline,Q1181,26,0,ok,ok,2.31,196,1140,169,1155,15,8,6,0,1,8
+b2,B2 trajectory + policy,baseline,Q1186,26,0,ok,ok,2.32,178,1033,169,1155,7,6,1,0,0,5
+b2,B2 trajectory + policy,baseline,Q1681,26,0,ok,ok,1.6,96,657,166,1135,5,4,0,1,0,3
+b2,B2 trajectory + policy,baseline,Q1686,26,0,ok,ok,1.42,78,506,167,1140,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q0071,1,1,ok,ok,2.14,167,1011,167,1144,7,5,1,1,0,5
+b2,B2 trajectory + policy,baseline,Q0076,1,1,ok,ok,2.4,210,1248,170,1165,13,8,2,2,1,7
+b2,B2 trajectory + policy,baseline,Q0096,1,1,ok,ok,1.86,149,903,164,1129,6,5,0,0,1,5
+b2,B2 trajectory + policy,baseline,Q0721,1,1,ok,ok,2.32,197,1183,169,1158,14,7,4,2,1,7
+b2,B2 trajectory + policy,baseline,Q0851,1,1,ok,ok,2.32,176,1089,168,1146,10,8,1,1,0,8
+b2,B2 trajectory + policy,baseline,Q0861,1,1,ok,ok,1.9,154,934,167,1144,9,5,0,2,2,5
+b2,B2 trajectory + policy,baseline,Q0871,1,1,ok,ok,1.91,170,986,168,1145,11,8,2,1,0,7
+b2,B2 trajectory + policy,baseline,Q0881,1,1,ok,ok,1.93,140,836,164,1132,8,8,0,0,0,8
+b2,B2 trajectory + policy,baseline,Q0886,1,1,ok,ok,1.86,112,698,168,1151,10,7,2,1,0,7
+b2,B2 trajectory + policy,baseline,Q0976,1,1,ok,ok,4.03,178,1125,168,1158,10,8,0,1,1,7
+b2,B2 trajectory + policy,baseline,Q0211,2,1,ok,ok,1.82,145,922,164,1135,5,4,1,0,0,3
+b2,B2 trajectory + policy,baseline,Q0221,2,1,ok,ok,1.78,145,922,166,1145,5,4,1,0,0,4
+b2,B2 trajectory + policy,baseline,Q0231,2,1,ok,ok,1.8,139,886,163,1133,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q0236,2,1,ok,ok,1.71,140,940,166,1152,9,8,1,0,0,8
+b2,B2 trajectory + policy,baseline,Q0241,2,1,ok,ok,1.64,135,862,168,1165,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0341,3,1,ok,ok,2.29,181,1152,166,1146,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q0346,3,1,ok,ok,2.23,184,1192,167,1150,7,7,0,0,0,7
+b2,B2 trajectory + policy,baseline,Q0351,3,1,ok,ok,2.37,164,1066,169,1150,10,4,3,0,3,4
+b2,B2 trajectory + policy,baseline,Q0361,3,1,ok,ok,3.12,212,1346,165,1138,8,8,0,0,0,8
+b2,B2 trajectory + policy,baseline,Q0366,3,1,ok,ok,4.34,208,1375,167,1149,8,5,1,0,2,4
+b2,B2 trajectory + policy,baseline,Q0371,3,1,ok,ok,2.43,169,1057,167,1140,10,4,5,1,0,4
+b2,B2 trajectory + policy,baseline,Q0376,3,1,ok,ok,2.45,205,1298,167,1145,7,7,0,0,0,7
+b2,B2 trajectory + policy,baseline,Q1501,3,1,ok,ok,2.47,219,1358,167,1148,9,8,1,0,0,7
+b2,B2 trajectory + policy,baseline,Q0461,4,1,ok,ok,1.79,135,835,164,1148,6,4,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q0466,4,1,ok,ok,1.95,144,971,166,1158,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0471,4,1,ok,ok,2.0,143,931,165,1150,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0476,4,1,ok,ok,1.78,152,980,165,1151,7,4,3,0,0,4
+b2,B2 trajectory + policy,baseline,Q0486,4,1,ok,ok,2.06,154,979,162,1136,8,4,3,1,0,3
+b2,B2 trajectory + policy,baseline,Q0491,4,1,ok,ok,2.13,158,1058,162,1143,14,12,2,0,0,12
+b2,B2 trajectory + policy,baseline,Q0496,4,1,ok,ok,1.64,127,847,164,1147,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q1386,4,1,ok,ok,1.98,151,967,164,1146,4,3,1,0,0,3
+b2,B2 trajectory + policy,baseline,Q1526,4,1,ok,ok,2.28,111,749,165,1144,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0581,5,1,ok,ok,2.05,158,963,167,1153,10,6,3,1,0,5
+b2,B2 trajectory + policy,baseline,Q0586,5,1,ok,ok,2.08,161,1008,167,1149,8,6,2,0,0,6
+b2,B2 trajectory + policy,baseline,Q0591,5,1,ok,ok,1.71,115,716,166,1140,3,3,0,0,0,3
+b2,B2 trajectory + policy,baseline,Q0596,5,1,ok,ok,1.94,141,833,164,1141,7,7,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q0601,5,1,ok,ok,2.03,138,864,168,1162,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q0606,5,1,ok,ok,1.79,139,857,166,1142,6,6,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0611,5,1,ok,ok,2.0,159,989,166,1139,3,3,0,0,0,3
+b2,B2 trajectory + policy,baseline,Q0616,5,1,ok,ok,1.65,137,818,167,1150,7,4,3,0,0,4
+b2,B2 trajectory + policy,baseline,Q1551,5,1,ok,ok,3.03,144,893,168,1167,4,3,1,0,0,3
+b2,B2 trajectory + policy,baseline,Q1556,5,1,ok,ok,2.42,157,958,169,1163,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q1191,26,1,ok,ok,1.87,165,984,170,1170,16,11,0,0,5,9
+b2,B2 trajectory + policy,baseline,Q1196,26,1,ok,ok,1.98,171,1105,170,1171,11,10,1,0,0,9
+b2,B2 trajectory + policy,baseline,Q1201,26,1,ok,ok,2.46,189,1160,173,1184,9,3,6,0,0,3
+b2,B2 trajectory + policy,baseline,Q1206,26,1,ok,ok,1.99,160,997,171,1180,5,5,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q1211,26,1,ok,ok,1.99,157,1051,168,1168,9,9,0,0,0,9
+b2,B2 trajectory + policy,baseline,Q1216,26,1,ok,ok,2.09,163,1026,171,1176,8,7,1,0,0,6
+b2,B2 trajectory + policy,baseline,Q1221,26,1,ok,ok,2.11,156,945,170,1167,11,8,0,2,1,7
+b2,B2 trajectory + policy,baseline,Q1226,26,1,ok,ok,2.15,183,1104,171,1181,6,6,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q1671,26,1,ok,ok,16.28,96,649,170,1175,6,5,1,0,0,5
+b2,B2 trajectory + policy,baseline,Q1676,26,1,ok,ok,1.67,103,680,170,1167,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0101,1,2,ok,ok,1.98,154,932,167,1134,6,5,1,0,0,5
+b2,B2 trajectory + policy,baseline,Q0111,1,2,ok,ok,4.38,187,1098,166,1132,10,5,3,1,1,5
+b2,B2 trajectory + policy,baseline,Q0766,1,2,ok,ok,2.68,191,1073,168,1137,7,7,0,0,0,7
+b2,B2 trajectory + policy,baseline,Q0786,1,2,ok,ok,2.24,192,1124,168,1142,11,7,1,0,3,7
+b2,B2 trajectory + policy,baseline,Q0896,1,2,ok,ok,1.8,131,803,165,1127,13,7,3,3,0,7
+b2,B2 trajectory + policy,baseline,Q0911,1,2,ok,ok,2.13,151,873,167,1131,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q0916,1,2,ok,ok,1.76,136,821,167,1131,9,6,0,3,0,6
+b2,B2 trajectory + policy,baseline,Q0921,1,2,ok,ok,1.89,149,885,167,1139,6,6,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q0926,1,2,ok,ok,1.97,150,981,168,1137,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q1041,1,2,ok,ok,2.29,187,1172,165,1148,10,9,0,1,0,9
+b2,B2 trajectory + policy,baseline,Q0251,2,2,ok,ok,1.6,123,758,164,1122,6,3,3,0,0,3
+b2,B2 trajectory + policy,baseline,Q0256,2,2,ok,ok,5.02,146,929,167,1149,7,2,3,2,0,2
+b2,B2 trajectory + policy,baseline,Q0266,2,2,ok,ok,1.7,127,803,164,1122,7,3,3,1,0,3
+b2,B2 trajectory + policy,baseline,Q0281,2,2,ok,ok,2.16,142,891,166,1131,9,6,1,2,0,6
+b2,B2 trajectory + policy,baseline,Q0286,2,2,ok,ok,3.64,137,890,165,1129,7,4,3,0,0,4
+b2,B2 trajectory + policy,baseline,Q0381,3,2,ok,ok,4.31,222,1368,166,1132,13,8,1,0,4,8
+b2,B2 trajectory + policy,baseline,Q0386,3,2,ok,ok,2.33,195,1213,167,1138,9,7,2,0,0,6
+b2,B2 trajectory + policy,baseline,Q0391,3,2,ok,ok,2.07,178,1068,165,1126,6,6,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q0396,3,2,ok,ok,2.33,171,1117,165,1119,10,6,1,1,2,6
+b2,B2 trajectory + policy,baseline,Q0401,3,2,ok,ok,2.3,209,1372,167,1144,14,6,3,0,5,5
+b2,B2 trajectory + policy,baseline,Q0406,3,2,ok,ok,2.34,195,1206,164,1121,7,7,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q0411,3,2,ok,ok,2.28,187,1159,167,1128,8,8,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q0416,3,2,ok,ok,2.33,196,1260,168,1147,7,6,1,0,0,6
+b2,B2 trajectory + policy,baseline,Q1516,3,2,ok,ok,3.77,151,959,164,1123,8,6,1,1,0,5
+b2,B2 trajectory + policy,baseline,Q1521,3,2,ok,ok,2.86,196,1227,165,1134,11,7,2,1,1,6
+b2,B2 trajectory + policy,baseline,Q0506,4,2,ok,ok,2.36,159,1073,164,1140,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q0511,4,2,ok,ok,1.79,143,907,164,1138,9,0,9,0,0,0
+b2,B2 trajectory + policy,baseline,Q0516,4,2,ok,ok,3.09,162,975,163,1128,8,7,0,1,0,6
+b2,B2 trajectory + policy,baseline,Q0521,4,2,ok,ok,1.34,88,614,163,1131,2,0,2,0,0,0
+b2,B2 trajectory + policy,baseline,Q0531,4,2,ok,ok,1.85,147,986,164,1139,7,6,1,0,0,6
+b2,B2 trajectory + policy,baseline,Q1541,4,2,ok,ok,3.12,127,814,166,1146,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q1546,4,2,ok,ok,1.68,120,765,164,1134,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0621,5,2,ok,ok,1.73,134,848,167,1139,6,6,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q0626,5,2,ok,ok,1.84,151,902,167,1135,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0631,5,2,ok,ok,1.8,145,935,167,1140,6,6,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0636,5,2,ok,ok,1.73,124,807,167,1136,6,3,1,2,0,3
+b2,B2 trajectory + policy,baseline,Q0641,5,2,ok,ok,1.71,130,787,167,1136,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q0646,5,2,ok,ok,1.97,152,906,166,1127,7,4,2,1,0,4
+b2,B2 trajectory + policy,baseline,Q0651,5,2,ok,ok,2.48,148,904,167,1138,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q0656,5,2,ok,ok,2.17,160,936,168,1139,3,3,0,0,0,3
+b2,B2 trajectory + policy,baseline,Q1566,5,2,ok,ok,1.85,123,829,167,1143,4,2,2,0,0,2
+b2,B2 trajectory + policy,baseline,Q1051,12,2,ok,ok,2.23,165,1027,162,1109,9,5,2,0,2,5
+b2,B2 trajectory + policy,baseline,Q1056,12,2,ok,ok,4.04,160,987,164,1126,7,3,3,0,1,3
+b2,B2 trajectory + policy,baseline,Q1061,12,2,ok,ok,1.83,155,956,164,1117,5,2,2,1,0,2
+b2,B2 trajectory + policy,baseline,Q1066,12,2,ok,ok,3.83,157,961,164,1121,8,6,1,1,0,6
+b2,B2 trajectory + policy,baseline,Q1071,12,2,ok,ok,2.15,161,1015,164,1120,7,5,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q1081,12,2,ok,ok,2.5,165,1040,162,1112,9,5,2,1,1,5
+b2,B2 trajectory + policy,baseline,Q1086,12,2,ok,ok,2.91,178,1158,163,1129,8,8,0,0,0,7
+b2,B2 trajectory + policy,baseline,Q1091,12,2,ok,ok,3.1,167,1001,166,1135,6,4,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q1096,12,2,ok,ok,4.35,141,887,166,1140,8,4,3,0,1,4
+b2,B2 trajectory + policy,baseline,Q1101,12,2,ok,ok,2.11,168,1016,165,1125,9,6,2,0,1,6
+b2,B2 trajectory + policy,baseline,Q1106,12,2,ok,ok,1.9,141,908,164,1129,6,4,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q1116,12,2,ok,ok,2.21,196,1268,164,1123,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q1121,12,2,ok,ok,1.96,155,926,164,1122,8,6,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q1126,12,2,ok,ok,1.79,138,890,165,1125,9,5,2,2,0,5
+b2,B2 trajectory + policy,baseline,Q1131,12,2,ok,ok,2.2,146,905,165,1132,7,6,1,0,0,6
+b2,B2 trajectory + policy,baseline,Q1136,12,2,ok,ok,1.88,153,1031,163,1125,12,8,4,0,0,7
+b2,B2 trajectory + policy,baseline,Q1141,12,2,ok,ok,1.95,146,874,165,1127,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q1146,12,2,ok,ok,2.3,172,1107,164,1135,9,6,2,0,1,6
+b2,B2 trajectory + policy,baseline,Q1396,12,2,ok,ok,1.75,146,943,169,1152,6,6,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q1576,12,2,ok,ok,1.93,149,946,165,1126,6,4,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q1581,12,2,ok,ok,2.33,169,1036,163,1121,7,5,1,1,0,5
+b2,B2 trajectory + policy,baseline,Q1586,12,2,ok,ok,1.97,139,881,164,1121,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q1591,12,2,ok,ok,1.75,139,902,164,1124,4,2,2,0,0,2
+b2,B2 trajectory + policy,baseline,Q1596,12,2,ok,ok,2.21,172,1113,164,1136,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q1601,12,2,ok,ok,2.04,146,916,164,1127,6,4,1,0,1,4
+b2,B2 trajectory + policy,baseline,Q1606,12,2,ok,ok,4.06,141,904,163,1118,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q1611,12,2,ok,ok,1.84,169,1003,164,1125,7,3,1,0,3,3
+b2,B2 trajectory + policy,baseline,Q1616,12,2,ok,ok,2.92,160,994,164,1134,7,6,1,0,0,6
+b2,B2 trajectory + policy,baseline,Q1271,15,2,ok,ok,4.67,212,1336,164,1128,10,6,2,0,2,6
+b2,B2 trajectory + policy,baseline,Q1276,15,2,ok,ok,3.15,135,845,166,1136,2,2,0,0,0,2
+b2,B2 trajectory + policy,baseline,Q1281,15,2,ok,ok,2.01,138,903,167,1141,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q1286,15,2,ok,ok,2.05,160,965,166,1131,8,5,3,0,0,5
+b2,B2 trajectory + policy,baseline,Q1291,15,2,ok,ok,1.76,115,732,166,1134,5,4,1,0,0,4
+b2,B2 trajectory + policy,baseline,Q1296,15,2,ok,ok,3.39,145,942,166,1143,5,4,1,0,0,4
+b2,B2 trajectory + policy,baseline,Q1301,15,2,ok,ok,2.51,149,941,166,1135,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q1306,15,2,ok,ok,2.36,192,1229,167,1142,7,6,1,0,0,6
+b2,B2 trajectory + policy,baseline,Q1311,15,2,ok,ok,1.94,154,926,167,1154,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q1316,15,2,ok,ok,1.92,155,963,165,1141,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q1321,15,2,ok,ok,1.95,138,869,167,1139,7,5,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q1326,15,2,ok,ok,1.89,139,852,168,1157,6,6,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q1331,15,2,ok,ok,2.2,147,955,167,1141,9,6,3,0,0,5
+b2,B2 trajectory + policy,baseline,Q1336,15,2,ok,ok,3.01,199,1331,164,1126,8,8,0,0,0,8
+b2,B2 trajectory + policy,baseline,Q1341,15,2,ok,ok,1.96,119,782,170,1167,6,4,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q1346,15,2,ok,ok,2.18,148,965,165,1137,6,4,1,0,1,4
+b2,B2 trajectory + policy,baseline,Q1351,15,2,ok,ok,2.11,133,865,166,1133,6,6,0,0,0,6
+b2,B2 trajectory + policy,baseline,Q1356,15,2,ok,ok,2.44,185,1183,165,1136,9,8,1,0,0,7
+b2,B2 trajectory + policy,baseline,Q1361,15,2,ok,ok,1.9,148,988,167,1151,7,5,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q1366,15,2,ok,ok,2.6,157,970,168,1156,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q1621,15,2,ok,ok,2.01,150,1011,166,1137,9,5,2,1,1,5
+b2,B2 trajectory + policy,baseline,Q1626,15,2,ok,ok,1.79,137,853,165,1133,6,4,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q1631,15,2,ok,ok,2.11,144,975,168,1142,4,2,2,0,0,2
+b2,B2 trajectory + policy,baseline,Q1636,15,2,ok,ok,1.91,147,954,167,1139,9,7,2,0,0,7
+b2,B2 trajectory + policy,baseline,Q1641,15,2,ok,ok,2.04,150,950,164,1131,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q1646,15,2,ok,ok,3.84,132,891,165,1130,8,5,2,0,1,4
+b2,B2 trajectory + policy,baseline,Q1651,15,2,ok,ok,2.0,167,1014,165,1131,7,6,0,1,0,6
+b2,B2 trajectory + policy,baseline,Q1656,15,2,ok,ok,3.08,138,858,167,1139,3,3,0,0,0,3
+b2,B2 trajectory + policy,baseline,Q1661,15,2,ok,ok,2.39,152,966,167,1146,10,6,2,0,2,6
+b2,B2 trajectory + policy,baseline,Q1666,15,2,ok,ok,1.77,144,902,167,1147,6,4,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q1231,26,2,ok,ok,2.18,158,1035,170,1159,9,6,2,0,1,6
+b2,B2 trajectory + policy,baseline,Q1236,26,2,ok,ok,2.29,177,1135,170,1167,9,7,2,0,0,6
+b2,B2 trajectory + policy,baseline,Q1241,26,2,ok,ok,2.12,147,943,170,1158,13,10,0,0,3,9
+b2,B2 trajectory + policy,baseline,Q1246,26,2,ok,ok,2.68,162,1060,169,1150,12,12,0,0,0,11
+b2,B2 trajectory + policy,baseline,Q1251,26,2,ok,ok,3.87,170,1048,170,1173,8,6,2,0,0,5
+b2,B2 trajectory + policy,baseline,Q1256,26,2,ok,ok,2.26,165,1056,171,1164,13,10,2,0,1,9
+b2,B2 trajectory + policy,baseline,Q1261,26,2,ok,ok,2.19,168,1032,170,1157,15,12,0,1,2,10
+b2,B2 trajectory + policy,baseline,Q1266,26,2,ok,ok,2.11,183,1185,169,1157,12,9,0,0,3,8
+b2,B2 trajectory + policy,baseline,Q1691,26,2,ok,ok,1.93,141,780,169,1145,6,4,2,0,0,4
+b2,B2 trajectory + policy,baseline,Q1696,26,2,ok,ok,2.1,105,703,168,1153,8,5,2,1,0,5
+b2,B2 trajectory + policy,baseline,Q1401,1,0,ok,ok,2.06,161,1034,162,1119,15,2,9,2,2,2
+b2,B2 trajectory + policy,baseline,Q0421,4,0,ok,ok,2.06,123,789,163,1128,8,5,3,0,0,5
+b2,B2 trajectory + policy,baseline,Q0456,4,0,ok,ok,2.64,146,905,164,1142,7,4,3,0,0,4
+b2,B2 trajectory + policy,baseline,Q0356,3,1,ok,ok,4.4,185,1162,164,1135,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q1411,3,1,ok,ok,2.03,159,971,163,1127,4,3,1,0,0,3
+b2,B2 trajectory + policy,baseline,Q0261,2,2,ok,ok,1.57,123,759,165,1129,5,2,2,0,1,2
+b2,B2 trajectory + policy,baseline,Q0276,2,2,ok,ok,1.76,125,784,166,1135,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0296,2,2,ok,ok,2.03,131,841,165,1137,10,4,4,2,0,4
+b2,B2 trajectory + policy,baseline,Q0501,4,2,ok,ok,1.66,126,815,164,1140,6,2,3,1,0,2
+b2,B2 trajectory + policy,baseline,Q0526,4,2,ok,ok,2.08,143,937,164,1149,6,4,1,1,0,3
+b2,B2 trajectory + policy,baseline,Q0536,4,2,ok,ok,2.0,143,908,162,1130,14,12,2,0,0,11
+b2,B2 trajectory + policy,baseline,Q1571,5,2,ok,ok,2.24,168,996,167,1140,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q1076,12,2,ok,ok,2.13,158,1012,166,1131,8,7,1,0,0,6
+b2,B2 trajectory + policy,baseline,Q0436,4,0,ok,ok,1.98,118,785,163,1133,5,5,0,0,0,5
+b2,B2 trajectory + policy,baseline,Q1391,5,0,ok,ok,2.06,144,915,161,1107,4,4,0,0,0,4
+b2,B2 trajectory + policy,baseline,Q0201,2,1,ok,ok,2.03,142,900,164,1136,8,5,3,0,0,5
+b2,B2 trajectory + policy,baseline,Q0206,2,1,ok,ok,2.08,161,979,165,1140,8,5,3,0,0,5
+b2,B2 trajectory + policy,baseline,Q0216,2,1,ok,ok,2.84,130,854,165,1141,6,3,3,0,0,3
+b2,B2 trajectory + policy,baseline,Q0226,2,1,ok,ok,1.92,143,901,169,1162,8,7,1,0,0,7
+b2,B2 trajectory + policy,baseline,Q0246,2,1,ok,ok,1.93,142,932,165,1142,6,3,2,0,1,3
+b2,B2 trajectory + policy,baseline,Q0481,4,1,ok,ok,1.74,129,868,162,1136,5,3,2,0,0,3
+b2,B2 trajectory + policy,baseline,Q0271,2,2,ok,ok,4.2,132,824,164,1130,4,2,2,0,0,2
+b2,B2 trajectory + policy,baseline,Q0291,2,2,ok,ok,1.79,145,876,166,1145,6,1,5,0,0,1
+b2,B2 trajectory + policy,baseline,Q1111,12,2,ok,ok,2.06,146,958,164,1123,9,7,1,1,0,7
+b4,B4/A1 single-snapshot,baseline_ablation,Q0021,1,0,ok,ok,4.73,160,1020,119,929,10,5,0,1,4,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q0036,1,0,ok,ok,4.01,174,1043,119,929,11,6,3,0,2,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q0686,1,0,ok,ok,4.12,183,1151,162,1105,6,5,0,0,1,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q0701,1,0,ok,ok,4.08,197,1152,165,1123,7,7,0,0,0,7
+b4,B4/A1 single-snapshot,baseline_ablation,Q0811,1,0,ok,ok,2.31,130,753,122,937,5,0,3,2,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0931,1,0,ok,ok,2.63,182,1094,160,1093,6,5,1,0,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q0941,1,0,ok,ok,3.1,198,1208,165,1115,12,6,0,3,3,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q0956,1,0,ok,ok,3.58,174,1053,160,1097,10,0,8,0,2,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0961,1,0,ok,ok,2.68,190,1137,517,3462,9,3,5,1,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0151,2,0,ok,ok,3.96,131,776,130,877,6,5,1,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0156,2,0,ok,ok,2.16,136,855,132,895,4,3,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0161,2,0,ok,ok,2.32,114,689,131,884,7,2,4,0,1,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0166,2,0,ok,ok,2.12,123,736,131,881,6,4,2,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0171,2,0,ok,ok,1.94,127,753,440,2953,5,3,2,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0176,2,0,ok,ok,2.08,108,634,132,887,9,2,5,2,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0181,2,0,ok,ok,2.3,150,837,113,763,4,2,1,1,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0186,2,0,ok,ok,2.36,163,980,131,881,9,0,6,3,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0191,2,0,ok,ok,1.97,122,743,439,2946,4,3,1,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0196,2,0,ok,ok,1.92,118,748,441,2967,4,1,3,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0301,3,0,ok,ok,1.96,137,857,44,316,3,1,1,0,1,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0306,3,0,ok,ok,2.13,131,881,42,300,3,1,0,0,2,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0311,3,0,ok,ok,1.96,117,758,43,304,4,2,0,0,2,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0316,3,0,ok,ok,1.6,97,658,42,303,4,1,1,0,2,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0321,3,0,ok,ok,1.94,112,708,43,312,8,3,1,0,4,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0326,3,0,ok,ok,2.19,143,888,43,300,2,1,0,0,1,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0331,3,0,ok,ok,2.9,164,988,43,304,2,2,0,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0336,3,0,ok,ok,1.69,108,665,40,291,2,1,0,0,1,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1506,3,0,ok,ok,2.06,130,833,43,300,6,1,3,1,1,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1511,3,0,ok,ok,3.57,118,725,43,308,5,1,2,0,2,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0426,4,0,ok,ok,2.16,130,785,33,263,2,0,2,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0431,4,0,ok,ok,2.97,150,992,33,269,3,0,1,1,1,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0441,4,0,ok,ok,2.33,141,861,36,277,1,0,1,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0446,4,0,ok,ok,1.98,143,901,34,268,0,0,0,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0451,4,0,ok,ok,1.81,122,752,31,252,2,0,2,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1531,4,0,ok,ok,2.96,133,833,33,266,2,0,2,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1536,4,0,ok,ok,2.44,124,841,31,253,2,0,2,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0541,5,0,ok,ok,2.31,112,726,206,1411,4,2,2,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0546,5,0,ok,ok,2.01,123,763,207,1412,6,2,4,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0551,5,0,ok,ok,2.02,130,800,205,1400,4,2,2,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0556,5,0,ok,ok,2.63,106,681,205,1395,4,2,2,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0561,5,0,ok,ok,2.6,136,839,208,1416,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0566,5,0,ok,ok,2.06,128,844,205,1398,7,0,7,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0571,5,0,ok,ok,1.91,129,828,206,1403,5,0,3,2,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0576,5,0,ok,ok,1.89,137,869,207,1406,4,3,1,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1561,5,0,ok,ok,1.73,122,743,205,1395,2,1,1,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1151,26,0,ok,ok,3.06,173,1060,138,972,8,5,0,2,1,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q1156,26,0,ok,ok,2.66,190,1148,139,984,6,2,2,0,2,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1161,26,0,ok,ok,3.07,198,1213,137,969,5,5,0,0,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q1166,26,0,ok,ok,2.57,166,1017,137,956,8,6,1,1,0,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q1171,26,0,ok,ok,2.96,204,1211,137,959,8,4,4,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1176,26,0,ok,ok,2.37,176,1049,139,977,8,4,3,1,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1181,26,0,ok,ok,2.7,210,1168,96,775,9,4,1,4,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1186,26,0,ok,ok,2.45,132,812,138,965,4,2,0,2,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1681,26,0,ok,ok,1.53,78,488,135,944,3,2,0,1,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1686,26,0,ok,ok,2.38,113,705,94,764,3,3,0,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0071,1,1,ok,ok,2.6,190,1116,121,960,8,6,0,0,2,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q0076,1,1,ok,ok,4.21,207,1241,122,974,6,2,2,1,1,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0096,1,1,ok,ok,2.61,173,1056,119,933,6,6,0,0,0,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q0721,1,1,ok,ok,2.32,162,973,113,890,6,2,4,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0851,1,1,ok,ok,2.27,122,712,120,955,12,5,5,2,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q0861,1,1,ok,ok,2.62,147,904,122,948,8,4,2,2,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0871,1,1,ok,ok,3.14,134,784,122,964,12,5,5,2,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0881,1,1,ok,ok,2.5,136,834,118,951,13,9,2,2,0,8
+b4,B4/A1 single-snapshot,baseline_ablation,Q0886,1,1,ok,ok,3.21,149,888,122,962,5,5,0,0,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q0976,1,1,ok,ok,4.15,184,1121,166,1155,11,0,5,4,2,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0211,2,1,ok,ok,2.26,113,719,115,800,6,3,3,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0221,2,1,ok,ok,4.32,181,1095,135,914,10,4,5,1,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0231,2,1,ok,ok,2.02,128,794,132,911,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0236,2,1,ok,ok,2.4,169,1023,132,935,4,1,1,2,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0241,2,1,ok,ok,2.5,169,1011,133,917,6,2,4,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0341,3,1,ok,ok,2.58,160,1061,45,322,7,0,1,0,6,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0346,3,1,ok,ok,1.89,111,711,46,326,3,0,3,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0351,3,1,ok,ok,2.31,154,959,48,326,0,0,0,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0361,3,1,ok,ok,1.73,104,624,44,314,3,1,2,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0366,3,1,ok,ok,1.56,89,549,46,325,1,0,1,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0371,3,1,ok,ok,1.87,115,707,46,319,4,1,0,0,3,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0376,3,1,ok,ok,2.24,133,850,46,324,1,1,0,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1501,3,1,ok,ok,1.76,112,698,46,324,2,1,0,0,1,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0461,4,1,ok,ok,1.83,113,704,33,269,2,0,2,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0466,4,1,ok,ok,2.23,134,845,35,279,3,0,3,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0471,4,1,ok,ok,1.71,116,733,34,271,3,0,2,0,1,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0476,4,1,ok,ok,1.98,128,839,34,272,2,0,2,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0486,4,1,ok,ok,2.25,137,836,31,257,1,0,1,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0491,4,1,ok,ok,2.39,104,670,31,264,3,0,1,0,2,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0496,4,1,ok,ok,2.21,90,566,33,268,1,0,1,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1386,4,1,ok,ok,2.1,72,467,33,267,2,0,2,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1526,4,1,ok,ok,1.94,116,673,34,265,0,0,0,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0581,5,1,ok,ok,2.2,143,878,208,1443,5,2,3,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0586,5,1,ok,ok,1.99,142,834,208,1425,2,1,1,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0591,5,1,ok,ok,3.15,101,601,98,669,2,1,1,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0596,5,1,ok,ok,2.06,135,821,205,1431,5,3,2,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0601,5,1,ok,ok,2.91,148,929,209,1438,4,2,2,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0606,5,1,ok,ok,1.97,117,716,98,671,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0611,5,1,ok,ok,2.77,128,808,207,1424,4,3,1,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0616,5,1,ok,ok,6.09,137,821,113,777,4,3,1,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1551,5,1,ok,ok,2.0,130,834,114,783,7,4,3,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1556,5,1,ok,ok,3.84,177,1136,210,1449,9,5,4,0,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q1191,26,1,ok,ok,2.59,202,1226,139,996,6,6,0,0,0,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q1196,26,1,ok,ok,2.35,177,1120,139,987,6,4,1,1,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1201,26,1,ok,ok,2.18,180,1055,142,1007,6,1,5,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1206,26,1,ok,ok,2.94,195,1179,140,1006,12,10,1,1,0,10
+b4,B4/A1 single-snapshot,baseline_ablation,Q1211,26,1,ok,ok,3.23,188,1163,137,984,10,6,4,0,0,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q1216,26,1,ok,ok,2.06,171,1070,140,999,5,5,0,0,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q1221,26,1,ok,ok,2.83,196,1193,139,990,12,5,7,0,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q1226,26,1,ok,ok,2.72,201,1174,140,1007,4,3,1,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1671,26,1,ok,ok,2.64,67,397,139,992,3,3,0,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1676,26,1,ok,ok,1.45,74,471,139,991,4,3,0,1,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0101,1,2,ok,ok,2.61,168,1026,121,964,3,3,0,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0111,1,2,ok,ok,3.88,181,1092,110,868,4,4,0,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0766,1,2,ok,ok,2.97,184,1065,122,968,6,4,2,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0786,1,2,ok,ok,3.12,173,1018,122,972,10,1,5,2,2,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0896,1,2,ok,ok,3.19,148,869,109,863,10,4,2,4,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0911,1,2,ok,ok,2.41,144,817,121,962,10,0,3,4,3,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0916,1,2,ok,ok,2.39,138,817,120,951,5,2,2,0,1,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0921,1,2,ok,ok,1.83,115,743,121,970,8,6,2,0,0,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q0926,1,2,ok,ok,2.55,147,868,112,879,6,4,0,2,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1041,1,2,ok,ok,1.98,169,1061,145,1055,5,0,2,0,3,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0251,2,2,ok,ok,2.52,174,1044,133,914,9,4,5,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0256,2,2,ok,ok,3.31,181,1086,443,3002,6,4,1,1,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0266,2,2,ok,ok,2.11,131,774,133,914,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0281,2,2,ok,ok,1.84,168,999,135,930,5,4,1,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0286,2,2,ok,ok,2.27,140,866,134,927,6,0,6,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0381,3,2,ok,ok,2.02,126,810,45,321,7,0,4,1,2,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0386,3,2,ok,ok,2.07,144,919,46,323,2,2,0,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0391,3,2,ok,ok,2.31,164,1053,44,316,4,1,2,0,1,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0396,3,2,ok,ok,2.42,122,715,44,308,6,4,1,0,1,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0401,3,2,ok,ok,2.24,149,988,46,329,8,5,1,2,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0406,3,2,ok,ok,1.93,136,849,43,311,4,2,1,0,1,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0411,3,2,ok,ok,2.26,132,783,46,317,4,4,0,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0416,3,2,ok,ok,1.97,123,807,47,336,6,2,1,0,3,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1516,3,2,ok,ok,1.93,148,959,43,308,8,2,3,0,3,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1521,3,2,ok,ok,2.08,105,654,44,314,6,2,1,0,3,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0506,4,2,ok,ok,1.98,132,842,33,267,0,0,0,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0511,4,2,ok,ok,2.16,115,710,33,265,2,0,2,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0516,4,2,ok,ok,2.19,87,572,32,255,3,0,3,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0521,4,2,ok,ok,3.27,108,692,32,258,1,0,1,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0531,4,2,ok,ok,1.61,82,518,33,266,1,0,1,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1541,4,2,ok,ok,1.77,115,723,35,273,2,0,1,0,1,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1546,4,2,ok,ok,1.34,84,526,33,261,0,0,0,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0621,5,2,ok,ok,1.79,136,840,208,1438,4,2,2,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0626,5,2,ok,ok,2.15,155,933,208,1431,4,2,2,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0631,5,2,ok,ok,2.72,153,961,99,702,3,1,2,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0636,5,2,ok,ok,1.98,83,537,208,1435,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0641,5,2,ok,ok,1.95,128,811,208,1432,5,2,3,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0646,5,2,ok,ok,2.45,86,524,98,689,4,2,2,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0651,5,2,ok,ok,1.95,112,667,208,1444,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0656,5,2,ok,ok,4.2,168,1021,114,783,7,5,2,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1566,5,2,ok,ok,2.69,146,902,113,784,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1051,12,2,ok,ok,2.2,146,899,146,1032,5,1,3,0,1,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1056,12,2,ok,ok,3.8,177,1082,439,2993,14,0,8,0,6,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1061,12,2,ok,ok,1.6,134,842,130,950,5,5,0,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1066,12,2,ok,ok,3.2,202,1232,148,1044,2,1,1,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1071,12,2,ok,ok,2.42,184,1158,439,2987,5,3,2,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1081,12,2,ok,ok,2.79,184,1157,146,1045,8,5,2,0,1,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1086,12,2,ok,ok,2.67,185,1169,147,1059,7,1,4,0,2,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1091,12,2,ok,ok,2.57,193,1214,441,3007,10,3,6,0,1,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1096,12,2,ok,ok,2.03,121,746,132,962,5,2,2,0,1,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1101,12,2,ok,ok,2.32,197,1224,149,1048,10,4,4,0,2,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1106,12,2,ok,ok,2.85,187,1170,439,2996,13,0,6,3,4,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1116,12,2,ok,ok,2.45,171,1067,148,1046,6,1,4,1,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1121,12,2,ok,ok,2.31,166,1014,439,2989,14,0,8,2,4,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1126,12,2,ok,ok,2.28,150,897,131,958,9,0,4,1,4,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1131,12,2,ok,ok,2.89,184,1161,149,1065,9,2,4,1,2,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1136,12,2,ok,ok,3.34,207,1298,147,1055,6,5,1,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1141,12,2,ok,ok,2.72,190,1146,440,2999,11,3,4,3,1,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1146,12,2,ok,ok,3.73,149,888,130,957,3,1,2,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1396,12,2,ok,ok,3.93,210,1312,153,1075,7,5,2,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1576,12,2,ok,ok,4.46,151,928,440,2993,6,0,5,0,1,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1581,12,2,ok,ok,3.45,198,1203,129,954,8,2,4,2,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1586,12,2,ok,ok,3.07,176,1076,148,1044,11,1,7,2,1,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1591,12,2,ok,ok,2.22,175,1053,439,2991,8,0,5,3,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1596,12,2,ok,ok,2.67,166,1037,130,969,11,0,9,0,2,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1601,12,2,ok,ok,2.85,171,1042,148,1060,10,6,4,0,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q1606,12,2,ok,ok,2.77,188,1122,147,1048,9,6,1,2,0,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q1611,12,2,ok,ok,2.7,183,1163,439,2997,10,0,5,1,4,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1616,12,2,ok,ok,2.1,153,942,130,956,5,2,2,1,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1271,15,2,ok,ok,2.39,158,999,208,1474,4,3,1,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1276,15,2,ok,ok,2.31,153,967,210,1481,9,0,4,2,3,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1281,15,2,ok,ok,2.28,163,1014,211,1497,10,0,6,1,3,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1286,15,2,ok,ok,2.63,184,1192,210,1477,5,4,1,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1291,15,2,ok,ok,2.71,164,1004,210,1479,11,0,9,0,2,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1296,15,2,ok,ok,2.94,177,1116,210,1499,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1301,15,2,ok,ok,2.05,134,883,210,1491,8,2,5,0,1,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1306,15,2,ok,ok,3.24,179,1138,147,1054,8,6,2,0,0,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q1311,15,2,ok,ok,4.84,204,1241,147,1063,4,4,0,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1316,15,2,ok,ok,3.0,201,1272,209,1486,9,7,2,0,0,7
+b4,B4/A1 single-snapshot,baseline_ablation,Q1321,15,2,ok,ok,2.58,158,932,211,1485,4,3,1,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1326,15,2,ok,ok,2.68,176,1126,212,1502,6,6,0,0,0,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q1331,15,2,ok,ok,2.21,146,865,211,1497,2,0,2,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1336,15,2,ok,ok,2.36,156,967,208,1472,2,2,0,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1341,15,2,ok,ok,2.35,168,1071,214,1512,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1346,15,2,ok,ok,2.75,155,981,209,1493,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1351,15,2,ok,ok,2.73,198,1254,210,1489,1,1,0,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1356,15,2,ok,ok,4.15,166,1063,145,1048,5,4,1,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1361,15,2,ok,ok,2.29,139,882,147,1060,2,1,1,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1366,15,2,ok,ok,2.42,144,853,212,1501,4,4,0,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1621,15,2,ok,ok,2.18,155,947,210,1483,3,3,0,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1626,15,2,ok,ok,2.61,175,1091,209,1478,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1631,15,2,ok,ok,2.25,145,937,212,1498,3,2,1,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1636,15,2,ok,ok,2.66,183,1124,211,1485,5,2,2,0,1,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1641,15,2,ok,ok,2.17,183,1146,208,1476,1,1,0,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1646,15,2,ok,ok,3.03,115,712,209,1486,2,2,0,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1651,15,2,ok,ok,2.29,143,927,209,1487,10,0,5,1,4,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1656,15,2,ok,ok,3.07,197,1282,147,1051,9,2,3,2,2,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1661,15,2,ok,ok,2.23,144,900,147,1055,3,3,0,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1666,15,2,ok,ok,2.47,166,1057,211,1492,4,4,0,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1231,26,2,ok,ok,2.32,170,1039,139,994,7,6,0,0,1,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q1236,26,2,ok,ok,2.87,211,1236,139,1001,11,1,6,2,2,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q1241,26,2,ok,ok,3.47,218,1294,139,1003,10,10,0,0,0,9
+b4,B4/A1 single-snapshot,baseline_ablation,Q1246,26,2,ok,ok,2.84,190,1183,138,985,5,5,0,0,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q1251,26,2,ok,ok,3.37,184,1134,139,1007,14,8,1,1,4,8
+b4,B4/A1 single-snapshot,baseline_ablation,Q1256,26,2,ok,ok,2.96,216,1287,140,1009,6,6,0,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1261,26,2,ok,ok,3.03,214,1310,139,1002,7,7,0,0,0,5
+b4,B4/A1 single-snapshot,baseline_ablation,Q1266,26,2,ok,ok,2.25,190,1111,138,999,4,4,0,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1691,26,2,ok,ok,1.57,82,510,138,984,3,3,0,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1696,26,2,ok,ok,1.8,96,588,137,987,7,3,2,2,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q1401,1,0,ok,ok,2.02,159,959,472,3277,6,6,0,0,0,6
+b4,B4/A1 single-snapshot,baseline_ablation,Q0421,4,0,ok,ok,2.35,125,816,32,258,0,0,0,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0456,4,0,ok,ok,2.24,135,818,33,272,3,0,2,0,1,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0356,3,1,ok,ok,1.94,106,660,43,311,3,0,3,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1411,3,1,ok,ok,3.06,171,1074,42,300,5,3,2,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0261,2,2,ok,ok,2.55,141,855,116,827,4,1,3,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0276,2,2,ok,ok,2.54,114,658,117,833,6,0,6,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0296,2,2,ok,ok,2.18,101,608,116,826,5,1,4,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0501,4,2,ok,ok,1.85,113,726,33,267,7,0,6,0,1,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0526,4,2,ok,ok,1.73,115,724,33,276,5,0,2,0,3,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0536,4,2,ok,ok,2.06,137,863,31,257,0,0,0,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1571,5,2,ok,ok,1.98,119,758,99,693,5,3,2,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q1076,12,2,ok,ok,1.81,137,822,132,964,8,1,4,0,3,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0436,4,0,ok,ok,1.62,82,525,32,263,0,0,0,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q1391,5,0,ok,ok,2.18,151,970,202,1382,8,4,4,0,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0201,2,1,ok,ok,2.31,165,995,116,810,10,3,4,3,0,3
+b4,B4/A1 single-snapshot,baseline_ablation,Q0206,2,1,ok,ok,1.82,117,693,134,909,12,1,11,0,0,1
+b4,B4/A1 single-snapshot,baseline_ablation,Q0216,2,1,ok,ok,3.14,168,991,117,815,8,4,3,1,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0226,2,1,ok,ok,2.27,145,871,120,827,7,5,2,0,0,2
+b4,B4/A1 single-snapshot,baseline_ablation,Q0246,2,1,ok,ok,2.39,170,1034,134,921,8,4,2,0,2,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q0481,4,1,ok,ok,1.54,85,512,31,257,1,0,1,0,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0271,2,2,ok,ok,2.87,157,955,440,2983,10,0,9,1,0,0
+b4,B4/A1 single-snapshot,baseline_ablation,Q0291,2,2,ok,ok,2.0,138,833,132,942,5,4,1,0,0,4
+b4,B4/A1 single-snapshot,baseline_ablation,Q1111,12,2,ok,ok,3.26,158,982,130,956,5,2,3,0,0,2
+a2,A2 PCTL only,ablation,Q0021,1,0,ok,ok,3.74,198,1114,66,446,8,3,3,2,0,2
+a2,A2 PCTL only,ablation,Q0036,1,0,ok,ok,2.93,145,863,66,446,6,2,2,2,0,2
+a2,A2 PCTL only,ablation,Q0686,1,0,ok,ok,3.55,136,789,73,460,6,4,0,1,1,4
+a2,A2 PCTL only,ablation,Q0701,1,0,ok,ok,3.56,174,1021,76,482,3,2,1,0,0,2
+a2,A2 PCTL only,ablation,Q0811,1,0,ok,ok,2.23,101,583,69,459,4,2,2,0,0,2
+a2,A2 PCTL only,ablation,Q0931,1,0,ok,ok,2.61,175,1062,71,449,4,4,0,0,0,3
+a2,A2 PCTL only,ablation,Q0941,1,0,ok,ok,2.45,155,943,76,472,4,2,2,0,0,2
+a2,A2 PCTL only,ablation,Q0956,1,0,ok,ok,3.96,186,1169,71,454,5,5,0,0,0,3
+a2,A2 PCTL only,ablation,Q0961,1,0,ok,ok,3.54,192,1129,692,4513,11,11,0,0,0,6
+a2,A2 PCTL only,ablation,Q0151,2,0,ok,ok,2.01,146,868,70,446,5,4,1,0,0,3
+a2,A2 PCTL only,ablation,Q0156,2,0,ok,ok,2.24,156,912,72,464,6,4,2,0,0,2
+a2,A2 PCTL only,ablation,Q0161,2,0,ok,ok,2.54,130,798,71,453,7,6,1,0,0,4
+a2,A2 PCTL only,ablation,Q0166,2,0,ok,ok,1.68,114,680,71,457,5,2,2,1,0,2
+a2,A2 PCTL only,ablation,Q0171,2,0,ok,ok,1.79,119,766,608,3992,4,4,0,0,0,2
+a2,A2 PCTL only,ablation,Q0176,2,0,ok,ok,1.72,104,623,72,462,3,2,1,0,0,2
+a2,A2 PCTL only,ablation,Q0181,2,0,ok,ok,1.92,118,698,41,261,8,5,3,0,0,3
+a2,A2 PCTL only,ablation,Q0186,2,0,ok,ok,1.98,147,860,71,456,8,2,4,2,0,2
+a2,A2 PCTL only,ablation,Q0191,2,0,ok,ok,2.77,156,912,607,3984,7,5,1,1,0,5
+a2,A2 PCTL only,ablation,Q0196,2,0,ok,ok,1.9,127,831,609,4005,4,3,1,0,0,2
+a2,A2 PCTL only,ablation,Q0301,3,0,ok,ok,2.46,117,733,43,275,3,3,0,0,0,3
+a2,A2 PCTL only,ablation,Q0306,3,0,ok,ok,1.96,132,823,41,259,4,2,0,1,1,2
+a2,A2 PCTL only,ablation,Q0311,3,0,ok,ok,2.21,108,631,42,263,5,2,0,1,2,2
+a2,A2 PCTL only,ablation,Q0316,3,0,ok,ok,2.38,106,694,41,263,3,2,1,0,0,2
+a2,A2 PCTL only,ablation,Q0321,3,0,ok,ok,1.88,96,600,42,272,2,1,1,0,0,1
+a2,A2 PCTL only,ablation,Q0326,3,0,ok,ok,2.03,99,583,42,259,5,3,1,1,0,2
+a2,A2 PCTL only,ablation,Q0331,3,0,ok,ok,2.73,197,1218,42,263,11,8,0,2,1,7
+a2,A2 PCTL only,ablation,Q0336,3,0,ok,ok,3.45,171,1087,39,250,5,4,1,0,0,4
+a2,A2 PCTL only,ablation,Q1506,3,0,ok,ok,2.51,119,738,42,259,6,4,0,1,1,4
+a2,A2 PCTL only,ablation,Q1511,3,0,ok,ok,2.26,163,1008,42,267,7,4,1,1,1,4
+a2,A2 PCTL only,ablation,Q0426,4,0,ok,ok,4.05,74,454,19,128,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0431,4,0,ok,ok,1.86,77,496,19,134,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0441,4,0,ok,ok,1.84,91,518,22,142,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0446,4,0,ok,ok,1.86,65,406,20,133,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0451,4,0,ok,ok,1.48,93,579,17,117,4,0,2,0,2,0
+a2,A2 PCTL only,ablation,Q1531,4,0,ok,ok,1.28,73,451,19,131,3,0,1,0,2,0
+a2,A2 PCTL only,ablation,Q1536,4,0,ok,ok,1.39,81,496,17,118,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0541,5,0,ok,ok,3.2,135,810,237,1578,11,0,10,0,1,0
+a2,A2 PCTL only,ablation,Q0546,5,0,ok,ok,1.62,102,646,238,1579,5,1,4,0,0,1
+a2,A2 PCTL only,ablation,Q0551,5,0,ok,ok,2.24,98,620,236,1567,3,3,0,0,0,2
+a2,A2 PCTL only,ablation,Q0556,5,0,ok,ok,1.69,103,663,236,1566,5,1,3,0,1,1
+a2,A2 PCTL only,ablation,Q0561,5,0,ok,ok,1.79,107,671,239,1587,5,1,4,0,0,1
+a2,A2 PCTL only,ablation,Q0566,5,0,ok,ok,2.73,159,978,236,1568,6,6,0,0,0,1
+a2,A2 PCTL only,ablation,Q0571,5,0,ok,ok,2.24,102,682,237,1573,4,4,0,0,0,2
+a2,A2 PCTL only,ablation,Q0576,5,0,ok,ok,1.93,133,864,238,1576,5,4,1,0,0,3
+a2,A2 PCTL only,ablation,Q1561,5,0,ok,ok,1.48,87,547,236,1565,3,3,0,0,0,2
+a2,A2 PCTL only,ablation,Q1151,26,0,ok,ok,1.41,78,463,24,153,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1156,26,0,ok,ok,1.92,85,537,25,165,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1161,26,0,ok,ok,1.54,76,473,23,153,3,0,2,0,1,0
+a2,A2 PCTL only,ablation,Q1166,26,0,ok,ok,2.11,94,574,23,144,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1171,26,0,ok,ok,1.47,92,556,23,147,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1176,26,0,ok,ok,1.82,91,539,25,162,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1181,26,0,ok,ok,1.41,91,545,24,146,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1186,26,0,ok,ok,1.8,87,533,24,151,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1681,26,0,ok,ok,1.65,97,603,21,130,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1686,26,0,ok,ok,1.25,73,452,22,135,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0071,1,1,ok,ok,2.8,144,822,68,469,4,2,0,2,0,1
+a2,A2 PCTL only,ablation,Q0076,1,1,ok,ok,4.47,170,1037,69,484,11,4,2,4,1,2
+a2,A2 PCTL only,ablation,Q0096,1,1,ok,ok,3.08,173,1013,66,448,9,6,3,0,0,3
+a2,A2 PCTL only,ablation,Q0721,1,1,ok,ok,3.04,179,1064,54,355,4,4,0,0,0,2
+a2,A2 PCTL only,ablation,Q0851,1,1,ok,ok,1.58,83,500,67,465,8,4,2,2,0,2
+a2,A2 PCTL only,ablation,Q0861,1,1,ok,ok,2.43,174,977,69,463,8,7,1,0,0,3
+a2,A2 PCTL only,ablation,Q0871,1,1,ok,ok,2.3,138,791,69,472,8,6,0,2,0,3
+a2,A2 PCTL only,ablation,Q0881,1,1,ok,ok,2.22,133,775,65,459,9,6,0,2,1,5
+a2,A2 PCTL only,ablation,Q0886,1,1,ok,ok,2.17,103,590,69,472,6,3,2,1,0,3
+a2,A2 PCTL only,ablation,Q0976,1,1,ok,ok,4.54,210,1273,77,486,4,4,0,0,0,3
+a2,A2 PCTL only,ablation,Q0211,2,1,ok,ok,1.78,125,727,43,276,4,3,1,0,0,3
+a2,A2 PCTL only,ablation,Q0221,2,1,ok,ok,1.92,125,691,75,474,6,4,1,1,0,2
+a2,A2 PCTL only,ablation,Q0231,2,1,ok,ok,3.2,169,971,72,464,6,4,2,0,0,3
+a2,A2 PCTL only,ablation,Q0236,2,1,ok,ok,1.98,122,722,72,485,3,2,1,0,0,2
+a2,A2 PCTL only,ablation,Q0241,2,1,ok,ok,2.38,158,926,73,472,8,2,5,1,0,2
+a2,A2 PCTL only,ablation,Q0341,3,1,ok,ok,2.19,171,1046,44,282,3,3,0,0,0,3
+a2,A2 PCTL only,ablation,Q0346,3,1,ok,ok,1.86,116,716,45,286,7,4,1,0,2,3
+a2,A2 PCTL only,ablation,Q0351,3,1,ok,ok,2.27,175,1031,47,286,6,3,3,0,0,3
+a2,A2 PCTL only,ablation,Q0361,3,1,ok,ok,2.02,131,795,43,274,3,3,0,0,0,3
+a2,A2 PCTL only,ablation,Q0366,3,1,ok,ok,1.63,110,675,45,285,8,3,2,1,2,3
+a2,A2 PCTL only,ablation,Q0371,3,1,ok,ok,2.94,179,1086,45,278,5,5,0,0,0,4
+a2,A2 PCTL only,ablation,Q0376,3,1,ok,ok,1.86,139,858,45,283,4,2,0,0,2,2
+a2,A2 PCTL only,ablation,Q1501,3,1,ok,ok,2.38,186,1173,45,283,6,3,0,2,1,3
+a2,A2 PCTL only,ablation,Q0461,4,1,ok,ok,1.9,93,569,19,134,5,0,2,0,3,0
+a2,A2 PCTL only,ablation,Q0466,4,1,ok,ok,1.49,96,579,21,144,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0471,4,1,ok,ok,2.12,99,594,20,136,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0476,4,1,ok,ok,1.84,74,470,20,137,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0486,4,1,ok,ok,1.56,87,553,17,122,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0491,4,1,ok,ok,1.69,91,553,17,129,5,0,4,0,1,0
+a2,A2 PCTL only,ablation,Q0496,4,1,ok,ok,1.88,90,554,19,133,4,0,2,0,2,0
+a2,A2 PCTL only,ablation,Q1386,4,1,ok,ok,2.13,82,498,19,132,4,0,2,0,2,0
+a2,A2 PCTL only,ablation,Q1526,4,1,ok,ok,1.13,51,318,20,130,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0581,5,1,ok,ok,2.0,134,789,239,1587,5,5,0,0,0,2
+a2,A2 PCTL only,ablation,Q0586,5,1,ok,ok,2.53,154,949,239,1583,4,4,0,0,0,1
+a2,A2 PCTL only,ablation,Q0591,5,1,ok,ok,1.51,94,560,45,281,6,3,3,0,0,2
+a2,A2 PCTL only,ablation,Q0596,5,1,ok,ok,1.72,104,648,236,1575,4,4,0,0,0,1
+a2,A2 PCTL only,ablation,Q0601,5,1,ok,ok,2.29,168,1100,240,1596,6,3,3,0,0,1
+a2,A2 PCTL only,ablation,Q0606,5,1,ok,ok,1.81,86,518,45,283,4,2,1,1,0,1
+a2,A2 PCTL only,ablation,Q0611,5,1,ok,ok,1.94,128,744,238,1575,6,3,2,0,1,1
+a2,A2 PCTL only,ablation,Q0616,5,1,ok,ok,2.16,90,574,72,463,4,4,0,0,0,3
+a2,A2 PCTL only,ablation,Q1551,5,1,ok,ok,1.79,113,696,73,474,4,4,0,0,0,3
+a2,A2 PCTL only,ablation,Q1556,5,1,ok,ok,1.66,104,638,241,1596,4,4,0,0,0,4
+a2,A2 PCTL only,ablation,Q1191,26,1,ok,ok,6.78,93,575,25,155,4,0,1,0,3,0
+a2,A2 PCTL only,ablation,Q1196,26,1,ok,ok,1.62,79,480,25,156,5,0,2,0,3,0
+a2,A2 PCTL only,ablation,Q1201,26,1,ok,ok,1.51,88,537,28,169,3,0,1,0,2,0
+a2,A2 PCTL only,ablation,Q1206,26,1,ok,ok,2.02,92,559,26,165,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1211,26,1,ok,ok,1.58,98,623,23,153,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1216,26,1,ok,ok,1.59,96,586,26,161,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1221,26,1,ok,ok,1.85,98,578,25,154,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1226,26,1,ok,ok,1.53,90,543,26,168,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1671,26,1,ok,ok,1.77,86,516,25,156,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1676,26,1,ok,ok,1.38,87,537,25,151,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0101,1,2,ok,ok,2.11,158,926,68,471,6,2,2,2,0,1
+a2,A2 PCTL only,ablation,Q0111,1,2,ok,ok,2.61,140,852,51,338,6,4,0,2,0,2
+a2,A2 PCTL only,ablation,Q0766,1,2,ok,ok,6.26,181,1059,69,475,5,5,0,0,0,4
+a2,A2 PCTL only,ablation,Q0786,1,2,ok,ok,2.42,202,1235,69,479,8,0,5,1,2,0
+a2,A2 PCTL only,ablation,Q0896,1,2,ok,ok,2.3,109,611,50,333,9,5,2,1,1,3
+a2,A2 PCTL only,ablation,Q0911,1,2,ok,ok,1.96,133,811,68,469,9,6,2,1,0,3
+a2,A2 PCTL only,ablation,Q0916,1,2,ok,ok,1.65,87,532,67,456,10,0,8,2,0,0
+a2,A2 PCTL only,ablation,Q0921,1,2,ok,ok,1.75,104,638,68,476,8,2,3,2,1,2
+a2,A2 PCTL only,ablation,Q0926,1,2,ok,ok,1.84,109,609,53,342,10,8,0,2,0,5
+a2,A2 PCTL only,ablation,Q1041,1,2,ok,ok,2.25,168,1047,44,303,3,0,3,0,0,0
+a2,A2 PCTL only,ablation,Q0251,2,2,ok,ok,2.05,141,822,73,463,9,6,1,2,0,2
+a2,A2 PCTL only,ablation,Q0256,2,2,ok,ok,2.34,173,1040,611,4014,4,2,1,1,0,2
+a2,A2 PCTL only,ablation,Q0266,2,2,ok,ok,3.87,113,630,73,463,3,2,1,0,0,1
+a2,A2 PCTL only,ablation,Q0281,2,2,ok,ok,2.42,174,1003,75,472,8,6,2,0,0,4
+a2,A2 PCTL only,ablation,Q0286,2,2,ok,ok,1.79,119,668,74,470,6,3,2,1,0,3
+a2,A2 PCTL only,ablation,Q0381,3,2,ok,ok,2.69,125,800,44,280,3,2,1,0,0,2
+a2,A2 PCTL only,ablation,Q0386,3,2,ok,ok,2.54,120,762,45,282,12,9,0,0,3,5
+a2,A2 PCTL only,ablation,Q0391,3,2,ok,ok,2.22,124,789,43,275,4,2,0,1,1,2
+a2,A2 PCTL only,ablation,Q0396,3,2,ok,ok,2.12,165,974,43,267,3,0,0,0,3,0
+a2,A2 PCTL only,ablation,Q0401,3,2,ok,ok,2.43,167,1089,45,288,6,3,0,0,3,3
+a2,A2 PCTL only,ablation,Q0406,3,2,ok,ok,2.15,175,1083,42,270,1,1,0,0,0,1
+a2,A2 PCTL only,ablation,Q0411,3,2,ok,ok,2.21,149,937,45,276,6,5,0,1,0,3
+a2,A2 PCTL only,ablation,Q0416,3,2,ok,ok,2.61,189,1145,46,295,6,4,0,2,0,4
+a2,A2 PCTL only,ablation,Q1516,3,2,ok,ok,2.14,134,840,42,267,7,5,2,0,0,5
+a2,A2 PCTL only,ablation,Q1521,3,2,ok,ok,2.73,156,962,43,273,6,4,0,1,1,4
+a2,A2 PCTL only,ablation,Q0506,4,2,ok,ok,2.87,87,544,19,132,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0511,4,2,ok,ok,1.21,71,417,19,130,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0516,4,2,ok,ok,1.39,82,520,18,120,5,0,3,0,2,0
+a2,A2 PCTL only,ablation,Q0521,4,2,ok,ok,1.37,69,442,18,123,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0531,4,2,ok,ok,1.37,80,478,19,131,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1541,4,2,ok,ok,1.61,97,573,21,138,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1546,4,2,ok,ok,1.29,68,459,19,126,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0621,5,2,ok,ok,1.69,102,619,239,1585,4,1,3,0,0,1
+a2,A2 PCTL only,ablation,Q0626,5,2,ok,ok,2.01,142,864,239,1578,4,3,1,0,0,1
+a2,A2 PCTL only,ablation,Q0631,5,2,ok,ok,2.23,102,590,46,305,4,2,1,1,0,1
+a2,A2 PCTL only,ablation,Q0636,5,2,ok,ok,1.75,81,506,239,1582,3,3,0,0,0,1
+a2,A2 PCTL only,ablation,Q0641,5,2,ok,ok,2.35,113,659,239,1579,6,6,0,0,0,2
+a2,A2 PCTL only,ablation,Q0646,5,2,ok,ok,1.46,84,498,45,292,3,2,1,0,0,1
+a2,A2 PCTL only,ablation,Q0651,5,2,ok,ok,2.35,119,727,239,1584,5,5,0,0,0,1
+a2,A2 PCTL only,ablation,Q0656,5,2,ok,ok,1.63,95,593,73,462,4,4,0,0,0,2
+a2,A2 PCTL only,ablation,Q1566,5,2,ok,ok,2.58,109,725,72,462,6,6,0,0,0,3
+a2,A2 PCTL only,ablation,Q1051,12,2,ok,ok,2.38,159,983,71,450,5,2,2,1,0,1
+a2,A2 PCTL only,ablation,Q1056,12,2,ok,ok,1.92,156,976,580,3795,12,0,8,2,2,0
+a2,A2 PCTL only,ablation,Q1061,12,2,ok,ok,1.27,75,473,43,282,5,2,0,0,3,2
+a2,A2 PCTL only,ablation,Q1066,12,2,ok,ok,1.91,160,963,73,462,6,6,0,0,0,3
+a2,A2 PCTL only,ablation,Q1071,12,2,ok,ok,2.16,160,1013,580,3789,8,5,1,0,2,2
+a2,A2 PCTL only,ablation,Q1081,12,2,ok,ok,3.73,118,712,71,453,7,4,0,1,2,4
+a2,A2 PCTL only,ablation,Q1086,12,2,ok,ok,2.35,160,990,72,470,6,4,0,2,0,3
+a2,A2 PCTL only,ablation,Q1091,12,2,ok,ok,2.74,168,969,582,3803,11,5,3,0,3,4
+a2,A2 PCTL only,ablation,Q1096,12,2,ok,ok,1.39,80,519,45,295,4,0,2,0,2,0
+a2,A2 PCTL only,ablation,Q1101,12,2,ok,ok,1.91,120,740,74,466,8,2,3,0,3,2
+a2,A2 PCTL only,ablation,Q1106,12,2,ok,ok,2.43,154,969,580,3798,2,2,0,0,0,2
+a2,A2 PCTL only,ablation,Q1116,12,2,ok,ok,2.52,186,1134,73,464,4,4,0,0,0,1
+a2,A2 PCTL only,ablation,Q1121,12,2,ok,ok,2.1,151,904,580,3791,8,4,2,0,2,2
+a2,A2 PCTL only,ablation,Q1126,12,2,ok,ok,1.72,111,714,44,290,3,3,0,0,0,3
+a2,A2 PCTL only,ablation,Q1131,12,2,ok,ok,1.84,119,739,74,473,5,4,0,1,0,4
+a2,A2 PCTL only,ablation,Q1136,12,2,ok,ok,2.4,189,1148,72,466,6,4,2,0,0,2
+a2,A2 PCTL only,ablation,Q1141,12,2,ok,ok,3.2,164,973,581,3795,13,9,1,0,3,4
+a2,A2 PCTL only,ablation,Q1146,12,2,ok,ok,1.73,113,667,43,290,5,5,0,0,0,2
+a2,A2 PCTL only,ablation,Q1396,12,2,ok,ok,1.89,137,865,78,493,5,2,1,0,2,1
+a2,A2 PCTL only,ablation,Q1576,12,2,ok,ok,2.84,139,832,581,3795,3,3,0,0,0,3
+a2,A2 PCTL only,ablation,Q1581,12,2,ok,ok,1.79,119,743,42,286,3,3,0,0,0,2
+a2,A2 PCTL only,ablation,Q1586,12,2,ok,ok,3.43,119,731,73,462,3,2,0,0,1,2
+a2,A2 PCTL only,ablation,Q1591,12,2,ok,ok,2.72,164,1013,580,3793,7,0,5,1,1,0
+a2,A2 PCTL only,ablation,Q1596,12,2,ok,ok,1.7,108,659,43,301,6,3,1,0,2,2
+a2,A2 PCTL only,ablation,Q1601,12,2,ok,ok,6.69,127,769,73,468,2,2,0,0,0,1
+a2,A2 PCTL only,ablation,Q1606,12,2,ok,ok,3.38,155,868,72,459,12,7,3,0,2,6
+a2,A2 PCTL only,ablation,Q1611,12,2,ok,ok,2.9,166,1015,580,3793,10,8,1,0,1,7
+a2,A2 PCTL only,ablation,Q1616,12,2,ok,ok,1.46,97,613,43,289,6,0,3,0,3,0
+a2,A2 PCTL only,ablation,Q1271,15,2,ok,ok,2.08,164,984,181,1200,2,2,0,0,0,1
+a2,A2 PCTL only,ablation,Q1276,15,2,ok,ok,2.67,147,919,183,1205,4,4,0,0,0,2
+a2,A2 PCTL only,ablation,Q1281,15,2,ok,ok,2.12,143,881,184,1214,3,2,0,1,0,1
+a2,A2 PCTL only,ablation,Q1286,15,2,ok,ok,1.89,122,737,183,1203,7,0,6,1,0,0
+a2,A2 PCTL only,ablation,Q1291,15,2,ok,ok,1.74,116,736,183,1203,4,3,1,0,0,2
+a2,A2 PCTL only,ablation,Q1296,15,2,ok,ok,2.04,112,667,183,1216,3,2,1,0,0,1
+a2,A2 PCTL only,ablation,Q1301,15,2,ok,ok,2.41,140,855,183,1207,3,2,1,0,0,1
+a2,A2 PCTL only,ablation,Q1306,15,2,ok,ok,2.28,150,940,72,465,8,5,2,0,1,3
+a2,A2 PCTL only,ablation,Q1311,15,2,ok,ok,1.84,128,759,72,473,7,5,0,2,0,4
+a2,A2 PCTL only,ablation,Q1316,15,2,ok,ok,2.62,134,823,182,1204,6,5,1,0,0,5
+a2,A2 PCTL only,ablation,Q1321,15,2,ok,ok,3.62,170,999,184,1211,6,2,2,2,0,1
+a2,A2 PCTL only,ablation,Q1326,15,2,ok,ok,2.46,108,638,185,1226,5,0,4,0,1,0
+a2,A2 PCTL only,ablation,Q1331,15,2,ok,ok,2.51,158,948,184,1214,4,2,2,0,0,1
+a2,A2 PCTL only,ablation,Q1336,15,2,ok,ok,2.81,170,1006,181,1198,4,1,3,0,0,1
+a2,A2 PCTL only,ablation,Q1341,15,2,ok,ok,2.27,124,796,187,1236,4,0,4,0,0,0
+a2,A2 PCTL only,ablation,Q1346,15,2,ok,ok,2.01,161,1020,182,1210,9,0,5,1,3,0
+a2,A2 PCTL only,ablation,Q1351,15,2,ok,ok,2.21,153,992,183,1205,8,8,0,0,0,2
+a2,A2 PCTL only,ablation,Q1356,15,2,ok,ok,3.27,158,981,70,459,5,4,1,0,0,3
+a2,A2 PCTL only,ablation,Q1361,15,2,ok,ok,1.7,116,742,72,470,5,3,0,0,2,2
+a2,A2 PCTL only,ablation,Q1366,15,2,ok,ok,1.76,127,753,185,1219,4,2,1,1,0,2
+a2,A2 PCTL only,ablation,Q1621,15,2,ok,ok,2.42,141,845,183,1209,3,2,1,0,0,1
+a2,A2 PCTL only,ablation,Q1626,15,2,ok,ok,2.23,157,974,182,1202,3,3,0,0,0,2
+a2,A2 PCTL only,ablation,Q1631,15,2,ok,ok,5.61,136,850,185,1215,4,2,1,1,0,1
+a2,A2 PCTL only,ablation,Q1636,15,2,ok,ok,1.94,128,762,184,1211,6,4,0,0,2,1
+a2,A2 PCTL only,ablation,Q1641,15,2,ok,ok,1.67,113,687,181,1200,6,0,5,0,1,0
+a2,A2 PCTL only,ablation,Q1646,15,2,ok,ok,2.16,166,961,182,1203,3,2,1,0,0,1
+a2,A2 PCTL only,ablation,Q1651,15,2,ok,ok,1.94,126,776,182,1203,4,4,0,0,0,2
+a2,A2 PCTL only,ablation,Q1656,15,2,ok,ok,2.25,122,744,72,462,10,0,7,0,3,0
+a2,A2 PCTL only,ablation,Q1661,15,2,ok,ok,2.44,117,725,72,465,5,5,0,0,0,2
+a2,A2 PCTL only,ablation,Q1666,15,2,ok,ok,2.56,157,916,184,1210,4,4,0,0,0,4
+a2,A2 PCTL only,ablation,Q1231,26,2,ok,ok,1.46,90,534,25,156,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1236,26,2,ok,ok,1.4,89,558,25,161,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1241,26,2,ok,ok,1.38,98,597,25,156,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1246,26,2,ok,ok,1.54,95,588,24,147,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1251,26,2,ok,ok,1.34,78,462,25,167,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1256,26,2,ok,ok,1.52,96,598,26,162,4,0,1,0,3,0
+a2,A2 PCTL only,ablation,Q1261,26,2,ok,ok,1.58,89,537,25,154,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1266,26,2,ok,ok,2.05,97,594,24,154,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1691,26,2,ok,ok,1.35,69,390,24,138,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1696,26,2,ok,ok,1.88,81,487,23,141,3,0,1,0,2,0
+a2,A2 PCTL only,ablation,Q1401,1,0,ok,ok,2.0,143,885,689,4513,6,3,3,0,0,1
+a2,A2 PCTL only,ablation,Q0421,4,0,ok,ok,1.57,62,377,18,123,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0456,4,0,ok,ok,2.03,96,599,19,137,4,0,2,0,2,0
+a2,A2 PCTL only,ablation,Q0356,3,1,ok,ok,1.9,112,666,42,271,4,4,0,0,0,3
+a2,A2 PCTL only,ablation,Q1411,3,1,ok,ok,2.81,134,813,41,259,6,6,0,0,0,5
+a2,A2 PCTL only,ablation,Q0261,2,2,ok,ok,2.12,89,539,44,294,6,1,5,0,0,1
+a2,A2 PCTL only,ablation,Q0276,2,2,ok,ok,2.19,93,556,45,300,3,1,2,0,0,1
+a2,A2 PCTL only,ablation,Q0296,2,2,ok,ok,1.72,95,547,44,292,7,5,1,1,0,2
+a2,A2 PCTL only,ablation,Q0501,4,2,ok,ok,1.86,76,460,19,132,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0526,4,2,ok,ok,1.49,91,549,19,141,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0536,4,2,ok,ok,1.53,88,549,17,122,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q1571,5,2,ok,ok,1.62,66,405,46,295,3,2,1,0,0,1
+a2,A2 PCTL only,ablation,Q1076,12,2,ok,ok,1.69,88,534,45,296,4,0,3,0,1,0
+a2,A2 PCTL only,ablation,Q0436,4,0,ok,ok,1.41,79,472,18,128,3,0,1,0,2,0
+a2,A2 PCTL only,ablation,Q1391,5,0,ok,ok,2.08,140,901,233,1552,7,6,1,0,0,3
+a2,A2 PCTL only,ablation,Q0201,2,1,ok,ok,2.09,122,713,44,279,5,3,2,0,0,3
+a2,A2 PCTL only,ablation,Q0206,2,1,ok,ok,2.51,166,973,74,469,4,2,2,0,0,2
+a2,A2 PCTL only,ablation,Q0216,2,1,ok,ok,2.68,127,754,45,284,4,3,1,0,0,2
+a2,A2 PCTL only,ablation,Q0226,2,1,ok,ok,3.06,110,655,48,303,13,5,7,0,1,2
+a2,A2 PCTL only,ablation,Q0246,2,1,ok,ok,2.36,169,970,74,470,5,2,2,0,1,2
+a2,A2 PCTL only,ablation,Q0481,4,1,ok,ok,1.86,89,523,17,122,0,0,0,0,0,0
+a2,A2 PCTL only,ablation,Q0271,2,2,ok,ok,2.26,184,1109,608,3995,12,8,2,2,0,3
+a2,A2 PCTL only,ablation,Q0291,2,2,ok,ok,1.91,106,639,72,484,6,5,1,0,0,5
+a2,A2 PCTL only,ablation,Q1111,12,2,ok,ok,2.34,137,807,43,288,5,4,1,0,0,2
+a3,A3 derived only,ablation,Q0021,1,0,ok,ok,2.63,171,1012,135,1034,8,5,1,1,1,5
+a3,A3 derived only,ablation,Q0036,1,0,ok,ok,2.44,147,887,135,1035,9,5,1,3,0,5
+a3,A3 derived only,ablation,Q0686,1,0,ok,ok,2.64,125,740,219,1410,4,3,0,1,0,3
+a3,A3 derived only,ablation,Q0701,1,0,ok,ok,2.55,161,989,222,1424,12,8,0,4,0,8
+a3,A3 derived only,ablation,Q0811,1,0,ok,ok,2.69,190,1180,138,1043,9,6,0,3,0,6
+a3,A3 derived only,ablation,Q0931,1,0,ok,ok,2.96,218,1338,217,1393,11,0,4,7,0,0
+a3,A3 derived only,ablation,Q0941,1,0,ok,ok,2.77,233,1345,223,1422,4,4,0,0,0,4
+a3,A3 derived only,ablation,Q0956,1,0,ok,ok,6.87,210,1289,217,1398,7,7,0,0,0,7
+a3,A3 derived only,ablation,Q0961,1,0,ok,ok,2.14,154,917,220,1401,6,6,0,0,0,6
+a3,A3 derived only,ablation,Q0151,2,0,ok,ok,1.67,106,656,163,1032,9,2,7,0,0,2
+a3,A3 derived only,ablation,Q0156,2,0,ok,ok,1.95,110,682,165,1050,3,1,2,0,0,1
+a3,A3 derived only,ablation,Q0161,2,0,ok,ok,1.97,107,699,164,1039,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q0166,2,0,ok,ok,2.04,115,704,164,1034,5,1,4,0,0,1
+a3,A3 derived only,ablation,Q0171,2,0,ok,ok,1.92,134,814,166,1042,5,2,2,1,0,2
+a3,A3 derived only,ablation,Q0176,2,0,ok,ok,2.0,133,781,165,1040,5,2,2,1,0,2
+a3,A3 derived only,ablation,Q0181,2,0,ok,ok,1.83,120,742,163,1023,4,1,3,0,0,1
+a3,A3 derived only,ablation,Q0186,2,0,ok,ok,2.33,128,788,164,1032,4,2,1,0,1,2
+a3,A3 derived only,ablation,Q0191,2,0,ok,ok,1.7,113,725,165,1033,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q0196,2,0,ok,ok,2.31,166,1033,167,1054,6,4,1,1,0,4
+a3,A3 derived only,ablation,Q0301,3,0,ok,ok,2.17,142,881,32,238,10,0,5,0,5,0
+a3,A3 derived only,ablation,Q0306,3,0,ok,ok,1.53,97,601,30,222,3,0,3,0,0,0
+a3,A3 derived only,ablation,Q0311,3,0,ok,ok,1.67,90,537,31,226,5,0,4,0,1,0
+a3,A3 derived only,ablation,Q0316,3,0,ok,ok,2.49,141,905,30,228,6,0,1,0,5,0
+a3,A3 derived only,ablation,Q0321,3,0,ok,ok,1.46,97,605,31,237,6,0,2,0,4,0
+a3,A3 derived only,ablation,Q0326,3,0,ok,ok,2.25,161,1035,31,225,4,0,2,0,2,0
+a3,A3 derived only,ablation,Q0331,3,0,ok,ok,2.35,124,764,31,227,0,0,0,0,0,0
+a3,A3 derived only,ablation,Q0336,3,0,ok,ok,1.89,109,670,28,214,0,0,0,0,0,0
+a3,A3 derived only,ablation,Q1506,3,0,ok,ok,1.8,111,683,31,223,9,0,7,0,2,0
+a3,A3 derived only,ablation,Q1511,3,0,ok,ok,1.91,140,887,31,231,0,0,0,0,0,0
+a3,A3 derived only,ablation,Q0426,4,0,ok,ok,1.59,124,777,33,274,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q0431,4,0,ok,ok,1.56,89,593,33,280,3,1,1,0,1,1
+a3,A3 derived only,ablation,Q0441,4,0,ok,ok,1.89,125,780,36,288,5,3,1,0,1,1
+a3,A3 derived only,ablation,Q0446,4,0,ok,ok,1.7,121,779,34,279,2,1,1,0,0,1
+a3,A3 derived only,ablation,Q0451,4,0,ok,ok,1.48,88,565,31,263,2,2,0,0,0,1
+a3,A3 derived only,ablation,Q1531,4,0,ok,ok,1.83,123,780,33,277,5,4,1,0,0,2
+a3,A3 derived only,ablation,Q1536,4,0,ok,ok,1.83,116,760,31,264,2,2,0,0,0,1
+a3,A3 derived only,ablation,Q0541,5,0,ok,ok,2.31,138,891,133,847,9,2,5,1,1,2
+a3,A3 derived only,ablation,Q0546,5,0,ok,ok,1.52,101,671,134,848,4,2,2,0,0,2
+a3,A3 derived only,ablation,Q0551,5,0,ok,ok,2.25,132,842,132,836,2,2,0,0,0,2
+a3,A3 derived only,ablation,Q0556,5,0,ok,ok,2.37,159,990,132,832,3,3,0,0,0,3
+a3,A3 derived only,ablation,Q0561,5,0,ok,ok,1.73,106,630,135,853,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q0566,5,0,ok,ok,1.93,106,673,132,835,8,0,7,0,1,0
+a3,A3 derived only,ablation,Q0571,5,0,ok,ok,2.07,150,956,133,838,3,1,1,1,0,1
+a3,A3 derived only,ablation,Q0576,5,0,ok,ok,1.57,101,678,134,841,9,0,6,2,1,0
+a3,A3 derived only,ablation,Q1561,5,0,ok,ok,1.94,145,898,132,830,5,3,2,0,0,3
+a3,A3 derived only,ablation,Q1151,26,0,ok,ok,1.71,126,787,224,1447,9,7,0,0,2,7
+a3,A3 derived only,ablation,Q1156,26,0,ok,ok,2.29,159,1001,225,1462,10,5,2,2,1,5
+a3,A3 derived only,ablation,Q1161,26,0,ok,ok,2.87,171,1051,223,1447,6,6,0,0,0,5
+a3,A3 derived only,ablation,Q1166,26,0,ok,ok,2.49,194,1155,223,1430,7,5,2,0,0,5
+a3,A3 derived only,ablation,Q1171,26,0,ok,ok,2.56,226,1324,223,1432,11,5,0,6,0,5
+a3,A3 derived only,ablation,Q1176,26,0,ok,ok,3.22,170,1064,225,1450,6,4,0,0,2,4
+a3,A3 derived only,ablation,Q1181,26,0,ok,ok,2.34,197,1137,140,1064,5,5,0,0,0,5
+a3,A3 derived only,ablation,Q1186,26,0,ok,ok,2.83,211,1284,224,1439,8,3,5,0,0,3
+a3,A3 derived only,ablation,Q1681,26,0,ok,ok,1.72,92,531,221,1417,3,3,0,0,0,3
+a3,A3 derived only,ablation,Q1686,26,0,ok,ok,2.06,103,612,138,1052,7,4,2,1,0,4
+a3,A3 derived only,ablation,Q0071,1,1,ok,ok,2.24,152,900,138,1072,9,6,0,1,2,6
+a3,A3 derived only,ablation,Q0076,1,1,ok,ok,2.2,172,1068,141,1091,9,5,2,1,1,5
+a3,A3 derived only,ablation,Q0096,1,1,ok,ok,2.03,127,730,135,1045,7,6,1,0,0,6
+a3,A3 derived only,ablation,Q0721,1,1,ok,ok,2.49,169,987,140,1086,5,5,0,0,0,5
+a3,A3 derived only,ablation,Q0851,1,1,ok,ok,2.47,187,1146,139,1072,9,6,1,2,0,6
+a3,A3 derived only,ablation,Q0861,1,1,ok,ok,2.66,198,1252,138,1060,15,8,4,3,0,8
+a3,A3 derived only,ablation,Q0871,1,1,ok,ok,2.36,180,1112,139,1073,12,8,3,0,1,8
+a3,A3 derived only,ablation,Q0881,1,1,ok,ok,2.82,165,1007,135,1062,10,7,2,1,0,7
+a3,A3 derived only,ablation,Q0886,1,1,ok,ok,2.06,155,916,139,1070,10,8,1,1,0,7
+a3,A3 derived only,ablation,Q0976,1,1,ok,ok,2.35,170,1050,223,1484,5,2,1,1,1,2
+a3,A3 derived only,ablation,Q0211,2,1,ok,ok,2.03,121,751,166,1087,5,2,3,0,0,2
+a3,A3 derived only,ablation,Q0221,2,1,ok,ok,2.23,121,720,168,1083,5,4,1,0,0,4
+a3,A3 derived only,ablation,Q0231,2,1,ok,ok,2.54,181,1117,165,1084,8,6,2,0,0,6
+a3,A3 derived only,ablation,Q0236,2,1,ok,ok,2.64,146,904,168,1109,6,3,3,0,0,3
+a3,A3 derived only,ablation,Q0241,2,1,ok,ok,2.11,117,689,170,1106,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q0341,3,1,ok,ok,1.68,102,657,33,247,4,0,0,0,4,0
+a3,A3 derived only,ablation,Q0346,3,1,ok,ok,1.71,96,626,34,251,5,0,1,0,4,0
+a3,A3 derived only,ablation,Q0351,3,1,ok,ok,1.73,105,643,36,251,6,0,1,0,5,0
+a3,A3 derived only,ablation,Q0361,3,1,ok,ok,1.95,133,798,32,239,6,0,3,0,3,0
+a3,A3 derived only,ablation,Q0366,3,1,ok,ok,1.87,126,813,34,250,7,0,3,0,4,0
+a3,A3 derived only,ablation,Q0371,3,1,ok,ok,2.22,157,984,34,242,8,0,2,1,5,0
+a3,A3 derived only,ablation,Q0376,3,1,ok,ok,1.88,144,940,34,247,4,0,2,0,2,0
+a3,A3 derived only,ablation,Q1501,3,1,ok,ok,2.14,155,939,34,247,0,0,0,0,0,0
+a3,A3 derived only,ablation,Q0461,4,1,ok,ok,2.34,124,817,33,280,4,4,0,0,0,1
+a3,A3 derived only,ablation,Q0466,4,1,ok,ok,1.79,131,792,35,290,2,1,0,0,1,1
+a3,A3 derived only,ablation,Q0471,4,1,ok,ok,1.83,111,702,34,282,4,1,3,0,0,1
+a3,A3 derived only,ablation,Q0476,4,1,ok,ok,1.79,133,876,34,283,4,2,2,0,0,1
+a3,A3 derived only,ablation,Q0486,4,1,ok,ok,1.51,88,564,31,268,3,2,0,0,1,1
+a3,A3 derived only,ablation,Q0491,4,1,ok,ok,1.66,85,560,31,275,3,1,2,0,0,1
+a3,A3 derived only,ablation,Q0496,4,1,ok,ok,1.62,85,540,33,279,4,4,0,0,0,2
+a3,A3 derived only,ablation,Q1386,4,1,ok,ok,1.5,93,594,33,278,4,2,2,0,0,1
+a3,A3 derived only,ablation,Q1526,4,1,ok,ok,1.65,84,530,34,276,3,2,1,0,0,1
+a3,A3 derived only,ablation,Q0581,5,1,ok,ok,2.37,150,915,135,907,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q0586,5,1,ok,ok,1.98,126,753,135,875,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q0591,5,1,ok,ok,2.2,140,851,134,880,5,2,3,0,0,2
+a3,A3 derived only,ablation,Q0596,5,1,ok,ok,2.01,143,885,132,895,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q0601,5,1,ok,ok,3.43,154,934,136,888,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q0606,5,1,ok,ok,2.09,112,667,134,882,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q0611,5,1,ok,ok,2.35,143,898,134,878,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q0616,5,1,ok,ok,2.35,127,818,135,895,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q1551,5,1,ok,ok,1.86,99,606,136,896,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q1556,5,1,ok,ok,1.79,131,797,137,907,2,2,0,0,0,2
+a3,A3 derived only,ablation,Q1191,26,1,ok,ok,3.17,212,1236,225,1499,5,5,0,0,0,5
+a3,A3 derived only,ablation,Q1196,26,1,ok,ok,3.74,199,1181,225,1479,7,6,1,0,0,6
+a3,A3 derived only,ablation,Q1201,26,1,ok,ok,2.46,206,1196,228,1508,13,7,0,4,2,7
+a3,A3 derived only,ablation,Q1206,26,1,ok,ok,2.4,165,961,226,1509,9,7,0,1,1,7
+a3,A3 derived only,ablation,Q1211,26,1,ok,ok,2.41,174,1049,223,1476,8,7,1,0,0,7
+a3,A3 derived only,ablation,Q1216,26,1,ok,ok,2.94,197,1179,226,1500,5,5,0,0,0,5
+a3,A3 derived only,ablation,Q1221,26,1,ok,ok,2.82,183,1095,225,1486,8,4,2,0,2,4
+a3,A3 derived only,ablation,Q1226,26,1,ok,ok,2.38,171,1004,226,1508,9,8,1,0,0,7
+a3,A3 derived only,ablation,Q1671,26,1,ok,ok,2.12,105,638,225,1488,6,5,0,0,1,5
+a3,A3 derived only,ablation,Q1676,26,1,ok,ok,2.1,85,526,225,1493,7,5,1,1,0,5
+a3,A3 derived only,ablation,Q0101,1,2,ok,ok,2.84,163,933,138,1077,7,1,3,2,1,1
+a3,A3 derived only,ablation,Q0111,1,2,ok,ok,2.28,193,1136,137,1058,14,0,3,7,4,0
+a3,A3 derived only,ablation,Q0766,1,2,ok,ok,2.39,181,1148,139,1079,8,8,0,0,0,8
+a3,A3 derived only,ablation,Q0786,1,2,ok,ok,2.19,147,872,139,1085,0,0,0,0,0,0
+a3,A3 derived only,ablation,Q0896,1,2,ok,ok,2.12,142,881,136,1053,7,4,0,3,0,4
+a3,A3 derived only,ablation,Q0911,1,2,ok,ok,2.4,153,917,138,1073,7,6,1,0,0,6
+a3,A3 derived only,ablation,Q0916,1,2,ok,ok,2.36,163,982,138,1075,11,8,2,1,0,8
+a3,A3 derived only,ablation,Q0921,1,2,ok,ok,3.99,136,836,138,1083,6,6,0,0,0,6
+a3,A3 derived only,ablation,Q0926,1,2,ok,ok,4.6,97,551,139,1073,3,2,0,1,0,2
+a3,A3 derived only,ablation,Q1041,1,2,ok,ok,2.79,170,1044,220,1488,11,0,6,4,1,0
+a3,A3 derived only,ablation,Q0251,2,2,ok,ok,1.88,117,745,166,1093,7,4,3,0,0,4
+a3,A3 derived only,ablation,Q0256,2,2,ok,ok,1.96,122,740,169,1117,6,2,3,1,0,2
+a3,A3 derived only,ablation,Q0266,2,2,ok,ok,2.56,135,840,166,1093,9,2,7,0,0,2
+a3,A3 derived only,ablation,Q0281,2,2,ok,ok,1.8,136,813,168,1114,5,3,2,0,0,3
+a3,A3 derived only,ablation,Q0286,2,2,ok,ok,2.34,166,1040,167,1110,10,7,2,1,0,6
+a3,A3 derived only,ablation,Q0381,3,2,ok,ok,1.68,104,660,33,246,5,0,5,0,0,0
+a3,A3 derived only,ablation,Q0386,3,2,ok,ok,1.47,85,529,34,249,0,0,0,0,0,0
+a3,A3 derived only,ablation,Q0391,3,2,ok,ok,1.98,118,745,32,241,5,0,3,0,2,0
+a3,A3 derived only,ablation,Q0396,3,2,ok,ok,1.82,102,617,32,233,6,0,3,0,3,0
+a3,A3 derived only,ablation,Q0401,3,2,ok,ok,2.43,166,1024,34,255,9,0,2,0,7,0
+a3,A3 derived only,ablation,Q0406,3,2,ok,ok,2.21,153,911,31,236,9,0,5,0,4,0
+a3,A3 derived only,ablation,Q0411,3,2,ok,ok,1.81,123,735,34,240,6,0,5,0,1,0
+a3,A3 derived only,ablation,Q0416,3,2,ok,ok,2.33,156,1018,35,259,8,0,1,0,7,0
+a3,A3 derived only,ablation,Q1516,3,2,ok,ok,1.89,119,732,31,231,4,0,2,0,2,0
+a3,A3 derived only,ablation,Q1521,3,2,ok,ok,1.92,124,792,32,237,14,0,8,1,5,0
+a3,A3 derived only,ablation,Q0506,4,2,ok,ok,1.57,85,539,33,278,2,1,0,0,1,1
+a3,A3 derived only,ablation,Q0511,4,2,ok,ok,1.45,73,489,33,276,1,1,0,0,0,1
+a3,A3 derived only,ablation,Q0516,4,2,ok,ok,1.47,83,509,32,266,1,1,0,0,0,1
+a3,A3 derived only,ablation,Q0521,4,2,ok,ok,2.87,67,467,32,269,2,1,1,0,0,1
+a3,A3 derived only,ablation,Q0531,4,2,ok,ok,2.28,92,570,33,277,3,3,0,0,0,1
+a3,A3 derived only,ablation,Q1541,4,2,ok,ok,2.05,94,571,35,284,3,2,1,0,0,1
+a3,A3 derived only,ablation,Q1546,4,2,ok,ok,1.75,71,485,33,272,2,1,1,0,0,1
+a3,A3 derived only,ablation,Q0621,5,2,ok,ok,1.87,107,698,135,898,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q0626,5,2,ok,ok,2.12,103,642,135,891,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q0631,5,2,ok,ok,2.17,150,918,135,910,2,1,1,0,0,1
+a3,A3 derived only,ablation,Q0636,5,2,ok,ok,1.82,121,760,135,895,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q0641,5,2,ok,ok,2.48,149,893,135,892,4,2,2,0,0,2
+a3,A3 derived only,ablation,Q0646,5,2,ok,ok,1.75,115,706,134,897,5,3,2,0,0,3
+a3,A3 derived only,ablation,Q0651,5,2,ok,ok,2.55,131,822,135,909,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q0656,5,2,ok,ok,2.26,136,830,136,908,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q1566,5,2,ok,ok,1.94,151,945,135,910,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q1051,12,2,ok,ok,3.37,209,1312,191,1311,13,2,1,2,8,2
+a3,A3 derived only,ablation,Q1056,12,2,ok,ok,2.56,184,1132,193,1326,8,8,0,0,0,8
+a3,A3 derived only,ablation,Q1061,12,2,ok,ok,2.65,189,1182,193,1331,15,0,6,8,1,0
+a3,A3 derived only,ablation,Q1066,12,2,ok,ok,2.62,159,950,193,1323,13,0,7,4,2,0
+a3,A3 derived only,ablation,Q1071,12,2,ok,ok,2.79,184,1139,193,1320,8,8,0,0,0,8
+a3,A3 derived only,ablation,Q1081,12,2,ok,ok,2.69,181,1084,191,1327,6,4,2,0,0,4
+a3,A3 derived only,ablation,Q1086,12,2,ok,ok,2.54,183,1157,192,1342,17,0,8,6,3,0
+a3,A3 derived only,ablation,Q1091,12,2,ok,ok,2.3,162,994,195,1344,4,4,0,0,0,4
+a3,A3 derived only,ablation,Q1096,12,2,ok,ok,2.3,147,909,195,1344,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q1101,12,2,ok,ok,3.01,189,1161,194,1327,8,4,3,0,1,4
+a3,A3 derived only,ablation,Q1106,12,2,ok,ok,3.5,199,1244,193,1329,7,7,0,0,0,7
+a3,A3 derived only,ablation,Q1116,12,2,ok,ok,2.18,156,993,193,1325,7,3,4,0,0,3
+a3,A3 derived only,ablation,Q1121,12,2,ok,ok,3.0,175,1081,193,1322,7,2,5,0,0,2
+a3,A3 derived only,ablation,Q1126,12,2,ok,ok,2.54,187,1151,194,1339,8,8,0,0,0,8
+a3,A3 derived only,ablation,Q1131,12,2,ok,ok,2.35,183,1146,194,1347,21,0,12,9,0,0
+a3,A3 derived only,ablation,Q1136,12,2,ok,ok,2.67,186,1197,192,1338,8,8,0,0,0,8
+a3,A3 derived only,ablation,Q1141,12,2,ok,ok,2.74,181,1148,194,1336,9,3,1,2,3,3
+a3,A3 derived only,ablation,Q1146,12,2,ok,ok,2.9,149,957,193,1339,5,5,0,0,0,5
+a3,A3 derived only,ablation,Q1396,12,2,ok,ok,2.25,167,992,198,1354,1,1,0,0,0,1
+a3,A3 derived only,ablation,Q1576,12,2,ok,ok,2.36,167,1033,194,1326,6,6,0,0,0,6
+a3,A3 derived only,ablation,Q1581,12,2,ok,ok,3.22,212,1332,192,1335,13,4,4,2,3,4
+a3,A3 derived only,ablation,Q1586,12,2,ok,ok,2.16,144,877,193,1323,10,3,5,0,2,3
+a3,A3 derived only,ablation,Q1591,12,2,ok,ok,2.29,179,1100,193,1324,9,4,4,0,1,4
+a3,A3 derived only,ablation,Q1596,12,2,ok,ok,2.53,198,1230,193,1350,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q1601,12,2,ok,ok,2.68,194,1233,193,1342,5,4,0,0,1,4
+a3,A3 derived only,ablation,Q1606,12,2,ok,ok,3.23,198,1221,192,1331,5,5,0,0,0,4
+a3,A3 derived only,ablation,Q1611,12,2,ok,ok,2.2,177,1106,193,1334,4,4,0,0,0,4
+a3,A3 derived only,ablation,Q1616,12,2,ok,ok,2.44,172,1062,193,1338,10,9,0,0,1,9
+a3,A3 derived only,ablation,Q1271,15,2,ok,ok,2.64,180,1104,193,1330,7,7,0,0,0,7
+a3,A3 derived only,ablation,Q1276,15,2,ok,ok,2.47,184,1150,195,1336,0,0,0,0,0,0
+a3,A3 derived only,ablation,Q1281,15,2,ok,ok,3.94,156,967,196,1355,7,7,0,0,0,7
+a3,A3 derived only,ablation,Q1286,15,2,ok,ok,2.93,179,1121,195,1333,9,6,3,0,0,6
+a3,A3 derived only,ablation,Q1291,15,2,ok,ok,1.81,116,751,195,1334,1,1,0,0,0,1
+a3,A3 derived only,ablation,Q1296,15,2,ok,ok,2.23,101,663,195,1357,5,5,0,0,0,5
+a3,A3 derived only,ablation,Q1301,15,2,ok,ok,2.53,191,1164,195,1350,4,3,0,0,1,3
+a3,A3 derived only,ablation,Q1306,15,2,ok,ok,2.23,152,949,196,1355,9,2,1,1,5,1
+a3,A3 derived only,ablation,Q1311,15,2,ok,ok,2.49,178,1114,196,1363,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q1316,15,2,ok,ok,2.39,161,1060,194,1345,5,5,0,0,0,5
+a3,A3 derived only,ablation,Q1321,15,2,ok,ok,2.96,132,795,196,1341,5,4,1,0,0,4
+a3,A3 derived only,ablation,Q1326,15,2,ok,ok,2.16,117,744,197,1357,9,9,0,0,0,9
+a3,A3 derived only,ablation,Q1331,15,2,ok,ok,2.45,192,1180,196,1355,5,5,0,0,0,5
+a3,A3 derived only,ablation,Q1336,15,2,ok,ok,2.91,174,1075,193,1328,8,7,1,0,0,7
+a3,A3 derived only,ablation,Q1341,15,2,ok,ok,1.61,99,625,199,1367,4,4,0,0,0,4
+a3,A3 derived only,ablation,Q1346,15,2,ok,ok,2.61,170,1069,194,1351,11,10,0,0,1,10
+a3,A3 derived only,ablation,Q1351,15,2,ok,ok,2.03,124,777,195,1348,7,7,0,0,0,7
+a3,A3 derived only,ablation,Q1356,15,2,ok,ok,2.88,205,1276,194,1349,10,7,1,2,0,6
+a3,A3 derived only,ablation,Q1361,15,2,ok,ok,2.23,119,741,196,1360,6,5,0,0,1,5
+a3,A3 derived only,ablation,Q1366,15,2,ok,ok,2.29,111,674,197,1360,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q1621,15,2,ok,ok,2.85,171,1055,195,1339,9,8,0,0,1,8
+a3,A3 derived only,ablation,Q1626,15,2,ok,ok,2.02,121,767,194,1333,7,6,1,0,0,6
+a3,A3 derived only,ablation,Q1631,15,2,ok,ok,2.02,126,769,197,1356,10,9,1,0,0,9
+a3,A3 derived only,ablation,Q1636,15,2,ok,ok,2.49,191,1164,196,1341,8,8,0,0,0,8
+a3,A3 derived only,ablation,Q1641,15,2,ok,ok,2.23,164,1008,193,1331,6,5,1,0,0,5
+a3,A3 derived only,ablation,Q1646,15,2,ok,ok,1.64,93,579,194,1344,3,3,0,0,0,3
+a3,A3 derived only,ablation,Q1651,15,2,ok,ok,2.55,189,1190,194,1346,9,9,0,0,0,6
+a3,A3 derived only,ablation,Q1656,15,2,ok,ok,2.09,176,1036,196,1352,3,3,0,0,0,3
+a3,A3 derived only,ablation,Q1661,15,2,ok,ok,2.28,146,877,196,1355,7,3,3,0,1,3
+a3,A3 derived only,ablation,Q1666,15,2,ok,ok,1.66,127,800,196,1351,6,3,0,0,3,3
+a3,A3 derived only,ablation,Q1231,26,2,ok,ok,2.24,145,903,225,1497,6,6,0,0,0,6
+a3,A3 derived only,ablation,Q1236,26,2,ok,ok,2.28,179,1058,225,1503,14,8,4,1,1,7
+a3,A3 derived only,ablation,Q1241,26,2,ok,ok,2.69,190,1166,225,1508,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q1246,26,2,ok,ok,2.59,188,1115,224,1488,8,4,2,1,1,4
+a3,A3 derived only,ablation,Q1251,26,2,ok,ok,1.87,160,955,225,1509,5,5,0,0,0,5
+a3,A3 derived only,ablation,Q1256,26,2,ok,ok,2.64,154,917,226,1514,6,3,2,0,1,3
+a3,A3 derived only,ablation,Q1261,26,2,ok,ok,2.34,183,1100,225,1508,5,4,1,0,0,4
+a3,A3 derived only,ablation,Q1266,26,2,ok,ok,2.23,189,1176,224,1506,7,7,0,0,0,7
+a3,A3 derived only,ablation,Q1691,26,2,ok,ok,1.61,84,506,224,1490,3,3,0,0,0,3
+a3,A3 derived only,ablation,Q1696,26,2,ok,ok,2.86,91,570,223,1493,6,4,2,0,0,4
+a3,A3 derived only,ablation,Q1401,1,0,ok,ok,2.56,180,1091,133,1031,9,6,0,3,0,6
+a3,A3 derived only,ablation,Q0421,4,0,ok,ok,1.57,98,628,32,269,3,2,1,0,0,1
+a3,A3 derived only,ablation,Q0456,4,0,ok,ok,2.55,100,640,33,283,5,1,4,0,0,1
+a3,A3 derived only,ablation,Q0356,3,1,ok,ok,1.45,95,621,31,236,7,0,3,0,4,0
+a3,A3 derived only,ablation,Q1411,3,1,ok,ok,1.83,131,831,30,223,6,0,3,0,3,0
+a3,A3 derived only,ablation,Q0261,2,2,ok,ok,1.75,116,703,167,1111,7,3,4,0,0,3
+a3,A3 derived only,ablation,Q0276,2,2,ok,ok,1.86,146,878,168,1117,7,5,2,0,0,5
+a3,A3 derived only,ablation,Q0296,2,2,ok,ok,1.79,109,691,167,1109,5,3,2,0,0,3
+a3,A3 derived only,ablation,Q0501,4,2,ok,ok,1.71,94,599,33,278,2,1,1,0,0,1
+a3,A3 derived only,ablation,Q0526,4,2,ok,ok,1.49,94,605,33,287,3,1,2,0,0,1
+a3,A3 derived only,ablation,Q0536,4,2,ok,ok,1.65,90,566,31,268,4,2,0,0,2,1
+a3,A3 derived only,ablation,Q1571,5,2,ok,ok,2.11,152,957,135,900,5,2,3,0,0,2
+a3,A3 derived only,ablation,Q1076,12,2,ok,ok,2.88,188,1158,195,1345,14,0,14,0,0,0
+a3,A3 derived only,ablation,Q0436,4,0,ok,ok,3.02,97,637,32,274,2,2,0,0,0,1
+a3,A3 derived only,ablation,Q1391,5,0,ok,ok,2.35,102,703,129,817,8,0,5,3,0,0
+a3,A3 derived only,ablation,Q0201,2,1,ok,ok,2.29,127,744,166,1102,3,2,1,0,0,2
+a3,A3 derived only,ablation,Q0206,2,1,ok,ok,2.08,122,716,167,1078,5,4,1,0,0,4
+a3,A3 derived only,ablation,Q0216,2,1,ok,ok,1.76,134,830,167,1107,6,3,3,0,0,3
+a3,A3 derived only,ablation,Q0226,2,1,ok,ok,2.25,141,904,171,1114,13,6,5,2,0,6
+a3,A3 derived only,ablation,Q0246,2,1,ok,ok,2.06,152,904,167,1098,9,0,8,1,0,0
+a3,A3 derived only,ablation,Q0481,4,1,ok,ok,1.46,82,534,31,268,2,2,0,0,0,1
+a3,A3 derived only,ablation,Q0271,2,2,ok,ok,2.95,155,975,166,1098,16,0,14,2,0,0
+a3,A3 derived only,ablation,Q0291,2,2,ok,ok,2.04,130,770,168,1124,4,3,1,0,0,3
+a3,A3 derived only,ablation,Q1111,12,2,ok,ok,2.51,188,1137,193,1337,7,7,0,0,0,7
+a4,A4 fixed reference,ablation,Q0021,1,0,ok,ok,218.21,190,1187,225,1661,14,8,1,3,2,8
+a4,A4 fixed reference,ablation,Q0036,1,0,ok,ok,164.93,194,1180,225,1661,9,6,0,3,0,6
+a4,A4 fixed reference,ablation,Q0686,1,0,ok,ok,943.69,245,1524,313,2045,11,11,0,0,0,10
+a4,A4 fixed reference,ablation,Q0701,1,0,ok,ok,110.78,225,1408,316,2070,7,7,0,0,0,5
+a4,A4 fixed reference,ablation,Q0811,1,0,ok,ok,186.92,195,1217,228,1674,7,0,4,1,2,0
+a4,A4 fixed reference,ablation,Q0931,1,0,ok,ok,299.64,227,1402,310,2038,10,6,1,1,2,6
+a4,A4 fixed reference,ablation,Q0941,1,0,ok,ok,125.98,216,1292,316,2064,14,11,2,1,0,8
+a4,A4 fixed reference,ablation,Q0956,1,0,ok,ok,82.01,209,1311,311,2046,10,2,1,1,6,2
+a4,A4 fixed reference,ablation,Q0961,1,0,ok,ok,67.33,237,1436,254,1673,8,5,3,0,0,5
+a4,A4 fixed reference,ablation,Q1401,1,0,ok,ok,69.69,191,1190,167,1278,8,6,0,1,1,6
+a4,A4 fixed reference,ablation,Q0151,2,0,ok,ok,2.52,189,1144,257,1678,8,7,1,0,0,6
+a4,A4 fixed reference,ablation,Q0156,2,0,ok,ok,2.43,191,1219,259,1696,7,6,1,0,0,5
+a4,A4 fixed reference,ablation,Q0161,2,0,ok,ok,3.2,204,1211,258,1685,5,2,3,0,0,2
+a4,A4 fixed reference,ablation,Q0166,2,0,ok,ok,2.7,210,1279,258,1692,8,4,3,1,0,3
+a4,A4 fixed reference,ablation,Q0171,2,0,ok,ok,2.31,175,1079,200,1323,6,4,2,0,0,4
+a4,A4 fixed reference,ablation,Q0176,2,0,ok,ok,2.23,188,1158,259,1698,5,4,1,0,0,3
+a4,A4 fixed reference,ablation,Q0181,2,0,ok,ok,2.26,187,1167,225,1475,8,6,1,1,0,5
+a4,A4 fixed reference,ablation,Q0186,2,0,ok,ok,2.59,181,1134,258,1690,11,10,1,0,0,6
+a4,A4 fixed reference,ablation,Q0191,2,0,ok,ok,1.9,154,951,199,1314,5,4,1,0,0,4
+a4,A4 fixed reference,ablation,Q0196,2,0,ok,ok,2.34,177,1078,201,1335,6,5,1,0,0,5
+a4,A4 fixed reference,ablation,Q0301,3,0,ok,ok,2.1,154,1014,85,616,12,0,3,2,7,0
+a4,A4 fixed reference,ablation,Q0306,3,0,ok,ok,2.34,166,1062,83,601,7,3,1,1,2,3
+a4,A4 fixed reference,ablation,Q0311,3,0,ok,ok,2.1,162,1027,84,604,6,2,0,1,3,2
+a4,A4 fixed reference,ablation,Q0316,3,0,ok,ok,3.16,226,1396,83,607,5,3,2,0,0,3
+a4,A4 fixed reference,ablation,Q0321,3,0,ok,ok,2.37,161,1046,84,616,6,2,2,0,2,2
+a4,A4 fixed reference,ablation,Q0326,3,0,ok,ok,2.58,188,1170,84,604,8,8,0,0,0,3
+a4,A4 fixed reference,ablation,Q0331,3,0,ok,ok,2.56,215,1353,84,606,7,0,1,1,5,0
+a4,A4 fixed reference,ablation,Q0336,3,0,ok,ok,3.8,171,1091,81,593,7,4,0,1,2,4
+a4,A4 fixed reference,ablation,Q1506,3,0,ok,ok,2.42,202,1280,84,602,6,3,0,0,3,3
+a4,A4 fixed reference,ablation,Q1511,3,0,ok,ok,2.38,207,1276,84,610,4,3,0,0,1,3
+a4,A4 fixed reference,ablation,Q0421,4,0,ok,ok,1.54,106,696,66,540,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q0426,4,0,ok,ok,2.17,170,1096,67,545,1,1,0,0,0,1
+a4,A4 fixed reference,ablation,Q0431,4,0,ok,ok,3.54,163,1067,67,551,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q0436,4,0,ok,ok,1.73,139,891,66,545,4,4,0,0,0,2
+a4,A4 fixed reference,ablation,Q0441,4,0,ok,ok,2.03,138,860,70,559,4,4,0,0,0,2
+a4,A4 fixed reference,ablation,Q0446,4,0,ok,ok,2.54,155,986,68,550,3,2,0,0,1,1
+a4,A4 fixed reference,ablation,Q0451,4,0,ok,ok,1.71,119,781,65,534,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q0456,4,0,ok,ok,2.38,158,997,67,554,4,0,4,0,0,0
+a4,A4 fixed reference,ablation,Q1531,4,0,ok,ok,2.0,154,995,67,548,10,0,5,0,5,0
+a4,A4 fixed reference,ablation,Q1536,4,0,ok,ok,2.08,139,846,65,535,4,0,4,0,0,0
+a4,A4 fixed reference,ablation,Q0541,5,0,ok,ok,3.33,170,1080,193,1278,4,2,2,0,0,2
+a4,A4 fixed reference,ablation,Q0546,5,0,ok,ok,3.98,158,980,194,1279,2,2,0,0,0,2
+a4,A4 fixed reference,ablation,Q0551,5,0,ok,ok,3.09,161,963,192,1267,5,4,1,0,0,4
+a4,A4 fixed reference,ablation,Q0556,5,0,ok,ok,2.1,171,1076,192,1269,3,2,1,0,0,2
+a4,A4 fixed reference,ablation,Q0561,5,0,ok,ok,2.24,197,1172,195,1290,4,2,2,0,0,2
+a4,A4 fixed reference,ablation,Q0566,5,0,ok,ok,3.36,144,925,192,1272,5,3,1,1,0,2
+a4,A4 fixed reference,ablation,Q0571,5,0,ok,ok,2.02,163,1004,193,1275,6,3,2,1,0,2
+a4,A4 fixed reference,ablation,Q0576,5,0,ok,ok,2.21,171,1049,194,1278,3,2,1,0,0,2
+a4,A4 fixed reference,ablation,Q1391,5,0,ok,ok,1.93,152,990,189,1254,2,1,1,0,0,1
+a4,A4 fixed reference,ablation,Q1561,5,0,ok,ok,1.99,129,807,192,1267,5,3,0,2,0,1
+a4,A4 fixed reference,ablation,Q1151,26,0,ok,ok,2.42,224,1382,258,1708,14,11,0,2,1,9
+a4,A4 fixed reference,ablation,Q1156,26,0,ok,ok,2.86,259,1607,259,1719,9,7,0,0,2,7
+a4,A4 fixed reference,ablation,Q1161,26,0,ok,ok,2.66,216,1345,257,1705,9,9,0,0,0,8
+a4,A4 fixed reference,ablation,Q1166,26,0,ok,ok,2.5,203,1233,257,1699,11,7,2,1,1,7
+a4,A4 fixed reference,ablation,Q1171,26,0,ok,ok,2.63,215,1325,257,1703,12,7,1,1,3,6
+a4,A4 fixed reference,ablation,Q1176,26,0,ok,ok,2.49,223,1406,259,1724,14,8,4,1,1,6
+a4,A4 fixed reference,ablation,Q1181,26,0,ok,ok,4.65,235,1408,174,1310,10,9,1,0,0,9
+a4,A4 fixed reference,ablation,Q1186,26,0,ok,ok,2.37,223,1364,258,1710,9,4,5,0,0,3
+a4,A4 fixed reference,ablation,Q1681,26,0,ok,ok,2.01,171,1061,255,1689,5,5,0,0,0,4
+a4,A4 fixed reference,ablation,Q1686,26,0,ok,ok,1.96,153,948,172,1299,7,7,0,0,0,7
+a4,A4 fixed reference,ablation,Q0071,1,1,ok,ok,642.13,214,1301,227,1698,9,8,0,1,0,5
+a4,A4 fixed reference,ablation,Q0076,1,1,ok,ok,678.13,253,1536,228,1712,8,6,0,0,2,6
+a4,A4 fixed reference,ablation,Q0096,1,1,ok,ok,546.01,210,1247,185,1392,11,6,2,1,2,6
+a4,A4 fixed reference,ablation,Q0721,1,1,ok,ok,3.8,219,1306,210,1564,15,6,4,1,4,6
+a4,A4 fixed reference,ablation,Q0851,1,1,ok,ok,2.86,199,1193,226,1693,17,8,5,3,1,8
+a4,A4 fixed reference,ablation,Q0861,1,1,ok,ok,3.98,197,1177,188,1407,12,8,2,2,0,8
+a4,A4 fixed reference,ablation,Q0871,1,1,ok,ok,83.77,163,983,228,1700,7,4,3,0,0,4
+a4,A4 fixed reference,ablation,Q0881,1,1,ok,ok,204.83,179,1104,224,1688,15,12,1,2,0,7
+a4,A4 fixed reference,ablation,Q0886,1,1,ok,ok,171.12,200,1160,228,1696,12,8,1,3,0,8
+a4,A4 fixed reference,ablation,Q0976,1,1,ok,ok,74.2,253,1547,317,2100,12,9,0,0,3,8
+a4,A4 fixed reference,ablation,Q0201,2,1,ok,ok,2.39,185,1100,228,1524,7,6,1,0,0,6
+a4,A4 fixed reference,ablation,Q0206,2,1,ok,ok,2.81,224,1396,261,1718,10,9,1,0,0,8
+a4,A4 fixed reference,ablation,Q0211,2,1,ok,ok,2.7,182,1111,227,1513,3,2,1,0,0,2
+a4,A4 fixed reference,ablation,Q0216,2,1,ok,ok,3.19,232,1389,229,1529,5,3,0,2,0,2
+a4,A4 fixed reference,ablation,Q0221,2,1,ok,ok,3.87,194,1225,262,1723,10,7,2,1,0,6
+a4,A4 fixed reference,ablation,Q0226,2,1,ok,ok,2.29,198,1199,232,1540,9,6,3,0,0,6
+a4,A4 fixed reference,ablation,Q0231,2,1,ok,ok,2.41,208,1275,259,1718,5,4,1,0,0,4
+a4,A4 fixed reference,ablation,Q0236,2,1,ok,ok,2.41,194,1201,260,1749,8,4,4,0,0,4
+a4,A4 fixed reference,ablation,Q0241,2,1,ok,ok,2.13,168,988,260,1722,12,8,3,0,1,3
+a4,A4 fixed reference,ablation,Q0246,2,1,ok,ok,2.25,207,1242,261,1726,8,7,1,0,0,6
+a4,A4 fixed reference,ablation,Q0341,3,1,ok,ok,2.22,180,1152,86,626,5,1,3,0,1,1
+a4,A4 fixed reference,ablation,Q0346,3,1,ok,ok,3.05,178,1142,87,630,5,3,0,1,1,3
+a4,A4 fixed reference,ablation,Q0351,3,1,ok,ok,2.06,177,1109,89,630,2,1,1,0,0,1
+a4,A4 fixed reference,ablation,Q0356,3,1,ok,ok,1.96,148,949,84,615,4,2,0,1,1,2
+a4,A4 fixed reference,ablation,Q0361,3,1,ok,ok,1.86,157,1008,85,618,6,0,3,0,3,0
+a4,A4 fixed reference,ablation,Q0366,3,1,ok,ok,2.04,142,895,87,629,5,2,1,0,2,2
+a4,A4 fixed reference,ablation,Q0371,3,1,ok,ok,2.58,201,1264,87,621,5,3,1,0,1,3
+a4,A4 fixed reference,ablation,Q0376,3,1,ok,ok,2.71,199,1291,87,626,5,4,1,0,0,3
+a4,A4 fixed reference,ablation,Q1411,3,1,ok,ok,2.59,211,1314,83,602,10,5,2,0,3,4
+a4,A4 fixed reference,ablation,Q1501,3,1,ok,ok,3.36,197,1209,87,626,3,3,0,0,0,3
+a4,A4 fixed reference,ablation,Q0461,4,1,ok,ok,63.11,160,1011,67,551,5,0,2,0,3,0
+a4,A4 fixed reference,ablation,Q0466,4,1,ok,ok,1.59,116,756,69,561,1,1,0,0,0,1
+a4,A4 fixed reference,ablation,Q0471,4,1,ok,ok,3.0,159,1040,68,553,11,0,11,0,0,0
+a4,A4 fixed reference,ablation,Q0476,4,1,ok,ok,1.84,167,1039,68,554,10,0,8,0,2,0
+a4,A4 fixed reference,ablation,Q0481,4,1,ok,ok,1.7,109,713,65,539,5,2,2,0,1,2
+a4,A4 fixed reference,ablation,Q0486,4,1,ok,ok,1.89,144,936,65,539,4,1,2,0,1,1
+a4,A4 fixed reference,ablation,Q0491,4,1,ok,ok,1.56,116,785,65,546,5,0,5,0,0,0
+a4,A4 fixed reference,ablation,Q0496,4,1,ok,ok,1.83,158,981,67,550,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q1386,4,1,ok,ok,2.66,140,932,67,549,6,0,6,0,0,0
+a4,A4 fixed reference,ablation,Q1526,4,1,ok,ok,3.77,127,806,68,547,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q0581,5,1,ok,ok,2.18,208,1262,195,1320,3,3,0,0,0,3
+a4,A4 fixed reference,ablation,Q0586,5,1,ok,ok,2.43,220,1367,195,1300,6,6,0,0,0,5
+a4,A4 fixed reference,ablation,Q0591,5,1,ok,ok,1.89,180,1145,221,1468,3,2,1,0,0,2
+a4,A4 fixed reference,ablation,Q0596,5,1,ok,ok,2.67,211,1292,192,1308,6,6,0,0,0,6
+a4,A4 fixed reference,ablation,Q0601,5,1,ok,ok,1.84,164,998,196,1313,4,2,2,0,0,2
+a4,A4 fixed reference,ablation,Q0606,5,1,ok,ok,1.65,146,901,221,1470,5,5,0,0,0,3
+a4,A4 fixed reference,ablation,Q0611,5,1,ok,ok,1.87,170,1043,194,1297,5,2,3,0,0,2
+a4,A4 fixed reference,ablation,Q0616,5,1,ok,ok,2.02,171,1034,251,1673,8,7,1,0,0,6
+a4,A4 fixed reference,ablation,Q1551,5,1,ok,ok,2.2,203,1264,252,1674,10,7,3,0,0,7
+a4,A4 fixed reference,ablation,Q1556,5,1,ok,ok,1.92,173,1108,197,1320,6,6,0,0,0,5
+a4,A4 fixed reference,ablation,Q1191,26,1,ok,ok,2.2,228,1432,259,1739,12,10,1,0,1,9
+a4,A4 fixed reference,ablation,Q1196,26,1,ok,ok,2.51,235,1409,259,1732,8,8,0,0,0,8
+a4,A4 fixed reference,ablation,Q1201,26,1,ok,ok,2.88,269,1603,262,1753,10,9,1,0,0,7
+a4,A4 fixed reference,ablation,Q1206,26,1,ok,ok,10.36,265,1629,260,1749,8,8,0,0,0,7
+a4,A4 fixed reference,ablation,Q1211,26,1,ok,ok,2.54,214,1351,257,1729,4,4,0,0,0,3
+a4,A4 fixed reference,ablation,Q1216,26,1,ok,ok,2.96,260,1586,260,1745,11,11,0,0,0,9
+a4,A4 fixed reference,ablation,Q1221,26,1,ok,ok,2.69,229,1406,259,1733,11,8,2,0,1,7
+a4,A4 fixed reference,ablation,Q1226,26,1,ok,ok,2.48,241,1476,260,1753,6,6,0,0,0,6
+a4,A4 fixed reference,ablation,Q1671,26,1,ok,ok,1.75,164,1056,259,1733,7,7,0,0,0,5
+a4,A4 fixed reference,ablation,Q1676,26,1,ok,ok,1.82,143,877,259,1732,6,5,1,0,0,4
+a4,A4 fixed reference,ablation,Q0101,1,2,ok,ok,127.98,211,1350,227,1704,12,10,0,0,2,8
+a4,A4 fixed reference,ablation,Q0111,1,2,ok,ok,98.79,221,1295,207,1542,12,5,3,1,3,5
+a4,A4 fixed reference,ablation,Q0766,1,2,ok,ok,151.47,246,1457,228,1707,8,6,0,2,0,6
+a4,A4 fixed reference,ablation,Q0786,1,2,ok,ok,2.68,238,1416,228,1712,6,6,0,0,0,5
+a4,A4 fixed reference,ablation,Q0896,1,2,ok,ok,2.1,177,1110,206,1537,7,7,0,0,0,5
+a4,A4 fixed reference,ablation,Q0911,1,2,ok,ok,2.34,207,1264,227,1701,11,8,3,0,0,8
+a4,A4 fixed reference,ablation,Q0916,1,2,ok,ok,352.87,194,1195,226,1685,16,8,5,3,0,7
+a4,A4 fixed reference,ablation,Q0921,1,2,ok,ok,315.2,192,1196,227,1709,14,12,0,2,0,5
+a4,A4 fixed reference,ablation,Q0926,1,2,ok,ok,109.58,209,1231,209,1546,8,8,0,0,0,7
+a4,A4 fixed reference,ablation,Q1041,1,2,ok,ok,83.53,251,1542,281,1903,10,10,0,0,0,8
+a4,A4 fixed reference,ablation,Q0251,2,2,ok,ok,3.84,219,1369,260,1727,10,2,5,3,0,1
+a4,A4 fixed reference,ablation,Q0256,2,2,ok,ok,2.6,178,1107,203,1368,6,5,1,0,0,5
+a4,A4 fixed reference,ablation,Q0261,2,2,ok,ok,1.91,161,999,228,1536,5,0,4,1,0,0
+a4,A4 fixed reference,ablation,Q0266,2,2,ok,ok,3.32,238,1440,260,1727,7,6,1,0,0,6
+a4,A4 fixed reference,ablation,Q0271,2,2,ok,ok,3.4,196,1224,200,1349,8,6,1,1,0,6
+a4,A4 fixed reference,ablation,Q0276,2,2,ok,ok,2.47,148,939,229,1542,3,1,2,0,0,1
+a4,A4 fixed reference,ablation,Q0281,2,2,ok,ok,2.35,209,1234,262,1736,9,8,1,0,0,4
+a4,A4 fixed reference,ablation,Q0286,2,2,ok,ok,3.03,191,1122,261,1738,5,3,2,0,0,3
+a4,A4 fixed reference,ablation,Q0291,2,2,ok,ok,2.59,217,1324,259,1742,7,4,3,0,0,4
+a4,A4 fixed reference,ablation,Q0296,2,2,ok,ok,2.43,171,1071,228,1534,4,3,0,0,1,2
+a4,A4 fixed reference,ablation,Q0381,3,2,ok,ok,2.42,176,1123,86,624,5,3,0,0,2,3
+a4,A4 fixed reference,ablation,Q0386,3,2,ok,ok,4.37,187,1189,87,628,3,2,1,0,0,1
+a4,A4 fixed reference,ablation,Q0391,3,2,ok,ok,4.1,182,1128,85,620,8,6,0,1,1,6
+a4,A4 fixed reference,ablation,Q0396,3,2,ok,ok,2.56,219,1365,85,611,8,3,0,1,4,3
+a4,A4 fixed reference,ablation,Q0401,3,2,ok,ok,2.49,206,1261,87,634,6,3,3,0,0,2
+a4,A4 fixed reference,ablation,Q0406,3,2,ok,ok,4.28,242,1500,84,615,6,6,0,0,0,6
+a4,A4 fixed reference,ablation,Q0411,3,2,ok,ok,2.28,182,1127,87,619,4,2,0,1,1,2
+a4,A4 fixed reference,ablation,Q0416,3,2,ok,ok,2.29,190,1180,88,638,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q1516,3,2,ok,ok,2.16,171,1114,84,610,7,4,0,2,1,4
+a4,A4 fixed reference,ablation,Q1521,3,2,ok,ok,2.61,184,1118,85,616,8,2,1,5,0,2
+a4,A4 fixed reference,ablation,Q0501,4,2,ok,ok,63.25,114,748,67,549,3,2,0,0,1,2
+a4,A4 fixed reference,ablation,Q0506,4,2,ok,ok,1.4,110,714,67,549,4,2,2,0,0,1
+a4,A4 fixed reference,ablation,Q0511,4,2,ok,ok,1.66,107,685,67,547,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q0516,4,2,ok,ok,1.83,140,883,66,537,5,2,2,0,1,2
+a4,A4 fixed reference,ablation,Q0521,4,2,ok,ok,1.59,108,716,66,540,4,2,2,0,0,1
+a4,A4 fixed reference,ablation,Q0526,4,2,ok,ok,1.72,140,904,67,558,7,0,5,0,2,0
+a4,A4 fixed reference,ablation,Q0531,4,2,ok,ok,1.51,131,846,67,548,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q0536,4,2,ok,ok,1.83,139,876,65,539,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q1541,4,2,ok,ok,1.76,106,696,69,555,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q1546,4,2,ok,ok,2.2,131,823,67,543,2,2,0,0,0,1
+a4,A4 fixed reference,ablation,Q0621,5,2,ok,ok,1.91,162,1044,195,1317,3,3,0,0,0,3
+a4,A4 fixed reference,ablation,Q0626,5,2,ok,ok,1.75,155,1003,195,1304,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q0631,5,2,ok,ok,3.19,162,1000,222,1497,4,3,1,0,0,3
+a4,A4 fixed reference,ablation,Q0636,5,2,ok,ok,1.96,136,841,195,1314,4,4,0,0,0,2
+a4,A4 fixed reference,ablation,Q0641,5,2,ok,ok,1.85,155,940,195,1305,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q0646,5,2,ok,ok,2.04,175,1066,221,1484,6,6,0,0,0,3
+a4,A4 fixed reference,ablation,Q0651,5,2,ok,ok,2.07,172,1062,195,1316,3,3,0,0,0,2
+a4,A4 fixed reference,ablation,Q0656,5,2,ok,ok,4.29,206,1271,252,1680,6,5,1,0,0,5
+a4,A4 fixed reference,ablation,Q1566,5,2,ok,ok,2.4,189,1156,251,1670,9,9,0,0,0,7
+a4,A4 fixed reference,ablation,Q1571,5,2,ok,ok,1.84,165,992,222,1487,4,2,0,0,2,2
+a4,A4 fixed reference,ablation,Q1051,12,2,ok,ok,2.75,248,1578,285,1944,6,6,0,0,0,5
+a4,A4 fixed reference,ablation,Q1056,12,2,ok,ok,2.26,193,1181,227,1572,6,4,0,1,1,4
+a4,A4 fixed reference,ablation,Q1061,12,2,ok,ok,2.96,222,1354,254,1754,10,5,3,2,0,4
+a4,A4 fixed reference,ablation,Q1066,12,2,ok,ok,2.62,216,1323,287,1956,8,4,4,0,0,4
+a4,A4 fixed reference,ablation,Q1071,12,2,ok,ok,2.29,195,1189,227,1566,10,6,3,1,0,6
+a4,A4 fixed reference,ablation,Q1076,12,2,ok,ok,2.36,191,1188,256,1768,6,6,0,0,0,6
+a4,A4 fixed reference,ablation,Q1081,12,2,ok,ok,2.72,245,1521,285,1946,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q1086,12,2,ok,ok,2.81,199,1268,286,1965,2,0,0,0,2,0
+a4,A4 fixed reference,ablation,Q1091,12,2,ok,ok,4.46,202,1214,229,1579,5,5,0,0,0,5
+a4,A4 fixed reference,ablation,Q1096,12,2,ok,ok,2.06,183,1144,256,1765,5,4,1,0,0,4
+a4,A4 fixed reference,ablation,Q1101,12,2,ok,ok,2.2,207,1277,288,1960,8,6,1,1,0,6
+a4,A4 fixed reference,ablation,Q1106,12,2,ok,ok,2.7,231,1458,227,1575,16,11,1,1,3,9
+a4,A4 fixed reference,ablation,Q1111,12,2,ok,ok,2.5,221,1346,254,1760,10,7,2,1,0,7
+a4,A4 fixed reference,ablation,Q1116,12,2,ok,ok,2.65,210,1366,287,1958,7,6,1,0,0,6
+a4,A4 fixed reference,ablation,Q1121,12,2,ok,ok,3.66,207,1285,227,1568,5,5,0,0,0,5
+a4,A4 fixed reference,ablation,Q1126,12,2,ok,ok,3.44,209,1281,255,1762,12,5,4,2,1,5
+a4,A4 fixed reference,ablation,Q1131,12,2,ok,ok,2.18,186,1177,288,1966,5,4,0,1,0,4
+a4,A4 fixed reference,ablation,Q1136,12,2,ok,ok,2.83,254,1573,286,1961,14,14,0,0,0,12
+a4,A4 fixed reference,ablation,Q1141,12,2,ok,ok,2.59,198,1216,228,1571,5,5,0,0,0,5
+a4,A4 fixed reference,ablation,Q1146,12,2,ok,ok,3.79,200,1264,254,1760,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q1396,12,2,ok,ok,2.7,245,1573,292,1987,7,7,0,0,0,7
+a4,A4 fixed reference,ablation,Q1576,12,2,ok,ok,2.22,197,1244,228,1572,9,6,1,0,2,6
+a4,A4 fixed reference,ablation,Q1581,12,2,ok,ok,6.87,260,1601,253,1758,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q1586,12,2,ok,ok,2.91,279,1739,287,1956,11,5,3,1,2,5
+a4,A4 fixed reference,ablation,Q1591,12,2,ok,ok,2.61,227,1404,227,1570,8,8,0,0,0,8
+a4,A4 fixed reference,ablation,Q1596,12,2,ok,ok,2.69,231,1457,254,1773,5,5,0,0,0,5
+a4,A4 fixed reference,ablation,Q1601,12,2,ok,ok,2.83,223,1380,287,1961,9,6,1,0,2,5
+a4,A4 fixed reference,ablation,Q1606,12,2,ok,ok,2.99,281,1747,286,1954,10,10,0,0,0,9
+a4,A4 fixed reference,ablation,Q1611,12,2,ok,ok,4.84,226,1413,227,1569,5,5,0,0,0,5
+a4,A4 fixed reference,ablation,Q1616,12,2,ok,ok,2.55,222,1384,254,1759,8,4,3,0,1,4
+a4,A4 fixed reference,ablation,Q1271,15,2,ok,ok,2.71,209,1362,227,1586,6,5,0,1,0,5
+a4,A4 fixed reference,ablation,Q1276,15,2,ok,ok,2.1,185,1182,229,1582,7,7,0,0,0,7
+a4,A4 fixed reference,ablation,Q1281,15,2,ok,ok,2.27,172,1090,230,1598,9,6,1,1,1,5
+a4,A4 fixed reference,ablation,Q1286,15,2,ok,ok,2.49,212,1336,229,1589,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q1291,15,2,ok,ok,3.46,158,1006,229,1580,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q1296,15,2,ok,ok,2.87,159,1039,229,1600,5,5,0,0,0,5
+a4,A4 fixed reference,ablation,Q1301,15,2,ok,ok,2.33,191,1198,229,1592,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q1306,15,2,ok,ok,2.49,205,1301,286,1960,9,4,1,3,1,4
+a4,A4 fixed reference,ablation,Q1311,15,2,ok,ok,2.14,186,1130,286,1957,6,6,0,0,0,6
+a4,A4 fixed reference,ablation,Q1316,15,2,ok,ok,2.04,192,1173,228,1586,5,5,0,0,0,5
+a4,A4 fixed reference,ablation,Q1321,15,2,ok,ok,1.96,198,1254,230,1597,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q1326,15,2,ok,ok,2.42,170,1099,231,1603,9,9,0,0,0,9
+a4,A4 fixed reference,ablation,Q1331,15,2,ok,ok,2.42,216,1356,230,1598,2,2,0,0,0,2
+a4,A4 fixed reference,ablation,Q1336,15,2,ok,ok,2.34,222,1365,227,1584,7,7,0,0,0,7
+a4,A4 fixed reference,ablation,Q1341,15,2,ok,ok,3.71,139,941,233,1613,9,9,0,0,0,9
+a4,A4 fixed reference,ablation,Q1346,15,2,ok,ok,2.46,162,1034,228,1594,5,3,0,1,1,3
+a4,A4 fixed reference,ablation,Q1351,15,2,ok,ok,5.17,152,984,229,1590,6,4,0,1,1,4
+a4,A4 fixed reference,ablation,Q1356,15,2,ok,ok,2.23,190,1220,284,1954,5,5,0,0,0,5
+a4,A4 fixed reference,ablation,Q1361,15,2,ok,ok,1.93,185,1166,286,1954,3,3,0,0,0,3
+a4,A4 fixed reference,ablation,Q1366,15,2,ok,ok,2.46,182,1174,231,1601,4,4,0,0,0,4
+a4,A4 fixed reference,ablation,Q1621,15,2,ok,ok,2.2,196,1245,229,1595,6,3,0,1,2,3
+a4,A4 fixed reference,ablation,Q1626,15,2,ok,ok,2.61,200,1319,228,1579,8,8,0,0,0,8
+a4,A4 fixed reference,ablation,Q1631,15,2,ok,ok,2.61,185,1198,231,1599,8,6,0,1,1,6
+a4,A4 fixed reference,ablation,Q1636,15,2,ok,ok,4.53,210,1345,230,1597,6,6,0,0,0,6
+a4,A4 fixed reference,ablation,Q1641,15,2,ok,ok,2.76,219,1401,227,1577,6,5,1,0,0,5
+a4,A4 fixed reference,ablation,Q1646,15,2,ok,ok,4.18,160,1011,228,1587,5,3,1,1,0,3
+a4,A4 fixed reference,ablation,Q1651,15,2,ok,ok,2.35,195,1262,228,1588,7,4,2,1,0,4
+a4,A4 fixed reference,ablation,Q1656,15,2,ok,ok,2.5,227,1450,286,1957,6,6,0,0,0,6
+a4,A4 fixed reference,ablation,Q1661,15,2,ok,ok,2.12,180,1161,286,1949,5,4,1,0,0,2
+a4,A4 fixed reference,ablation,Q1666,15,2,ok,ok,2.78,176,1133,230,1592,6,6,0,0,0,6
+a4,A4 fixed reference,ablation,Q1231,26,2,ok,ok,2.53,209,1307,259,1747,9,9,0,0,0,8
+a4,A4 fixed reference,ablation,Q1236,26,2,ok,ok,2.58,242,1507,259,1743,8,6,1,1,0,5
+a4,A4 fixed reference,ablation,Q1241,26,2,ok,ok,2.51,242,1426,259,1745,6,4,1,1,0,3
+a4,A4 fixed reference,ablation,Q1246,26,2,ok,ok,2.69,255,1524,258,1738,8,8,0,0,0,8
+a4,A4 fixed reference,ablation,Q1251,26,2,ok,ok,2.56,229,1414,259,1749,10,10,0,0,0,9
+a4,A4 fixed reference,ablation,Q1256,26,2,ok,ok,3.0,249,1507,260,1751,9,9,0,0,0,9
+a4,A4 fixed reference,ablation,Q1261,26,2,ok,ok,3.7,241,1494,259,1744,9,9,0,0,0,8
+a4,A4 fixed reference,ablation,Q1266,26,2,ok,ok,2.59,233,1414,258,1746,8,8,0,0,0,8
+a4,A4 fixed reference,ablation,Q1691,26,2,ok,ok,2.15,142,909,258,1719,5,3,1,1,0,3
+a4,A4 fixed reference,ablation,Q1696,26,2,ok,ok,2.12,167,1070,257,1728,7,7,0,0,0,6

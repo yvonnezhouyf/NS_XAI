@@ -1,0 +1,241 @@
+query_id,type_k,scenario,query_text
+Q0071,1,1,"After the crash, why was Vehicle 4 picked over Vehicle 1 at request 4?"
+Q0076,1,1,Why was Vehicle 4 chosen over Vehicle 3 at request 5 after the accident affected the route?
+Q0096,1,1,"After the accident, why was V0 given request 6 over V1?"
+Q0721,1,1,"Given the accident, why was the nearest vehicle not picked for request 4 at epoch 4?"
+Q0851,1,1,"After the accident, how do V4 and V3 compare on delay risk at request 5?"
+Q0861,1,1,Compare V0 and V1 on delay and reward at request 6 after the accident.
+Q0871,1,1,"At request 7 after the accident, how does V1 stack up against V2 on risk?"
+Q0881,1,1,"Post-accident, compare V1 and V3 on delay risk at request 8."
+Q0886,1,1,"Given the road blockage, how do V0 and V1 compare on reward at request 9?"
+Q0976,1,1,Why did the dispatcher assign a more distant van for request 10 after the accident?
+Q0021,1,0,Why was Vehicle 4 picked over Vehicle 0 at request 1?
+Q0036,1,0,Why did Vehicle 4 get request 2 instead of Vehicle 0?
+Q0686,1,0,"At epoch 3, why didn't the closest vehicle get request 3?"
+Q0701,1,0,"Under this traffic, why didn't the closest vehicle handle request 4 at epoch 4?"
+Q0811,1,0,How do Vehicle 0 and Vehicle 4 compare on delay risk at request 5?
+Q0931,1,0,Why was a farther vehicle chosen at request 6?
+Q0941,1,0,Why did the dispatcher choose a farther van over a closer one at request 7?
+Q0956,1,0,"At request 8, why was the farther vehicle selected?"
+Q0961,1,0,Why did the system go with a farther van for request 9?
+Q1401,1,0,"At request 10, why wasn't the closest vehicle assigned?"
+Q0101,1,2,"During the event, why was Vehicle 3 chosen over Vehicle 1 for request 4?"
+Q0111,1,2,"During the stadium event, why was V2 assigned request 5 and not V0?"
+Q0766,1,2,Why didn't the closest vehicle get request 6 at epoch 6 with the concert on?
+Q0786,1,2,Why wasn't the closest vehicle chosen for request 4 at epoch 4 during the event?
+Q0896,1,2,"With event congestion, how does V2 compare to V0 at request 5?"
+Q0911,1,2,"Given the stadium event, how does V0 stack up against V3 at request 6?"
+Q0916,1,2,"At request 7 with the event, compare Vehicle 0 and Vehicle 1 on risk."
+Q0921,1,2,"During the event, what's the risk comparison between V1 and V0 for request 8?"
+Q0926,1,2,"Given the event delays, how do V1 and V0 compare on delay at request 9?"
+Q1041,1,2,"During event-induced delays, why was a farther vehicle picked for request 10?"
+Q0201,2,1,"After the accident at epoch 4, which vehicle is most reliable?"
+Q0206,2,1,"At epoch 5, once the accident hit, which vehicle is most reliable?"
+Q0211,2,1,Which vehicle is most reliable at epoch 6 given the accident?
+Q0216,2,1,"After the road blockage at epoch 4, which vehicle is most reliable?"
+Q0221,2,1,"At epoch 5 after the crash, which van offers the most reliable service?"
+Q0226,2,1,"With the travel times spiked by the accident, which vehicle is most reliable at epoch 6?"
+Q0231,2,1,"At epoch 7 post-accident, which vehicle is the most reliable?"
+Q0236,2,1,"After the accident, which vehicle offers the most dependable service at epoch 8?"
+Q0241,2,1,Which vehicle is most reliable at epoch 9 once travel times stabilized after the crash?
+Q0246,2,1,"At epoch 10 after the road closure, which vehicle is most reliable?"
+Q0151,2,0,"At epoch 1, which vehicle is most reliable?"
+Q0156,2,0,"At epoch 2, which vehicle offers the most dependable service?"
+Q0161,2,0,Which vehicle has the best reliability at epoch 3?
+Q0166,2,0,"At epoch 4, which vehicle is performing most reliably?"
+Q0171,2,0,"Under this traffic, which vehicle is most reliable at epoch 5?"
+Q0176,2,0,"At epoch 6, which vehicle has the best service reliability?"
+Q0181,2,0,Which vehicle is most dependable at epoch 7?
+Q0186,2,0,"At epoch 8, which vehicle's service is most reliable?"
+Q0191,2,0,"At epoch 9, which vehicle is the most reliable option?"
+Q0196,2,0,"Under these traffic conditions at epoch 10, which vehicle is most reliable?"
+Q0251,2,2,"During the event at epoch 4, which vehicle is most reliable?"
+Q0256,2,2,"Once the concert started at epoch 5, which vehicle offers the most reliable service?"
+Q0261,2,2,"During the stadium event at epoch 6, which vehicle is most reliable?"
+Q0266,2,2,"At epoch 4 during the event, which vehicle is most reliable?"
+Q0271,2,2,"With event congestion at epoch 5, which vehicle is most reliable?"
+Q0276,2,2,"At epoch 6 during the event, which van offers the most dependable service?"
+Q0281,2,2,Which vehicle is most reliable at epoch 7 while the event is ongoing?
+Q0286,2,2,"During the game traffic at epoch 8, which vehicle is most reliable?"
+Q0291,2,2,"With the event happening at epoch 9, which vehicle offers the best reliability?"
+Q0296,2,2,"At epoch 10 once the event peaked, which vehicle is most reliable?"
+Q0341,3,1,"After the accident, why was carpooling started for request 4 at epoch 4?"
+Q0346,3,1,Why did the system avoid carpooling request 5 at epoch 5 after the accident?
+Q0351,3,1,"At epoch 6, once the road was blocked, why was request 6 put into a carpool?"
+Q0356,3,1,Why avoid carpooling request 4 at epoch 4 after the accident?
+Q0361,3,1,Why was request 5 carpooled at epoch 5 once travel times spiked?
+Q0366,3,1,"After the crash, why did the dispatcher avoid pooling request 6 at epoch 6?"
+Q0371,3,1,"At epoch 7 after the accident, why was request 7 added to a carpool?"
+Q0376,3,1,Why did the system avoid carpooling request 8 at epoch 8 after the crash?
+Q1411,3,1,"After the crash at epoch 9, why was it carpooled?"
+Q1501,3,1,"After the accident, why wasn't request 10 added to a carpool at epoch 10?"
+Q0301,3,0,"At epoch 1, why did the dispatcher avoid carpooling for request 1?"
+Q0306,3,0,"At epoch 2, why was request 2 assigned to carpool?"
+Q0311,3,0,Why did the system avoid pooling request 3 at epoch 3?
+Q0316,3,0,"At epoch 4, why was carpooling started for request 4?"
+Q0321,3,0,"At epoch 5, why did the dispatcher avoid carpooling request 5?"
+Q0326,3,0,"At epoch 6, why was request 6 put into a carpool?"
+Q0331,3,0,Why did the dispatcher not pool request 7 at epoch 7?
+Q0336,3,0,"At epoch 8, why was request 8 carpooled?"
+Q1506,3,0,"At epoch 9, why was request 9 added to a carpool?"
+Q1511,3,0,"At epoch 10, why wasn't request 10 placed into a carpool?"
+Q0381,3,2,"During the event, why was carpooling started for request 4 at epoch 4?"
+Q0386,3,2,Why did the system avoid pooling request 5 at epoch 5 during the concert?
+Q0391,3,2,"At epoch 6 during the stadium event, why was request 6 carpooled?"
+Q0396,3,2,Why was request 4 not pooled at epoch 4 during the event?
+Q0401,3,2,Why was carpooling started for request 5 at epoch 5 given the event congestion?
+Q0406,3,2,"During the event, why wasn't request 6 carpooled at epoch 6?"
+Q0411,3,2,"At epoch 7 during the event, why was request 7 put into a carpool?"
+Q0416,3,2,Why did the dispatcher avoid pooling request 8 at epoch 8 during the concert traffic?
+Q1516,3,2,"During the event at epoch 9, why was request 9 carpooled?"
+Q1521,3,2,"With the event on at epoch 10, why wasn't request 10 carpooled?"
+Q0461,4,1,"After the accident, when does the dispatcher stop being overly pessimistic?"
+Q0466,4,1,At what epoch after the accident does the system re-calibrate away from over-caution?
+Q0471,4,1,"Once the accident happened, when does the dispatcher stop being too cautious?"
+Q0476,4,1,When does the dispatcher stop being too pessimistic after travel times change?
+Q0481,4,1,"Post-accident, at what epoch does the system regain confidence?"
+Q0486,4,1,"After the accident, when does the dispatcher stop over-hedging?"
+Q0491,4,1,"After the crash, when does the dispatcher's over-conservatism resolve?"
+Q0496,4,1,At what epoch after the accident does the dispatcher's over-pessimism end?
+Q1386,4,1,"After the accident, when does the dispatcher start being confident again?"
+Q1526,4,1,"After the accident, at what epoch does the dispatcher return to normal?"
+Q0421,4,0,At what epoch does the dispatcher stop being overly pessimistic?
+Q0426,4,0,When does the dispatcher stop being overly cautious in its estimates?
+Q0431,4,0,At what point does the dispatcher start making more optimistic assignments?
+Q0436,4,0,At what epoch does the dispatcher start behaving less conservatively?
+Q0441,4,0,When in the run does the dispatcher calm down from its overly pessimistic behavior?
+Q0446,4,0,When does the dispatcher start making the kind of assignments we'd expect?
+Q0451,4,0,At what epoch does the dispatcher stop over-avoiding risk?
+Q0456,4,0,"Under current traffic, when does the dispatcher stop being overly pessimistic?"
+Q1531,4,0,When does the dispatcher stop being overly cautious about its estimates?
+Q1536,4,0,At what point does the dispatcher stop overestimating risk?
+Q0501,4,2,"During the event, when does the dispatcher stop being overly pessimistic?"
+Q0506,4,2,"After the event starts, when does the dispatcher stop over-avoiding risk?"
+Q0511,4,2,At what epoch during the event does the dispatcher's pessimism resolve?
+Q0516,4,2,"Once the concert started, when does the dispatcher calm down?"
+Q0521,4,2,"During the event, at what epoch does the dispatcher recalibrate?"
+Q0526,4,2,When does the system stop being overly pessimistic after event-induced congestion?
+Q0531,4,2,When does the dispatcher begin behaving normally again during the event?
+Q0536,4,2,"Under the event's congestion, when does the over-pessimism end?"
+Q1541,4,2,"During the event, at what epoch does the dispatcher recover from extra caution?"
+Q1546,4,2,At what epoch does the dispatcher stabilize after the event begins?
+Q0581,5,1,"After the accident, how confident is the dispatcher about Vehicle 4 at epoch 4?"
+Q0586,5,1,"Given the accident, how confident is the system about Vehicle 4 at epoch 5?"
+Q0591,5,1,"At epoch 6 after the crash, how confident is the dispatcher in V0?"
+Q0596,5,1,"Post-accident, how confident is the dispatcher about V4 at epoch 4?"
+Q0601,5,1,How confident is the dispatcher about assigning Vehicle 4 at epoch 5 given the blockage?
+Q0606,5,1,"At epoch 6 after the accident, how confident is the system about V0?"
+Q0611,5,1,"Given the accident, how sure is the dispatcher about V1 at epoch 7?"
+Q0616,5,1,"Once travel times spiked, how confident is the dispatcher about V1 at epoch 8?"
+Q1551,5,1,"After the accident, how confident is the dispatcher about assigning Vehicle 0 at epoch 9?"
+Q1556,5,1,"After the crash, how confident is the system about its Vehicle 0 assignment at epoch 10?"
+Q0541,5,0,"At epoch 1, how confident is the dispatcher about assigning Vehicle 4?"
+Q0546,5,0,"At epoch 2, how confident is the system about its Vehicle 4 assignment?"
+Q0551,5,0,How confident is the dispatcher about Vehicle 4 at epoch 3?
+Q0556,5,0,"At epoch 4, how sure is the dispatcher about assigning V4?"
+Q0561,5,0,"Under this traffic, how confident is the dispatcher about Vehicle 0 at epoch 5?"
+Q0566,5,0,"At epoch 6, how confident is the dispatcher about Vehicle 3?"
+Q0571,5,0,How confident is the system about assigning Vehicle 0 at epoch 7?
+Q0576,5,0,"At epoch 8, how confident is the dispatcher in its assignment of V0?"
+Q1391,5,0,"At epoch 8, how confident is the dispatcher?"
+Q1561,5,0,"At epoch 10, how confident is the system about Vehicle 0?"
+Q0621,5,2,"During the event, how confident is the dispatcher about Vehicle 3 at epoch 4?"
+Q0626,5,2,"At epoch 5 during the concert, how sure is the system about Vehicle 2?"
+Q0631,5,2,"With the event congestion, how confident is the dispatcher about V0 at epoch 6?"
+Q0636,5,2,"At epoch 4 during the stadium event, how confident is the system about V3?"
+Q0641,5,2,"Given the event, how sure is the dispatcher about Vehicle 2 at epoch 5?"
+Q0646,5,2,"During the event, how confident is the system about V0 at epoch 6?"
+Q0651,5,2,"At epoch 7 with the event ongoing, how confident is the dispatcher about V0?"
+Q0656,5,2,"Once the event peaked, how sure is the dispatcher about Vehicle 1 at epoch 8?"
+Q1566,5,2,"During the event, how confident is the dispatcher about Vehicle 1 at epoch 9?"
+Q1571,5,2,"At epoch 10 during the event, how sure is the system about Vehicle 3?"
+Q1051,12,2,How did the event affect assignment at epoch 4?
+Q1056,12,2,"At epoch 5, how did the event change the assignment decision?"
+Q1061,12,2,What effect did the event have on assignment at epoch 6?
+Q1066,12,2,How did the stadium event change the assignment at epoch 4?
+Q1071,12,2,"At epoch 5, how was the assignment shaped by the event?"
+Q1076,12,2,"Once the concert started, how did it affect the assignment at epoch 6?"
+Q1081,12,2,How did the event influence assignment at epoch 7?
+Q1086,12,2,"At epoch 8, how did event-induced congestion impact the assignment?"
+Q1091,12,2,How did the event's impact change what vehicle was chosen at epoch 9?
+Q1096,12,2,What effect did the event have on the assignment outcome at epoch 10?
+Q1101,12,2,"At epoch 4, how did the event shift which vehicle got assigned?"
+Q1106,12,2,How did the event's congestion change the assignment at epoch 5?
+Q1111,12,2,"During the event, how was the assignment at epoch 6 different?"
+Q1116,12,2,How did event congestion play into the assignment at epoch 4?
+Q1121,12,2,What was the event's impact on the assignment at epoch 5?
+Q1126,12,2,"At epoch 6, once the event peaked, how did it affect assignment?"
+Q1131,12,2,"During the stadium event, how was the assignment at epoch 7 different?"
+Q1136,12,2,How did event-driven traffic reshape the assignment at epoch 8?
+Q1141,12,2,How did the event affect which vehicle was picked at epoch 9?
+Q1146,12,2,"At epoch 10, how did the event change the dispatcher's behavior?"
+Q1396,12,2,"At epoch 4 during the event, how much did congestion from the event change the assignment?"
+Q1576,12,2,"At epoch 5, what impact did the event have on the assignment?"
+Q1581,12,2,"At epoch 6, how did event congestion reshape the assignment?"
+Q1586,12,2,"At epoch 4, how did the event's onset shift the assignment?"
+Q1591,12,2,How did the stadium event change the assignment at epoch 5?
+Q1596,12,2,"At epoch 6, how did event-driven congestion affect the assignment decision?"
+Q1601,12,2,"At epoch 7, how did the event's impact reshape vehicle selection?"
+Q1606,12,2,How did concert traffic alter the assignment at epoch 8?
+Q1611,12,2,"At epoch 9, how did the event shape the assignment outcome?"
+Q1616,12,2,"At epoch 10, how did the event reshape the assignment decision?"
+Q1271,15,2,"At event epoch 4, how much does congestion affect assigned timing?"
+Q1276,15,2,How much delay does event congestion add to assigned timing at epoch 5?
+Q1281,15,2,"At epoch 6 during the event, how much does congestion slow the assigned vehicle?"
+Q1286,15,2,How big is the congestion impact on assigned timing at event epoch 4?
+Q1291,15,2,"During the event, how much extra time does congestion add at epoch 5?"
+Q1296,15,2,"At event epoch 6, how much does congestion lengthen the assigned vehicle's timing?"
+Q1301,15,2,How much does congestion from the event delay assigned timing at epoch 7?
+Q1306,15,2,"During the event at epoch 8, how much does congestion push back assigned timing?"
+Q1311,15,2,"At event epoch 9, how much does traffic congestion affect the assigned vehicle's timing?"
+Q1316,15,2,How large is congestion's effect on assigned timing at event epoch 10?
+Q1321,15,2,"At event epoch 4, how much does the event's congestion slow the assigned van?"
+Q1326,15,2,"During the event, how much does congestion extend assigned pickup/dropoff timing at epoch 5?"
+Q1331,15,2,How much of the assigned vehicle's delay comes from event congestion at epoch 6?
+Q1336,15,2,"At event epoch 4, how much does congestion hurt assigned timing?"
+Q1341,15,2,"During the event at epoch 5, how much additional delay does congestion cause for the assigned vehicle?"
+Q1346,15,2,How much does event-induced congestion slow the assigned vehicle at epoch 6?
+Q1351,15,2,"At event epoch 7, how much does congestion add to assigned travel time?"
+Q1356,15,2,How much does congestion stretch assigned vehicle timing at event epoch 8?
+Q1361,15,2,"At event epoch 9, how much does congestion impact the assigned vehicle's pickup time?"
+Q1366,15,2,"During the event's peak at epoch 10, how much does congestion delay the assigned van?"
+Q1621,15,2,"At event epoch 4, how much delay does congestion cause for assigned timing?"
+Q1626,15,2,How much does event congestion slow the assigned vehicle at epoch 5?
+Q1631,15,2,"At epoch 6, how much extra travel time does event congestion add to the assigned?"
+Q1636,15,2,How much additional delay does the event bring to assigned timing at epoch 4?
+Q1641,15,2,"At event epoch 5, what's the congestion impact on assigned timing?"
+Q1646,15,2,How long does event congestion delay the assigned vehicle at epoch 6?
+Q1651,15,2,"At epoch 7, how much is assigned timing affected by event congestion?"
+Q1656,15,2,How much extra time does event congestion add to assigned service at epoch 8?
+Q1661,15,2,"At event epoch 9, how much delay comes from congestion for the assigned vehicle?"
+Q1666,15,2,How much slower is the assigned vehicle due to event congestion at epoch 10?
+Q1191,26,1,"At request 4 after the crash, how do traffic and route burden affect assigned vs closest timing?"
+Q1196,26,1,"Given the accident, how do traffic and route load impact assigned vs closest timing at request 5?"
+Q1201,26,1,"After the accident, at request 6, how do traffic and route burden shape the gap in assigned vs closest timing?"
+Q1206,26,1,"With travel times spiked, at request 4, how do traffic and route burden affect assigned vs closest timing?"
+Q1211,26,1,"At request 5 post-accident, how do traffic and route burden affect assigned vs closest timing?"
+Q1216,26,1,"After the road was blocked, at request 6, how do traffic and burden affect assigned vs closest timing?"
+Q1221,26,1,"Given the crash, how do traffic and route burden shape assigned vs closest timing at request 7?"
+Q1226,26,1,"Once travel times stabilized, how do traffic and route burden affect assigned vs closest timing at request 8?"
+Q1671,26,1,"At request 9, how much later is the assigned vehicle's ETA than the closest's after the accident?"
+Q1676,26,1,How much longer will the assigned vehicle take vs the closest at request 10 after the crash?
+Q1151,26,0,"At request 1, how do traffic and route burden affect the assigned vs closest vehicle's timing?"
+Q1156,26,0,How do traffic and route load shape timing differences between assigned and closest vehicles at request 2?
+Q1161,26,0,"At request 3, how does traffic and route burden influence assigned and closest vehicle timing?"
+Q1166,26,0,How do current traffic and route load affect assigned vs closest timing at request 4?
+Q1171,26,0,"At request 5, how do traffic and route burden shape assigned and closest service timing?"
+Q1176,26,0,"At request 6, how do traffic and burden from pending routes affect timing between assigned and closest?"
+Q1181,26,0,How do traffic and route load affect timing at request 7 for assigned and closest vans?
+Q1186,26,0,"At request 8, how do traffic and route burden shift timing between the assigned and closest?"
+Q1681,26,0,"At request 9, how much later will the assigned arrive than the closest?"
+Q1686,26,0,"At request 10, how big is the ETA gap between assigned and closest vehicles?"
+Q1231,26,2,"During the event at request 4, how do traffic and route burden affect assigned vs closest timing?"
+Q1236,26,2,"With event congestion, how do traffic and route burden impact assigned vs closest timing at request 5?"
+Q1241,26,2,"During the concert, how do traffic and route load affect assigned vs closest timing at request 6?"
+Q1246,26,2,"At request 4 with the event, how do traffic and burden shape assigned vs closest timing?"
+Q1251,26,2,"Given event-induced delays, at request 5, how do traffic and route burden affect assigned vs closest timing?"
+Q1256,26,2,"During the stadium event, how do traffic and route load affect assigned vs closest timing at request 6?"
+Q1261,26,2,"With the event at request 7, how do traffic and route burden affect assigned vs closest timing?"
+Q1266,26,2,"Given concert traffic, how do traffic and burden shape assigned vs closest timing at request 8?"
+Q1691,26,2,"With the event, how much later is the assigned ETA vs the closest at request 9?"
+Q1696,26,2,"At request 10 during the event, how much does the assigned lag behind the closest?"

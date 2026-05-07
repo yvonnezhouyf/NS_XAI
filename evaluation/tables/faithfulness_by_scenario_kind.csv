@@ -1,0 +1,85 @@
+method,method_name,family,group,group_value,kind,records,claim_total,graded_total,V+,V-,U,N/A,v_pos_rate,v_neg_rate,u_rate,na_rate_all_claims
+ours,Full NS-XAI,main,scenario,0,categorical,48,147,147,32,34,81,0,0.21768707482993196,0.23129251700680273,0.5510204081632653,0.0
+ours,Full NS-XAI,main,scenario,0,causal,27,34,0,0,0,0,34,,,,1.0
+ours,Full NS-XAI,main,scenario,0,comparative,29,57,57,21,11,25,0,0.3684210526315789,0.19298245614035087,0.43859649122807015,0.0
+ours,Full NS-XAI,main,scenario,0,numerical,59,373,373,355,8,10,0,0.9517426273458445,0.021447721179624665,0.02680965147453083,0.0
+ours,Full NS-XAI,main,scenario,1,categorical,46,129,129,39,25,65,0,0.3023255813953488,0.1937984496124031,0.5038759689922481,0.0
+ours,Full NS-XAI,main,scenario,1,causal,19,24,0,0,0,0,24,,,,1.0
+ours,Full NS-XAI,main,scenario,1,comparative,21,37,37,11,9,17,0,0.2972972972972973,0.24324324324324326,0.4594594594594595,0.0
+ours,Full NS-XAI,main,scenario,1,numerical,60,373,373,330,13,30,0,0.8847184986595175,0.03485254691689008,0.08042895442359249,0.0
+ours,Full NS-XAI,main,scenario,2,categorical,80,214,214,53,61,100,0,0.24766355140186916,0.2850467289719626,0.4672897196261682,0.0
+ours,Full NS-XAI,main,scenario,2,causal,42,62,0,0,0,0,62,,,,1.0
+ours,Full NS-XAI,main,scenario,2,comparative,44,61,61,16,10,35,0,0.26229508196721313,0.16393442622950818,0.5737704918032787,0.0
+ours,Full NS-XAI,main,scenario,2,numerical,118,828,828,769,31,28,0,0.928743961352657,0.03743961352657005,0.033816425120772944,0.0
+b1,B1 trajectory-only,baseline,scenario,0,categorical,46,131,131,40,82,9,0,0.3053435114503817,0.6259541984732825,0.06870229007633588,0.0
+b1,B1 trajectory-only,baseline,scenario,0,causal,11,12,0,0,0,0,12,,,,1.0
+b1,B1 trajectory-only,baseline,scenario,0,comparative,17,18,18,7,4,7,0,0.3888888888888889,0.2222222222222222,0.3888888888888889,0.0
+b1,B1 trajectory-only,baseline,scenario,0,numerical,60,353,353,331,0,22,0,0.9376770538243626,0.0,0.06232294617563739,0.0
+b1,B1 trajectory-only,baseline,scenario,1,categorical,47,91,91,7,70,14,0,0.07692307692307693,0.7692307692307693,0.15384615384615385,0.0
+b1,B1 trajectory-only,baseline,scenario,1,causal,7,11,0,0,0,0,11,,,,1.0
+b1,B1 trajectory-only,baseline,scenario,1,comparative,13,15,15,10,1,4,0,0.6666666666666666,0.06666666666666667,0.26666666666666666,0.0
+b1,B1 trajectory-only,baseline,scenario,1,numerical,60,435,435,364,0,71,0,0.8367816091954023,0.0,0.1632183908045977,0.0
+b1,B1 trajectory-only,baseline,scenario,2,categorical,102,200,200,23,154,23,0,0.115,0.77,0.115,0.0
+b1,B1 trajectory-only,baseline,scenario,2,causal,15,20,0,0,0,0,20,,,,1.0
+b1,B1 trajectory-only,baseline,scenario,2,comparative,29,33,33,18,3,12,0,0.5454545454545454,0.09090909090909091,0.36363636363636365,0.0
+b1,B1 trajectory-only,baseline,scenario,2,numerical,120,902,902,795,1,106,0,0.8813747228381374,0.0011086474501108647,0.11751662971175167,0.0
+b2,B2 trajectory + policy,baseline,scenario,0,categorical,39,100,100,28,63,9,0,0.28,0.63,0.09,0.0
+b2,B2 trajectory + policy,baseline,scenario,0,causal,10,16,0,0,0,0,16,,,,1.0
+b2,B2 trajectory + policy,baseline,scenario,0,comparative,13,20,20,17,1,2,0,0.85,0.05,0.1,0.0
+b2,B2 trajectory + policy,baseline,scenario,0,numerical,60,294,294,257,16,21,0,0.8741496598639455,0.05442176870748299,0.07142857142857142,0.0
+b2,B2 trajectory + policy,baseline,scenario,1,categorical,39,81,81,14,58,9,0,0.1728395061728395,0.7160493827160493,0.1111111111111111,0.0
+b2,B2 trajectory + policy,baseline,scenario,1,causal,10,18,0,0,0,0,18,,,,1.0
+b2,B2 trajectory + policy,baseline,scenario,1,comparative,12,16,16,12,1,3,0,0.75,0.0625,0.1875,0.0
+b2,B2 trajectory + policy,baseline,scenario,1,numerical,60,328,328,259,16,53,0,0.7896341463414634,0.04878048780487805,0.16158536585365854,0.0
+b2,B2 trajectory + policy,baseline,scenario,2,categorical,86,175,175,26,141,8,0,0.14857142857142858,0.8057142857142857,0.045714285714285714,0.0
+b2,B2 trajectory + policy,baseline,scenario,2,causal,25,45,0,0,0,0,45,,,,1.0
+b2,B2 trajectory + policy,baseline,scenario,2,comparative,26,35,35,26,3,6,0,0.7428571428571429,0.08571428571428572,0.17142857142857143,0.0
+b2,B2 trajectory + policy,baseline,scenario,2,numerical,118,624,624,525,22,77,0,0.8413461538461539,0.035256410256410256,0.1233974358974359,0.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,0,categorical,42,104,104,32,26,46,0,0.3076923076923077,0.25,0.4423076923076923,0.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,0,causal,19,34,0,0,0,0,34,,,,1.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,0,comparative,16,28,28,15,6,7,0,0.5357142857142857,0.21428571428571427,0.25,0.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,0,numerical,45,137,137,129,0,8,0,0.9416058394160584,0.0,0.058394160583941604,0.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,1,categorical,48,126,126,40,32,54,0,0.31746031746031744,0.25396825396825395,0.42857142857142855,0.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,1,causal,9,20,0,0,0,0,20,,,,1.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,1,comparative,13,23,23,7,4,12,0,0.30434782608695654,0.17391304347826086,0.5217391304347826,0.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,1,numerical,44,152,152,145,0,7,0,0.9539473684210527,0.0,0.046052631578947366,0.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,2,categorical,94,278,278,53,102,123,0,0.1906474820143885,0.3669064748201439,0.44244604316546765,0.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,2,causal,41,91,0,0,0,0,91,,,,1.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,2,comparative,27,50,50,25,5,20,0,0.5,0.1,0.4,0.0
+b4,B4/A1 single-snapshot,baseline_ablation,scenario,2,numerical,91,284,284,262,2,20,0,0.9225352112676056,0.007042253521126761,0.07042253521126761,0.0
+a2,A2 PCTL only,ablation,scenario,0,categorical,31,65,65,9,8,48,0,0.13846153846153847,0.12307692307692308,0.7384615384615385,0.0
+a2,A2 PCTL only,ablation,scenario,0,causal,13,18,0,0,0,0,18,,,,1.0
+a2,A2 PCTL only,ablation,scenario,0,comparative,12,16,16,1,0,15,0,0.0625,0.0,0.9375,0.0
+a2,A2 PCTL only,ablation,scenario,0,numerical,39,137,137,135,1,1,0,0.9854014598540146,0.0072992700729927005,0.0072992700729927005,0.0
+a2,A2 PCTL only,ablation,scenario,1,categorical,29,63,63,17,6,40,0,0.2698412698412698,0.09523809523809523,0.6349206349206349,0.0
+a2,A2 PCTL only,ablation,scenario,1,causal,16,28,0,0,0,0,28,,,,1.0
+a2,A2 PCTL only,ablation,scenario,1,comparative,11,19,19,2,1,16,0,0.10526315789473684,0.05263157894736842,0.8421052631578947,0.0
+a2,A2 PCTL only,ablation,scenario,1,numerical,40,148,148,144,1,3,0,0.972972972972973,0.006756756756756757,0.02027027027027027,0.0
+a2,A2 PCTL only,ablation,scenario,2,categorical,63,149,149,46,18,85,0,0.3087248322147651,0.12080536912751678,0.5704697986577181,0.0
+a2,A2 PCTL only,ablation,scenario,2,causal,35,70,0,0,0,0,70,,,,1.0
+a2,A2 PCTL only,ablation,scenario,2,comparative,31,43,43,6,0,37,0,0.13953488372093023,0.0,0.8604651162790697,0.0
+a2,A2 PCTL only,ablation,scenario,2,numerical,85,317,317,309,2,6,0,0.9747634069400631,0.006309148264984227,0.01892744479495268,0.0
+a3,A3 derived only,ablation,scenario,0,categorical,39,104,104,28,11,65,0,0.2692307692307692,0.10576923076923077,0.625,0.0
+a3,A3 derived only,ablation,scenario,0,causal,16,31,0,0,0,0,31,,,,1.0
+a3,A3 derived only,ablation,scenario,0,comparative,17,41,41,30,3,8,0,0.7317073170731707,0.07317073170731707,0.1951219512195122,0.0
+a3,A3 derived only,ablation,scenario,0,numerical,46,151,151,145,3,3,0,0.9602649006622517,0.019867549668874173,0.019867549668874173,0.0
+a3,A3 derived only,ablation,scenario,1,categorical,45,88,88,21,13,54,0,0.23863636363636365,0.14772727272727273,0.6136363636363636,0.0
+a3,A3 derived only,ablation,scenario,1,causal,19,47,0,0,0,0,47,,,,1.0
+a3,A3 derived only,ablation,scenario,1,comparative,13,20,20,9,5,6,0,0.45,0.25,0.3,0.0
+a3,A3 derived only,ablation,scenario,1,numerical,49,200,200,195,2,3,0,0.975,0.01,0.015,0.0
+a3,A3 derived only,ablation,scenario,2,categorical,72,214,214,40,67,107,0,0.18691588785046728,0.3130841121495327,0.5,0.0
+a3,A3 derived only,ablation,scenario,2,causal,34,82,0,0,0,0,82,,,,1.0
+a3,A3 derived only,ablation,scenario,2,comparative,21,61,61,25,11,25,0,0.4098360655737705,0.18032786885245902,0.4098360655737705,0.0
+a3,A3 derived only,ablation,scenario,2,numerical,100,426,426,405,16,5,0,0.9507042253521126,0.03755868544600939,0.011737089201877934,0.0
+a4,A4 fixed reference,ablation,scenario,0,categorical,37,73,73,28,9,36,0,0.3835616438356164,0.1232876712328767,0.4931506849315068,0.0
+a4,A4 fixed reference,ablation,scenario,0,causal,20,52,0,0,0,0,52,,,,1.0
+a4,A4 fixed reference,ablation,scenario,0,comparative,21,28,28,13,4,11,0,0.4642857142857143,0.14285714285714285,0.39285714285714285,0.0
+a4,A4 fixed reference,ablation,scenario,0,numerical,54,257,257,246,7,4,0,0.9571984435797666,0.027237354085603113,0.01556420233463035,0.0
+a4,A4 fixed reference,ablation,scenario,1,categorical,39,98,98,31,15,52,0,0.3163265306122449,0.15306122448979592,0.5306122448979592,0.0
+a4,A4 fixed reference,ablation,scenario,1,causal,19,34,0,0,0,0,34,,,,1.0
+a4,A4 fixed reference,ablation,scenario,1,comparative,11,18,18,8,1,9,0,0.4444444444444444,0.05555555555555555,0.5,0.0
+a4,A4 fixed reference,ablation,scenario,1,numerical,54,285,285,274,11,0,0,0.9614035087719298,0.03859649122807018,0.0,0.0
+a4,A4 fixed reference,ablation,scenario,2,categorical,43,87,87,29,20,38,0,0.3333333333333333,0.22988505747126436,0.4367816091954023,0.0
+a4,A4 fixed reference,ablation,scenario,2,causal,26,42,0,0,0,0,42,,,,1.0
+a4,A4 fixed reference,ablation,scenario,2,comparative,33,48,48,23,7,18,0,0.4791666666666667,0.14583333333333334,0.375,0.0
+a4,A4 fixed reference,ablation,scenario,2,numerical,117,609,609,570,14,25,0,0.9359605911330049,0.022988505747126436,0.041050903119868636,0.0

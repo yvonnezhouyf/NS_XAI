@@ -1,0 +1,1201 @@
+id	query
+Q0071	After the crash, why was Vehicle 4 picked over Vehicle 1 at request 4?
+Q0071_p1	Can you explain this dispatch decision: After the crash, why was Vehicle 4 picked over Vehicle 1 at request 4?
+Q0071_p2	In operational terms, after the crash, why was Vehicle 4 picked over Vehicle 1 at request 4?
+Q0071_p3	What is the reason behind this: After the crash, why was Vehicle 4 picked over Vehicle 1 at request 4?
+Q0071_p4	Could you clarify the dispatch rationale here: After the crash, why was Vehicle 4 picked over Vehicle 1 at request 4?
+Q0076	Why was Vehicle 4 chosen over Vehicle 3 at request 5 after the accident affected the route?
+Q0076_p1	Can you explain this dispatch decision: Why was Vehicle 4 chosen over Vehicle 3 at request 5 after the accident affected the route?
+Q0076_p2	In operational terms, why was Vehicle 4 chosen over Vehicle 3 at request 5 after the accident affected the route?
+Q0076_p3	What is the reason behind this: Why was Vehicle 4 chosen over Vehicle 3 at request 5 after the accident affected the route?
+Q0076_p4	Could you clarify the dispatch rationale here: Why was Vehicle 4 chosen over Vehicle 3 at request 5 after the accident affected the route?
+Q0096	After the accident, why was V0 given request 6 over V1?
+Q0096_p1	Can you explain this dispatch decision: After the accident, why was V0 given request 6 over V1?
+Q0096_p2	In operational terms, after the accident, why was V0 given request 6 over V1?
+Q0096_p3	What is the reason behind this: After the accident, why was V0 given request 6 over V1?
+Q0096_p4	Could you clarify the dispatch rationale here: After the accident, why was V0 given request 6 over V1?
+Q0721	Given the accident, why was the nearest vehicle not picked for request 4 at epoch 4?
+Q0721_p1	Can you explain this dispatch decision: Given the accident, why was the nearest vehicle not picked for request 4 at epoch 4?
+Q0721_p2	In operational terms, given the accident, why was the nearest vehicle not picked for request 4 at epoch 4?
+Q0721_p3	What is the reason behind this: Given the accident, why was the nearest vehicle not picked for request 4 at epoch 4?
+Q0721_p4	Could you clarify the dispatch rationale here: Given the accident, why was the nearest vehicle not picked for request 4 at epoch 4?
+Q0851	After the accident, how do V4 and V3 compare on delay risk at request 5?
+Q0851_p1	Can you explain this dispatch decision: After the accident, how do V4 and V3 compare on delay risk at request 5?
+Q0851_p2	In operational terms, after the accident, how do V4 and V3 compare on delay risk at request 5?
+Q0851_p3	What is the reason behind this: After the accident, how do V4 and V3 compare on delay risk at request 5?
+Q0851_p4	Could you clarify the dispatch rationale here: After the accident, how do V4 and V3 compare on delay risk at request 5?
+Q0861	Compare V0 and V1 on delay and reward at request 6 after the accident.
+Q0861_p1	Can you explain this dispatch decision: Compare V0 and V1 on delay and reward at request 6 after the accident.
+Q0861_p2	In operational terms, compare V0 and V1 on delay and reward at request 6 after the accident.
+Q0861_p3	What is the reason behind this: Compare V0 and V1 on delay and reward at request 6 after the accident.
+Q0861_p4	Could you clarify the dispatch rationale here: Compare V0 and V1 on delay and reward at request 6 after the accident.
+Q0871	At request 7 after the accident, how does V1 stack up against V2 on risk?
+Q0871_p1	Can you explain this dispatch decision: At request 7 after the accident, how does V1 stack up against V2 on risk?
+Q0871_p2	In operational terms, at request 7 after the accident, how does V1 stack up against V2 on risk?
+Q0871_p3	What is the reason behind this: At request 7 after the accident, how does V1 stack up against V2 on risk?
+Q0871_p4	Could you clarify the dispatch rationale here: At request 7 after the accident, how does V1 stack up against V2 on risk?
+Q0881	Post-accident, compare V1 and V3 on delay risk at request 8.
+Q0881_p1	Can you explain this dispatch decision: Post-accident, compare V1 and V3 on delay risk at request 8.
+Q0881_p2	In operational terms, post-accident, compare V1 and V3 on delay risk at request 8.
+Q0881_p3	What is the reason behind this: Post-accident, compare V1 and V3 on delay risk at request 8.
+Q0881_p4	Could you clarify the dispatch rationale here: Post-accident, compare V1 and V3 on delay risk at request 8.
+Q0886	Given the road blockage, how do V0 and V1 compare on reward at request 9?
+Q0886_p1	Can you explain this dispatch decision: Given the road blockage, how do V0 and V1 compare on reward at request 9?
+Q0886_p2	In operational terms, given the road blockage, how do V0 and V1 compare on reward at request 9?
+Q0886_p3	What is the reason behind this: Given the road blockage, how do V0 and V1 compare on reward at request 9?
+Q0886_p4	Could you clarify the dispatch rationale here: Given the road blockage, how do V0 and V1 compare on reward at request 9?
+Q0976	Why did the dispatcher assign a more distant van for request 10 after the accident?
+Q0976_p1	Can you explain this dispatch decision: Why did the dispatcher assign a more distant van for request 10 after the accident?
+Q0976_p2	In operational terms, why did the dispatcher assign a more distant van for request 10 after the accident?
+Q0976_p3	What is the reason behind this: Why did the dispatcher assign a more distant van for request 10 after the accident?
+Q0976_p4	Could you clarify the dispatch rationale here: Why did the dispatcher assign a more distant van for request 10 after the accident?
+Q0021	Why was Vehicle 4 picked over Vehicle 0 at request 1?
+Q0021_p1	Can you explain this dispatch decision: Why was Vehicle 4 picked over Vehicle 0 at request 1?
+Q0021_p2	In operational terms, why was Vehicle 4 picked over Vehicle 0 at request 1?
+Q0021_p3	What is the reason behind this: Why was Vehicle 4 picked over Vehicle 0 at request 1?
+Q0021_p4	Could you clarify the dispatch rationale here: Why was Vehicle 4 picked over Vehicle 0 at request 1?
+Q0036	Why did Vehicle 4 get request 2 instead of Vehicle 0?
+Q0036_p1	Can you explain this dispatch decision: Why did Vehicle 4 get request 2 instead of Vehicle 0?
+Q0036_p2	In operational terms, why did Vehicle 4 get request 2 instead of Vehicle 0?
+Q0036_p3	What is the reason behind this: Why did Vehicle 4 get request 2 instead of Vehicle 0?
+Q0036_p4	Could you clarify the dispatch rationale here: Why did Vehicle 4 get request 2 instead of Vehicle 0?
+Q0686	At epoch 3, why didn't the closest vehicle get request 3?
+Q0686_p1	Can you explain this dispatch decision: At epoch 3, why didn't the closest vehicle get request 3?
+Q0686_p2	In operational terms, at epoch 3, why didn't the closest vehicle get request 3?
+Q0686_p3	What is the reason behind this: At epoch 3, why didn't the closest vehicle get request 3?
+Q0686_p4	Could you clarify the dispatch rationale here: At epoch 3, why didn't the closest vehicle get request 3?
+Q0701	Under this traffic, why didn't the closest vehicle handle request 4 at epoch 4?
+Q0701_p1	Can you explain this dispatch decision: Under this traffic, why didn't the closest vehicle handle request 4 at epoch 4?
+Q0701_p2	In operational terms, under this traffic, why didn't the closest vehicle handle request 4 at epoch 4?
+Q0701_p3	What is the reason behind this: Under this traffic, why didn't the closest vehicle handle request 4 at epoch 4?
+Q0701_p4	Could you clarify the dispatch rationale here: Under this traffic, why didn't the closest vehicle handle request 4 at epoch 4?
+Q0811	How do Vehicle 0 and Vehicle 4 compare on delay risk at request 5?
+Q0811_p1	Can you explain this dispatch decision: How do Vehicle 0 and Vehicle 4 compare on delay risk at request 5?
+Q0811_p2	In operational terms, how do Vehicle 0 and Vehicle 4 compare on delay risk at request 5?
+Q0811_p3	What is the reason behind this: How do Vehicle 0 and Vehicle 4 compare on delay risk at request 5?
+Q0811_p4	Could you clarify the dispatch rationale here: How do Vehicle 0 and Vehicle 4 compare on delay risk at request 5?
+Q0931	Why was a farther vehicle chosen at request 6?
+Q0931_p1	Can you explain this dispatch decision: Why was a farther vehicle chosen at request 6?
+Q0931_p2	In operational terms, why was a farther vehicle chosen at request 6?
+Q0931_p3	What is the reason behind this: Why was a farther vehicle chosen at request 6?
+Q0931_p4	Could you clarify the dispatch rationale here: Why was a farther vehicle chosen at request 6?
+Q0941	Why did the dispatcher choose a farther van over a closer one at request 7?
+Q0941_p1	Can you explain this dispatch decision: Why did the dispatcher choose a farther van over a closer one at request 7?
+Q0941_p2	In operational terms, why did the dispatcher choose a farther van over a closer one at request 7?
+Q0941_p3	What is the reason behind this: Why did the dispatcher choose a farther van over a closer one at request 7?
+Q0941_p4	Could you clarify the dispatch rationale here: Why did the dispatcher choose a farther van over a closer one at request 7?
+Q0956	At request 8, why was the farther vehicle selected?
+Q0956_p1	Can you explain this dispatch decision: At request 8, why was the farther vehicle selected?
+Q0956_p2	In operational terms, at request 8, why was the farther vehicle selected?
+Q0956_p3	What is the reason behind this: At request 8, why was the farther vehicle selected?
+Q0956_p4	Could you clarify the dispatch rationale here: At request 8, why was the farther vehicle selected?
+Q0961	Why did the system go with a farther van for request 9?
+Q0961_p1	Can you explain this dispatch decision: Why did the system go with a farther van for request 9?
+Q0961_p2	In operational terms, why did the system go with a farther van for request 9?
+Q0961_p3	What is the reason behind this: Why did the system go with a farther van for request 9?
+Q0961_p4	Could you clarify the dispatch rationale here: Why did the system go with a farther van for request 9?
+Q1401	At request 10, why wasn't the closest vehicle assigned?
+Q1401_p1	Can you explain this dispatch decision: At request 10, why wasn't the closest vehicle assigned?
+Q1401_p2	In operational terms, at request 10, why wasn't the closest vehicle assigned?
+Q1401_p3	What is the reason behind this: At request 10, why wasn't the closest vehicle assigned?
+Q1401_p4	Could you clarify the dispatch rationale here: At request 10, why wasn't the closest vehicle assigned?
+Q0101	During the event, why was Vehicle 3 chosen over Vehicle 1 for request 4?
+Q0101_p1	Can you explain this dispatch decision: During the event, why was Vehicle 3 chosen over Vehicle 1 for request 4?
+Q0101_p2	In operational terms, during the event, why was Vehicle 3 chosen over Vehicle 1 for request 4?
+Q0101_p3	What is the reason behind this: During the event, why was Vehicle 3 chosen over Vehicle 1 for request 4?
+Q0101_p4	Could you clarify the dispatch rationale here: During the event, why was Vehicle 3 chosen over Vehicle 1 for request 4?
+Q0111	During the stadium event, why was V2 assigned request 5 and not V0?
+Q0111_p1	Can you explain this dispatch decision: During the stadium event, why was V2 assigned request 5 and not V0?
+Q0111_p2	In operational terms, during the stadium event, why was V2 assigned request 5 and not V0?
+Q0111_p3	What is the reason behind this: During the stadium event, why was V2 assigned request 5 and not V0?
+Q0111_p4	Could you clarify the dispatch rationale here: During the stadium event, why was V2 assigned request 5 and not V0?
+Q0766	Why didn't the closest vehicle get request 6 at epoch 6 with the concert on?
+Q0766_p1	Can you explain this dispatch decision: Why didn't the closest vehicle get request 6 at epoch 6 with the concert on?
+Q0766_p2	In operational terms, why didn't the closest vehicle get request 6 at epoch 6 with the concert on?
+Q0766_p3	What is the reason behind this: Why didn't the closest vehicle get request 6 at epoch 6 with the concert on?
+Q0766_p4	Could you clarify the dispatch rationale here: Why didn't the closest vehicle get request 6 at epoch 6 with the concert on?
+Q0786	Why wasn't the closest vehicle chosen for request 4 at epoch 4 during the event?
+Q0786_p1	Can you explain this dispatch decision: Why wasn't the closest vehicle chosen for request 4 at epoch 4 during the event?
+Q0786_p2	In operational terms, why wasn't the closest vehicle chosen for request 4 at epoch 4 during the event?
+Q0786_p3	What is the reason behind this: Why wasn't the closest vehicle chosen for request 4 at epoch 4 during the event?
+Q0786_p4	Could you clarify the dispatch rationale here: Why wasn't the closest vehicle chosen for request 4 at epoch 4 during the event?
+Q0896	With event congestion, how does V2 compare to V0 at request 5?
+Q0896_p1	Can you explain this dispatch decision: With event congestion, how does V2 compare to V0 at request 5?
+Q0896_p2	In operational terms, with event congestion, how does V2 compare to V0 at request 5?
+Q0896_p3	What is the reason behind this: With event congestion, how does V2 compare to V0 at request 5?
+Q0896_p4	Could you clarify the dispatch rationale here: With event congestion, how does V2 compare to V0 at request 5?
+Q0911	Given the stadium event, how does V0 stack up against V3 at request 6?
+Q0911_p1	Can you explain this dispatch decision: Given the stadium event, how does V0 stack up against V3 at request 6?
+Q0911_p2	In operational terms, given the stadium event, how does V0 stack up against V3 at request 6?
+Q0911_p3	What is the reason behind this: Given the stadium event, how does V0 stack up against V3 at request 6?
+Q0911_p4	Could you clarify the dispatch rationale here: Given the stadium event, how does V0 stack up against V3 at request 6?
+Q0916	At request 7 with the event, compare Vehicle 0 and Vehicle 1 on risk.
+Q0916_p1	Can you explain this dispatch decision: At request 7 with the event, compare Vehicle 0 and Vehicle 1 on risk.
+Q0916_p2	In operational terms, at request 7 with the event, compare Vehicle 0 and Vehicle 1 on risk.
+Q0916_p3	What is the reason behind this: At request 7 with the event, compare Vehicle 0 and Vehicle 1 on risk.
+Q0916_p4	Could you clarify the dispatch rationale here: At request 7 with the event, compare Vehicle 0 and Vehicle 1 on risk.
+Q0921	During the event, what's the risk comparison between V1 and V0 for request 8?
+Q0921_p1	Can you explain this dispatch decision: During the event, what's the risk comparison between V1 and V0 for request 8?
+Q0921_p2	In operational terms, during the event, what's the risk comparison between V1 and V0 for request 8?
+Q0921_p3	What is the reason behind this: During the event, what's the risk comparison between V1 and V0 for request 8?
+Q0921_p4	Could you clarify the dispatch rationale here: During the event, what's the risk comparison between V1 and V0 for request 8?
+Q0926	Given the event delays, how do V1 and V0 compare on delay at request 9?
+Q0926_p1	Can you explain this dispatch decision: Given the event delays, how do V1 and V0 compare on delay at request 9?
+Q0926_p2	In operational terms, given the event delays, how do V1 and V0 compare on delay at request 9?
+Q0926_p3	What is the reason behind this: Given the event delays, how do V1 and V0 compare on delay at request 9?
+Q0926_p4	Could you clarify the dispatch rationale here: Given the event delays, how do V1 and V0 compare on delay at request 9?
+Q1041	During event-induced delays, why was a farther vehicle picked for request 10?
+Q1041_p1	Can you explain this dispatch decision: During event-induced delays, why was a farther vehicle picked for request 10?
+Q1041_p2	In operational terms, during event-induced delays, why was a farther vehicle picked for request 10?
+Q1041_p3	What is the reason behind this: During event-induced delays, why was a farther vehicle picked for request 10?
+Q1041_p4	Could you clarify the dispatch rationale here: During event-induced delays, why was a farther vehicle picked for request 10?
+Q0201	After the accident at epoch 4, which vehicle is most reliable?
+Q0201_p1	Can you explain this dispatch decision: After the accident at epoch 4, which vehicle is most reliable?
+Q0201_p2	In operational terms, after the accident at epoch 4, which vehicle is most reliable?
+Q0201_p3	What is the reason behind this: After the accident at epoch 4, which vehicle is most reliable?
+Q0201_p4	Could you clarify the dispatch rationale here: After the accident at epoch 4, which vehicle is most reliable?
+Q0206	At epoch 5, once the accident hit, which vehicle is most reliable?
+Q0206_p1	Can you explain this dispatch decision: At epoch 5, once the accident hit, which vehicle is most reliable?
+Q0206_p2	In operational terms, at epoch 5, once the accident hit, which vehicle is most reliable?
+Q0206_p3	What is the reason behind this: At epoch 5, once the accident hit, which vehicle is most reliable?
+Q0206_p4	Could you clarify the dispatch rationale here: At epoch 5, once the accident hit, which vehicle is most reliable?
+Q0211	Which vehicle is most reliable at epoch 6 given the accident?
+Q0211_p1	Can you explain this dispatch decision: Which vehicle is most reliable at epoch 6 given the accident?
+Q0211_p2	In operational terms, which vehicle is most reliable at epoch 6 given the accident?
+Q0211_p3	What is the reason behind this: Which vehicle is most reliable at epoch 6 given the accident?
+Q0211_p4	Could you clarify the dispatch rationale here: Which vehicle is most reliable at epoch 6 given the accident?
+Q0216	After the road blockage at epoch 4, which vehicle is most reliable?
+Q0216_p1	Can you explain this dispatch decision: After the road blockage at epoch 4, which vehicle is most reliable?
+Q0216_p2	In operational terms, after the road blockage at epoch 4, which vehicle is most reliable?
+Q0216_p3	What is the reason behind this: After the road blockage at epoch 4, which vehicle is most reliable?
+Q0216_p4	Could you clarify the dispatch rationale here: After the road blockage at epoch 4, which vehicle is most reliable?
+Q0221	At epoch 5 after the crash, which van offers the most reliable service?
+Q0221_p1	Can you explain this dispatch decision: At epoch 5 after the crash, which van offers the most reliable service?
+Q0221_p2	In operational terms, at epoch 5 after the crash, which van offers the most reliable service?
+Q0221_p3	What is the reason behind this: At epoch 5 after the crash, which van offers the most reliable service?
+Q0221_p4	Could you clarify the dispatch rationale here: At epoch 5 after the crash, which van offers the most reliable service?
+Q0226	With the travel times spiked by the accident, which vehicle is most reliable at epoch 6?
+Q0226_p1	Can you explain this dispatch decision: With the travel times spiked by the accident, which vehicle is most reliable at epoch 6?
+Q0226_p2	In operational terms, with the travel times spiked by the accident, which vehicle is most reliable at epoch 6?
+Q0226_p3	What is the reason behind this: With the travel times spiked by the accident, which vehicle is most reliable at epoch 6?
+Q0226_p4	Could you clarify the dispatch rationale here: With the travel times spiked by the accident, which vehicle is most reliable at epoch 6?
+Q0231	At epoch 7 post-accident, which vehicle is the most reliable?
+Q0231_p1	Can you explain this dispatch decision: At epoch 7 post-accident, which vehicle is the most reliable?
+Q0231_p2	In operational terms, at epoch 7 post-accident, which vehicle is the most reliable?
+Q0231_p3	What is the reason behind this: At epoch 7 post-accident, which vehicle is the most reliable?
+Q0231_p4	Could you clarify the dispatch rationale here: At epoch 7 post-accident, which vehicle is the most reliable?
+Q0236	After the accident, which vehicle offers the most dependable service at epoch 8?
+Q0236_p1	Can you explain this dispatch decision: After the accident, which vehicle offers the most dependable service at epoch 8?
+Q0236_p2	In operational terms, after the accident, which vehicle offers the most dependable service at epoch 8?
+Q0236_p3	What is the reason behind this: After the accident, which vehicle offers the most dependable service at epoch 8?
+Q0236_p4	Could you clarify the dispatch rationale here: After the accident, which vehicle offers the most dependable service at epoch 8?
+Q0241	Which vehicle is most reliable at epoch 9 once travel times stabilized after the crash?
+Q0241_p1	Can you explain this dispatch decision: Which vehicle is most reliable at epoch 9 once travel times stabilized after the crash?
+Q0241_p2	In operational terms, which vehicle is most reliable at epoch 9 once travel times stabilized after the crash?
+Q0241_p3	What is the reason behind this: Which vehicle is most reliable at epoch 9 once travel times stabilized after the crash?
+Q0241_p4	Could you clarify the dispatch rationale here: Which vehicle is most reliable at epoch 9 once travel times stabilized after the crash?
+Q0246	At epoch 10 after the road closure, which vehicle is most reliable?
+Q0246_p1	Can you explain this dispatch decision: At epoch 10 after the road closure, which vehicle is most reliable?
+Q0246_p2	In operational terms, at epoch 10 after the road closure, which vehicle is most reliable?
+Q0246_p3	What is the reason behind this: At epoch 10 after the road closure, which vehicle is most reliable?
+Q0246_p4	Could you clarify the dispatch rationale here: At epoch 10 after the road closure, which vehicle is most reliable?
+Q0151	At epoch 1, which vehicle is most reliable?
+Q0151_p1	Can you explain this dispatch decision: At epoch 1, which vehicle is most reliable?
+Q0151_p2	In operational terms, at epoch 1, which vehicle is most reliable?
+Q0151_p3	What is the reason behind this: At epoch 1, which vehicle is most reliable?
+Q0151_p4	Could you clarify the dispatch rationale here: At epoch 1, which vehicle is most reliable?
+Q0156	At epoch 2, which vehicle offers the most dependable service?
+Q0156_p1	Can you explain this dispatch decision: At epoch 2, which vehicle offers the most dependable service?
+Q0156_p2	In operational terms, at epoch 2, which vehicle offers the most dependable service?
+Q0156_p3	What is the reason behind this: At epoch 2, which vehicle offers the most dependable service?
+Q0156_p4	Could you clarify the dispatch rationale here: At epoch 2, which vehicle offers the most dependable service?
+Q0161	Which vehicle has the best reliability at epoch 3?
+Q0161_p1	Can you explain this dispatch decision: Which vehicle has the best reliability at epoch 3?
+Q0161_p2	In operational terms, which vehicle has the best reliability at epoch 3?
+Q0161_p3	What is the reason behind this: Which vehicle has the best reliability at epoch 3?
+Q0161_p4	Could you clarify the dispatch rationale here: Which vehicle has the best reliability at epoch 3?
+Q0166	At epoch 4, which vehicle is performing most reliably?
+Q0166_p1	Can you explain this dispatch decision: At epoch 4, which vehicle is performing most reliably?
+Q0166_p2	In operational terms, at epoch 4, which vehicle is performing most reliably?
+Q0166_p3	What is the reason behind this: At epoch 4, which vehicle is performing most reliably?
+Q0166_p4	Could you clarify the dispatch rationale here: At epoch 4, which vehicle is performing most reliably?
+Q0171	Under this traffic, which vehicle is most reliable at epoch 5?
+Q0171_p1	Can you explain this dispatch decision: Under this traffic, which vehicle is most reliable at epoch 5?
+Q0171_p2	In operational terms, under this traffic, which vehicle is most reliable at epoch 5?
+Q0171_p3	What is the reason behind this: Under this traffic, which vehicle is most reliable at epoch 5?
+Q0171_p4	Could you clarify the dispatch rationale here: Under this traffic, which vehicle is most reliable at epoch 5?
+Q0176	At epoch 6, which vehicle has the best service reliability?
+Q0176_p1	Can you explain this dispatch decision: At epoch 6, which vehicle has the best service reliability?
+Q0176_p2	In operational terms, at epoch 6, which vehicle has the best service reliability?
+Q0176_p3	What is the reason behind this: At epoch 6, which vehicle has the best service reliability?
+Q0176_p4	Could you clarify the dispatch rationale here: At epoch 6, which vehicle has the best service reliability?
+Q0181	Which vehicle is most dependable at epoch 7?
+Q0181_p1	Can you explain this dispatch decision: Which vehicle is most dependable at epoch 7?
+Q0181_p2	In operational terms, which vehicle is most dependable at epoch 7?
+Q0181_p3	What is the reason behind this: Which vehicle is most dependable at epoch 7?
+Q0181_p4	Could you clarify the dispatch rationale here: Which vehicle is most dependable at epoch 7?
+Q0186	At epoch 8, which vehicle's service is most reliable?
+Q0186_p1	Can you explain this dispatch decision: At epoch 8, which vehicle's service is most reliable?
+Q0186_p2	In operational terms, at epoch 8, which vehicle's service is most reliable?
+Q0186_p3	What is the reason behind this: At epoch 8, which vehicle's service is most reliable?
+Q0186_p4	Could you clarify the dispatch rationale here: At epoch 8, which vehicle's service is most reliable?
+Q0191	At epoch 9, which vehicle is the most reliable option?
+Q0191_p1	Can you explain this dispatch decision: At epoch 9, which vehicle is the most reliable option?
+Q0191_p2	In operational terms, at epoch 9, which vehicle is the most reliable option?
+Q0191_p3	What is the reason behind this: At epoch 9, which vehicle is the most reliable option?
+Q0191_p4	Could you clarify the dispatch rationale here: At epoch 9, which vehicle is the most reliable option?
+Q0196	Under these traffic conditions at epoch 10, which vehicle is most reliable?
+Q0196_p1	Can you explain this dispatch decision: Under these traffic conditions at epoch 10, which vehicle is most reliable?
+Q0196_p2	In operational terms, under these traffic conditions at epoch 10, which vehicle is most reliable?
+Q0196_p3	What is the reason behind this: Under these traffic conditions at epoch 10, which vehicle is most reliable?
+Q0196_p4	Could you clarify the dispatch rationale here: Under these traffic conditions at epoch 10, which vehicle is most reliable?
+Q0251	During the event at epoch 4, which vehicle is most reliable?
+Q0251_p1	Can you explain this dispatch decision: During the event at epoch 4, which vehicle is most reliable?
+Q0251_p2	In operational terms, during the event at epoch 4, which vehicle is most reliable?
+Q0251_p3	What is the reason behind this: During the event at epoch 4, which vehicle is most reliable?
+Q0251_p4	Could you clarify the dispatch rationale here: During the event at epoch 4, which vehicle is most reliable?
+Q0256	Once the concert started at epoch 5, which vehicle offers the most reliable service?
+Q0256_p1	Can you explain this dispatch decision: Once the concert started at epoch 5, which vehicle offers the most reliable service?
+Q0256_p2	In operational terms, once the concert started at epoch 5, which vehicle offers the most reliable service?
+Q0256_p3	What is the reason behind this: Once the concert started at epoch 5, which vehicle offers the most reliable service?
+Q0256_p4	Could you clarify the dispatch rationale here: Once the concert started at epoch 5, which vehicle offers the most reliable service?
+Q0261	During the stadium event at epoch 6, which vehicle is most reliable?
+Q0261_p1	Can you explain this dispatch decision: During the stadium event at epoch 6, which vehicle is most reliable?
+Q0261_p2	In operational terms, during the stadium event at epoch 6, which vehicle is most reliable?
+Q0261_p3	What is the reason behind this: During the stadium event at epoch 6, which vehicle is most reliable?
+Q0261_p4	Could you clarify the dispatch rationale here: During the stadium event at epoch 6, which vehicle is most reliable?
+Q0266	At epoch 4 during the event, which vehicle is most reliable?
+Q0266_p1	Can you explain this dispatch decision: At epoch 4 during the event, which vehicle is most reliable?
+Q0266_p2	In operational terms, at epoch 4 during the event, which vehicle is most reliable?
+Q0266_p3	What is the reason behind this: At epoch 4 during the event, which vehicle is most reliable?
+Q0266_p4	Could you clarify the dispatch rationale here: At epoch 4 during the event, which vehicle is most reliable?
+Q0271	With event congestion at epoch 5, which vehicle is most reliable?
+Q0271_p1	Can you explain this dispatch decision: With event congestion at epoch 5, which vehicle is most reliable?
+Q0271_p2	In operational terms, with event congestion at epoch 5, which vehicle is most reliable?
+Q0271_p3	What is the reason behind this: With event congestion at epoch 5, which vehicle is most reliable?
+Q0271_p4	Could you clarify the dispatch rationale here: With event congestion at epoch 5, which vehicle is most reliable?
+Q0276	At epoch 6 during the event, which van offers the most dependable service?
+Q0276_p1	Can you explain this dispatch decision: At epoch 6 during the event, which van offers the most dependable service?
+Q0276_p2	In operational terms, at epoch 6 during the event, which van offers the most dependable service?
+Q0276_p3	What is the reason behind this: At epoch 6 during the event, which van offers the most dependable service?
+Q0276_p4	Could you clarify the dispatch rationale here: At epoch 6 during the event, which van offers the most dependable service?
+Q0281	Which vehicle is most reliable at epoch 7 while the event is ongoing?
+Q0281_p1	Can you explain this dispatch decision: Which vehicle is most reliable at epoch 7 while the event is ongoing?
+Q0281_p2	In operational terms, which vehicle is most reliable at epoch 7 while the event is ongoing?
+Q0281_p3	What is the reason behind this: Which vehicle is most reliable at epoch 7 while the event is ongoing?
+Q0281_p4	Could you clarify the dispatch rationale here: Which vehicle is most reliable at epoch 7 while the event is ongoing?
+Q0286	During the game traffic at epoch 8, which vehicle is most reliable?
+Q0286_p1	Can you explain this dispatch decision: During the game traffic at epoch 8, which vehicle is most reliable?
+Q0286_p2	In operational terms, during the game traffic at epoch 8, which vehicle is most reliable?
+Q0286_p3	What is the reason behind this: During the game traffic at epoch 8, which vehicle is most reliable?
+Q0286_p4	Could you clarify the dispatch rationale here: During the game traffic at epoch 8, which vehicle is most reliable?
+Q0291	With the event happening at epoch 9, which vehicle offers the best reliability?
+Q0291_p1	Can you explain this dispatch decision: With the event happening at epoch 9, which vehicle offers the best reliability?
+Q0291_p2	In operational terms, with the event happening at epoch 9, which vehicle offers the best reliability?
+Q0291_p3	What is the reason behind this: With the event happening at epoch 9, which vehicle offers the best reliability?
+Q0291_p4	Could you clarify the dispatch rationale here: With the event happening at epoch 9, which vehicle offers the best reliability?
+Q0296	At epoch 10 once the event peaked, which vehicle is most reliable?
+Q0296_p1	Can you explain this dispatch decision: At epoch 10 once the event peaked, which vehicle is most reliable?
+Q0296_p2	In operational terms, at epoch 10 once the event peaked, which vehicle is most reliable?
+Q0296_p3	What is the reason behind this: At epoch 10 once the event peaked, which vehicle is most reliable?
+Q0296_p4	Could you clarify the dispatch rationale here: At epoch 10 once the event peaked, which vehicle is most reliable?
+Q0341	After the accident, why was carpooling started for request 4 at epoch 4?
+Q0341_p1	Can you explain this dispatch decision: After the accident, why was carpooling started for request 4 at epoch 4?
+Q0341_p2	In operational terms, after the accident, why was carpooling started for request 4 at epoch 4?
+Q0341_p3	What is the reason behind this: After the accident, why was carpooling started for request 4 at epoch 4?
+Q0341_p4	Could you clarify the dispatch rationale here: After the accident, why was carpooling started for request 4 at epoch 4?
+Q0346	Why did the system avoid carpooling request 5 at epoch 5 after the accident?
+Q0346_p1	Can you explain this dispatch decision: Why did the system avoid carpooling request 5 at epoch 5 after the accident?
+Q0346_p2	In operational terms, why did the system avoid carpooling request 5 at epoch 5 after the accident?
+Q0346_p3	What is the reason behind this: Why did the system avoid carpooling request 5 at epoch 5 after the accident?
+Q0346_p4	Could you clarify the dispatch rationale here: Why did the system avoid carpooling request 5 at epoch 5 after the accident?
+Q0351	At epoch 6, once the road was blocked, why was request 6 put into a carpool?
+Q0351_p1	Can you explain this dispatch decision: At epoch 6, once the road was blocked, why was request 6 put into a carpool?
+Q0351_p2	In operational terms, at epoch 6, once the road was blocked, why was request 6 put into a carpool?
+Q0351_p3	What is the reason behind this: At epoch 6, once the road was blocked, why was request 6 put into a carpool?
+Q0351_p4	Could you clarify the dispatch rationale here: At epoch 6, once the road was blocked, why was request 6 put into a carpool?
+Q0356	Why avoid carpooling request 4 at epoch 4 after the accident?
+Q0356_p1	Can you explain this dispatch decision: Why avoid carpooling request 4 at epoch 4 after the accident?
+Q0356_p2	In operational terms, why avoid carpooling request 4 at epoch 4 after the accident?
+Q0356_p3	What is the reason behind this: Why avoid carpooling request 4 at epoch 4 after the accident?
+Q0356_p4	Could you clarify the dispatch rationale here: Why avoid carpooling request 4 at epoch 4 after the accident?
+Q0361	Why was request 5 carpooled at epoch 5 once travel times spiked?
+Q0361_p1	Can you explain this dispatch decision: Why was request 5 carpooled at epoch 5 once travel times spiked?
+Q0361_p2	In operational terms, why was request 5 carpooled at epoch 5 once travel times spiked?
+Q0361_p3	What is the reason behind this: Why was request 5 carpooled at epoch 5 once travel times spiked?
+Q0361_p4	Could you clarify the dispatch rationale here: Why was request 5 carpooled at epoch 5 once travel times spiked?
+Q0366	After the crash, why did the dispatcher avoid pooling request 6 at epoch 6?
+Q0366_p1	Can you explain this dispatch decision: After the crash, why did the dispatcher avoid pooling request 6 at epoch 6?
+Q0366_p2	In operational terms, after the crash, why did the dispatcher avoid pooling request 6 at epoch 6?
+Q0366_p3	What is the reason behind this: After the crash, why did the dispatcher avoid pooling request 6 at epoch 6?
+Q0366_p4	Could you clarify the dispatch rationale here: After the crash, why did the dispatcher avoid pooling request 6 at epoch 6?
+Q0371	At epoch 7 after the accident, why was request 7 added to a carpool?
+Q0371_p1	Can you explain this dispatch decision: At epoch 7 after the accident, why was request 7 added to a carpool?
+Q0371_p2	In operational terms, at epoch 7 after the accident, why was request 7 added to a carpool?
+Q0371_p3	What is the reason behind this: At epoch 7 after the accident, why was request 7 added to a carpool?
+Q0371_p4	Could you clarify the dispatch rationale here: At epoch 7 after the accident, why was request 7 added to a carpool?
+Q0376	Why did the system avoid carpooling request 8 at epoch 8 after the crash?
+Q0376_p1	Can you explain this dispatch decision: Why did the system avoid carpooling request 8 at epoch 8 after the crash?
+Q0376_p2	In operational terms, why did the system avoid carpooling request 8 at epoch 8 after the crash?
+Q0376_p3	What is the reason behind this: Why did the system avoid carpooling request 8 at epoch 8 after the crash?
+Q0376_p4	Could you clarify the dispatch rationale here: Why did the system avoid carpooling request 8 at epoch 8 after the crash?
+Q1411	After the crash at epoch 9, why was it carpooled?
+Q1411_p1	Can you explain this dispatch decision: After the crash at epoch 9, why was it carpooled?
+Q1411_p2	In operational terms, after the crash at epoch 9, why was it carpooled?
+Q1411_p3	What is the reason behind this: After the crash at epoch 9, why was it carpooled?
+Q1411_p4	Could you clarify the dispatch rationale here: After the crash at epoch 9, why was it carpooled?
+Q1501	After the accident, why wasn't request 10 added to a carpool at epoch 10?
+Q1501_p1	Can you explain this dispatch decision: After the accident, why wasn't request 10 added to a carpool at epoch 10?
+Q1501_p2	In operational terms, after the accident, why wasn't request 10 added to a carpool at epoch 10?
+Q1501_p3	What is the reason behind this: After the accident, why wasn't request 10 added to a carpool at epoch 10?
+Q1501_p4	Could you clarify the dispatch rationale here: After the accident, why wasn't request 10 added to a carpool at epoch 10?
+Q0301	At epoch 1, why did the dispatcher avoid carpooling for request 1?
+Q0301_p1	Can you explain this dispatch decision: At epoch 1, why did the dispatcher avoid carpooling for request 1?
+Q0301_p2	In operational terms, at epoch 1, why did the dispatcher avoid carpooling for request 1?
+Q0301_p3	What is the reason behind this: At epoch 1, why did the dispatcher avoid carpooling for request 1?
+Q0301_p4	Could you clarify the dispatch rationale here: At epoch 1, why did the dispatcher avoid carpooling for request 1?
+Q0306	At epoch 2, why was request 2 assigned to carpool?
+Q0306_p1	Can you explain this dispatch decision: At epoch 2, why was request 2 assigned to carpool?
+Q0306_p2	In operational terms, at epoch 2, why was request 2 assigned to carpool?
+Q0306_p3	What is the reason behind this: At epoch 2, why was request 2 assigned to carpool?
+Q0306_p4	Could you clarify the dispatch rationale here: At epoch 2, why was request 2 assigned to carpool?
+Q0311	Why did the system avoid pooling request 3 at epoch 3?
+Q0311_p1	Can you explain this dispatch decision: Why did the system avoid pooling request 3 at epoch 3?
+Q0311_p2	In operational terms, why did the system avoid pooling request 3 at epoch 3?
+Q0311_p3	What is the reason behind this: Why did the system avoid pooling request 3 at epoch 3?
+Q0311_p4	Could you clarify the dispatch rationale here: Why did the system avoid pooling request 3 at epoch 3?
+Q0316	At epoch 4, why was carpooling started for request 4?
+Q0316_p1	Can you explain this dispatch decision: At epoch 4, why was carpooling started for request 4?
+Q0316_p2	In operational terms, at epoch 4, why was carpooling started for request 4?
+Q0316_p3	What is the reason behind this: At epoch 4, why was carpooling started for request 4?
+Q0316_p4	Could you clarify the dispatch rationale here: At epoch 4, why was carpooling started for request 4?
+Q0321	At epoch 5, why did the dispatcher avoid carpooling request 5?
+Q0321_p1	Can you explain this dispatch decision: At epoch 5, why did the dispatcher avoid carpooling request 5?
+Q0321_p2	In operational terms, at epoch 5, why did the dispatcher avoid carpooling request 5?
+Q0321_p3	What is the reason behind this: At epoch 5, why did the dispatcher avoid carpooling request 5?
+Q0321_p4	Could you clarify the dispatch rationale here: At epoch 5, why did the dispatcher avoid carpooling request 5?
+Q0326	At epoch 6, why was request 6 put into a carpool?
+Q0326_p1	Can you explain this dispatch decision: At epoch 6, why was request 6 put into a carpool?
+Q0326_p2	In operational terms, at epoch 6, why was request 6 put into a carpool?
+Q0326_p3	What is the reason behind this: At epoch 6, why was request 6 put into a carpool?
+Q0326_p4	Could you clarify the dispatch rationale here: At epoch 6, why was request 6 put into a carpool?
+Q0331	Why did the dispatcher not pool request 7 at epoch 7?
+Q0331_p1	Can you explain this dispatch decision: Why did the dispatcher not pool request 7 at epoch 7?
+Q0331_p2	In operational terms, why did the dispatcher not pool request 7 at epoch 7?
+Q0331_p3	What is the reason behind this: Why did the dispatcher not pool request 7 at epoch 7?
+Q0331_p4	Could you clarify the dispatch rationale here: Why did the dispatcher not pool request 7 at epoch 7?
+Q0336	At epoch 8, why was request 8 carpooled?
+Q0336_p1	Can you explain this dispatch decision: At epoch 8, why was request 8 carpooled?
+Q0336_p2	In operational terms, at epoch 8, why was request 8 carpooled?
+Q0336_p3	What is the reason behind this: At epoch 8, why was request 8 carpooled?
+Q0336_p4	Could you clarify the dispatch rationale here: At epoch 8, why was request 8 carpooled?
+Q1506	At epoch 9, why was request 9 added to a carpool?
+Q1506_p1	Can you explain this dispatch decision: At epoch 9, why was request 9 added to a carpool?
+Q1506_p2	In operational terms, at epoch 9, why was request 9 added to a carpool?
+Q1506_p3	What is the reason behind this: At epoch 9, why was request 9 added to a carpool?
+Q1506_p4	Could you clarify the dispatch rationale here: At epoch 9, why was request 9 added to a carpool?
+Q1511	At epoch 10, why wasn't request 10 placed into a carpool?
+Q1511_p1	Can you explain this dispatch decision: At epoch 10, why wasn't request 10 placed into a carpool?
+Q1511_p2	In operational terms, at epoch 10, why wasn't request 10 placed into a carpool?
+Q1511_p3	What is the reason behind this: At epoch 10, why wasn't request 10 placed into a carpool?
+Q1511_p4	Could you clarify the dispatch rationale here: At epoch 10, why wasn't request 10 placed into a carpool?
+Q0381	During the event, why was carpooling started for request 4 at epoch 4?
+Q0381_p1	Can you explain this dispatch decision: During the event, why was carpooling started for request 4 at epoch 4?
+Q0381_p2	In operational terms, during the event, why was carpooling started for request 4 at epoch 4?
+Q0381_p3	What is the reason behind this: During the event, why was carpooling started for request 4 at epoch 4?
+Q0381_p4	Could you clarify the dispatch rationale here: During the event, why was carpooling started for request 4 at epoch 4?
+Q0386	Why did the system avoid pooling request 5 at epoch 5 during the concert?
+Q0386_p1	Can you explain this dispatch decision: Why did the system avoid pooling request 5 at epoch 5 during the concert?
+Q0386_p2	In operational terms, why did the system avoid pooling request 5 at epoch 5 during the concert?
+Q0386_p3	What is the reason behind this: Why did the system avoid pooling request 5 at epoch 5 during the concert?
+Q0386_p4	Could you clarify the dispatch rationale here: Why did the system avoid pooling request 5 at epoch 5 during the concert?
+Q0391	At epoch 6 during the stadium event, why was request 6 carpooled?
+Q0391_p1	Can you explain this dispatch decision: At epoch 6 during the stadium event, why was request 6 carpooled?
+Q0391_p2	In operational terms, at epoch 6 during the stadium event, why was request 6 carpooled?
+Q0391_p3	What is the reason behind this: At epoch 6 during the stadium event, why was request 6 carpooled?
+Q0391_p4	Could you clarify the dispatch rationale here: At epoch 6 during the stadium event, why was request 6 carpooled?
+Q0396	Why was request 4 not pooled at epoch 4 during the event?
+Q0396_p1	Can you explain this dispatch decision: Why was request 4 not pooled at epoch 4 during the event?
+Q0396_p2	In operational terms, why was request 4 not pooled at epoch 4 during the event?
+Q0396_p3	What is the reason behind this: Why was request 4 not pooled at epoch 4 during the event?
+Q0396_p4	Could you clarify the dispatch rationale here: Why was request 4 not pooled at epoch 4 during the event?
+Q0401	Why was carpooling started for request 5 at epoch 5 given the event congestion?
+Q0401_p1	Can you explain this dispatch decision: Why was carpooling started for request 5 at epoch 5 given the event congestion?
+Q0401_p2	In operational terms, why was carpooling started for request 5 at epoch 5 given the event congestion?
+Q0401_p3	What is the reason behind this: Why was carpooling started for request 5 at epoch 5 given the event congestion?
+Q0401_p4	Could you clarify the dispatch rationale here: Why was carpooling started for request 5 at epoch 5 given the event congestion?
+Q0406	During the event, why wasn't request 6 carpooled at epoch 6?
+Q0406_p1	Can you explain this dispatch decision: During the event, why wasn't request 6 carpooled at epoch 6?
+Q0406_p2	In operational terms, during the event, why wasn't request 6 carpooled at epoch 6?
+Q0406_p3	What is the reason behind this: During the event, why wasn't request 6 carpooled at epoch 6?
+Q0406_p4	Could you clarify the dispatch rationale here: During the event, why wasn't request 6 carpooled at epoch 6?
+Q0411	At epoch 7 during the event, why was request 7 put into a carpool?
+Q0411_p1	Can you explain this dispatch decision: At epoch 7 during the event, why was request 7 put into a carpool?
+Q0411_p2	In operational terms, at epoch 7 during the event, why was request 7 put into a carpool?
+Q0411_p3	What is the reason behind this: At epoch 7 during the event, why was request 7 put into a carpool?
+Q0411_p4	Could you clarify the dispatch rationale here: At epoch 7 during the event, why was request 7 put into a carpool?
+Q0416	Why did the dispatcher avoid pooling request 8 at epoch 8 during the concert traffic?
+Q0416_p1	Can you explain this dispatch decision: Why did the dispatcher avoid pooling request 8 at epoch 8 during the concert traffic?
+Q0416_p2	In operational terms, why did the dispatcher avoid pooling request 8 at epoch 8 during the concert traffic?
+Q0416_p3	What is the reason behind this: Why did the dispatcher avoid pooling request 8 at epoch 8 during the concert traffic?
+Q0416_p4	Could you clarify the dispatch rationale here: Why did the dispatcher avoid pooling request 8 at epoch 8 during the concert traffic?
+Q1516	During the event at epoch 9, why was request 9 carpooled?
+Q1516_p1	Can you explain this dispatch decision: During the event at epoch 9, why was request 9 carpooled?
+Q1516_p2	In operational terms, during the event at epoch 9, why was request 9 carpooled?
+Q1516_p3	What is the reason behind this: During the event at epoch 9, why was request 9 carpooled?
+Q1516_p4	Could you clarify the dispatch rationale here: During the event at epoch 9, why was request 9 carpooled?
+Q1521	With the event on at epoch 10, why wasn't request 10 carpooled?
+Q1521_p1	Can you explain this dispatch decision: With the event on at epoch 10, why wasn't request 10 carpooled?
+Q1521_p2	In operational terms, with the event on at epoch 10, why wasn't request 10 carpooled?
+Q1521_p3	What is the reason behind this: With the event on at epoch 10, why wasn't request 10 carpooled?
+Q1521_p4	Could you clarify the dispatch rationale here: With the event on at epoch 10, why wasn't request 10 carpooled?
+Q0461	After the accident, when does the dispatcher stop being overly pessimistic?
+Q0461_p1	Can you explain this dispatch decision: After the accident, when does the dispatcher stop being overly pessimistic?
+Q0461_p2	In operational terms, after the accident, when does the dispatcher stop being overly pessimistic?
+Q0461_p3	What is the reason behind this: After the accident, when does the dispatcher stop being overly pessimistic?
+Q0461_p4	Could you clarify the dispatch rationale here: After the accident, when does the dispatcher stop being overly pessimistic?
+Q0466	At what epoch after the accident does the system re-calibrate away from over-caution?
+Q0466_p1	Can you explain this dispatch decision: At what epoch after the accident does the system re-calibrate away from over-caution?
+Q0466_p2	In operational terms, at what epoch after the accident does the system re-calibrate away from over-caution?
+Q0466_p3	What is the reason behind this: At what epoch after the accident does the system re-calibrate away from over-caution?
+Q0466_p4	Could you clarify the dispatch rationale here: At what epoch after the accident does the system re-calibrate away from over-caution?
+Q0471	Once the accident happened, when does the dispatcher stop being too cautious?
+Q0471_p1	Can you explain this dispatch decision: Once the accident happened, when does the dispatcher stop being too cautious?
+Q0471_p2	In operational terms, once the accident happened, when does the dispatcher stop being too cautious?
+Q0471_p3	What is the reason behind this: Once the accident happened, when does the dispatcher stop being too cautious?
+Q0471_p4	Could you clarify the dispatch rationale here: Once the accident happened, when does the dispatcher stop being too cautious?
+Q0476	When does the dispatcher stop being too pessimistic after travel times change?
+Q0476_p1	Can you explain this dispatch decision: When does the dispatcher stop being too pessimistic after travel times change?
+Q0476_p2	In operational terms, when does the dispatcher stop being too pessimistic after travel times change?
+Q0476_p3	What is the reason behind this: When does the dispatcher stop being too pessimistic after travel times change?
+Q0476_p4	Could you clarify the dispatch rationale here: When does the dispatcher stop being too pessimistic after travel times change?
+Q0481	Post-accident, at what epoch does the system regain confidence?
+Q0481_p1	Can you explain this dispatch decision: Post-accident, at what epoch does the system regain confidence?
+Q0481_p2	In operational terms, post-accident, at what epoch does the system regain confidence?
+Q0481_p3	What is the reason behind this: Post-accident, at what epoch does the system regain confidence?
+Q0481_p4	Could you clarify the dispatch rationale here: Post-accident, at what epoch does the system regain confidence?
+Q0486	After the accident, when does the dispatcher stop over-hedging?
+Q0486_p1	Can you explain this dispatch decision: After the accident, when does the dispatcher stop over-hedging?
+Q0486_p2	In operational terms, after the accident, when does the dispatcher stop over-hedging?
+Q0486_p3	What is the reason behind this: After the accident, when does the dispatcher stop over-hedging?
+Q0486_p4	Could you clarify the dispatch rationale here: After the accident, when does the dispatcher stop over-hedging?
+Q0491	After the crash, when does the dispatcher's over-conservatism resolve?
+Q0491_p1	Can you explain this dispatch decision: After the crash, when does the dispatcher's over-conservatism resolve?
+Q0491_p2	In operational terms, after the crash, when does the dispatcher's over-conservatism resolve?
+Q0491_p3	What is the reason behind this: After the crash, when does the dispatcher's over-conservatism resolve?
+Q0491_p4	Could you clarify the dispatch rationale here: After the crash, when does the dispatcher's over-conservatism resolve?
+Q0496	At what epoch after the accident does the dispatcher's over-pessimism end?
+Q0496_p1	Can you explain this dispatch decision: At what epoch after the accident does the dispatcher's over-pessimism end?
+Q0496_p2	In operational terms, at what epoch after the accident does the dispatcher's over-pessimism end?
+Q0496_p3	What is the reason behind this: At what epoch after the accident does the dispatcher's over-pessimism end?
+Q0496_p4	Could you clarify the dispatch rationale here: At what epoch after the accident does the dispatcher's over-pessimism end?
+Q1386	After the accident, when does the dispatcher start being confident again?
+Q1386_p1	Can you explain this dispatch decision: After the accident, when does the dispatcher start being confident again?
+Q1386_p2	In operational terms, after the accident, when does the dispatcher start being confident again?
+Q1386_p3	What is the reason behind this: After the accident, when does the dispatcher start being confident again?
+Q1386_p4	Could you clarify the dispatch rationale here: After the accident, when does the dispatcher start being confident again?
+Q1526	After the accident, at what epoch does the dispatcher return to normal?
+Q1526_p1	Can you explain this dispatch decision: After the accident, at what epoch does the dispatcher return to normal?
+Q1526_p2	In operational terms, after the accident, at what epoch does the dispatcher return to normal?
+Q1526_p3	What is the reason behind this: After the accident, at what epoch does the dispatcher return to normal?
+Q1526_p4	Could you clarify the dispatch rationale here: After the accident, at what epoch does the dispatcher return to normal?
+Q0421	At what epoch does the dispatcher stop being overly pessimistic?
+Q0421_p1	Can you explain this dispatch decision: At what epoch does the dispatcher stop being overly pessimistic?
+Q0421_p2	In operational terms, at what epoch does the dispatcher stop being overly pessimistic?
+Q0421_p3	What is the reason behind this: At what epoch does the dispatcher stop being overly pessimistic?
+Q0421_p4	Could you clarify the dispatch rationale here: At what epoch does the dispatcher stop being overly pessimistic?
+Q0426	When does the dispatcher stop being overly cautious in its estimates?
+Q0426_p1	Can you explain this dispatch decision: When does the dispatcher stop being overly cautious in its estimates?
+Q0426_p2	In operational terms, when does the dispatcher stop being overly cautious in its estimates?
+Q0426_p3	What is the reason behind this: When does the dispatcher stop being overly cautious in its estimates?
+Q0426_p4	Could you clarify the dispatch rationale here: When does the dispatcher stop being overly cautious in its estimates?
+Q0431	At what point does the dispatcher start making more optimistic assignments?
+Q0431_p1	Can you explain this dispatch decision: At what point does the dispatcher start making more optimistic assignments?
+Q0431_p2	In operational terms, at what point does the dispatcher start making more optimistic assignments?
+Q0431_p3	What is the reason behind this: At what point does the dispatcher start making more optimistic assignments?
+Q0431_p4	Could you clarify the dispatch rationale here: At what point does the dispatcher start making more optimistic assignments?
+Q0436	At what epoch does the dispatcher start behaving less conservatively?
+Q0436_p1	Can you explain this dispatch decision: At what epoch does the dispatcher start behaving less conservatively?
+Q0436_p2	In operational terms, at what epoch does the dispatcher start behaving less conservatively?
+Q0436_p3	What is the reason behind this: At what epoch does the dispatcher start behaving less conservatively?
+Q0436_p4	Could you clarify the dispatch rationale here: At what epoch does the dispatcher start behaving less conservatively?
+Q0441	When in the run does the dispatcher calm down from its overly pessimistic behavior?
+Q0441_p1	Can you explain this dispatch decision: When in the run does the dispatcher calm down from its overly pessimistic behavior?
+Q0441_p2	In operational terms, when in the run does the dispatcher calm down from its overly pessimistic behavior?
+Q0441_p3	What is the reason behind this: When in the run does the dispatcher calm down from its overly pessimistic behavior?
+Q0441_p4	Could you clarify the dispatch rationale here: When in the run does the dispatcher calm down from its overly pessimistic behavior?
+Q0446	When does the dispatcher start making the kind of assignments we'd expect?
+Q0446_p1	Can you explain this dispatch decision: When does the dispatcher start making the kind of assignments we'd expect?
+Q0446_p2	In operational terms, when does the dispatcher start making the kind of assignments we'd expect?
+Q0446_p3	What is the reason behind this: When does the dispatcher start making the kind of assignments we'd expect?
+Q0446_p4	Could you clarify the dispatch rationale here: When does the dispatcher start making the kind of assignments we'd expect?
+Q0451	At what epoch does the dispatcher stop over-avoiding risk?
+Q0451_p1	Can you explain this dispatch decision: At what epoch does the dispatcher stop over-avoiding risk?
+Q0451_p2	In operational terms, at what epoch does the dispatcher stop over-avoiding risk?
+Q0451_p3	What is the reason behind this: At what epoch does the dispatcher stop over-avoiding risk?
+Q0451_p4	Could you clarify the dispatch rationale here: At what epoch does the dispatcher stop over-avoiding risk?
+Q0456	Under current traffic, when does the dispatcher stop being overly pessimistic?
+Q0456_p1	Can you explain this dispatch decision: Under current traffic, when does the dispatcher stop being overly pessimistic?
+Q0456_p2	In operational terms, under current traffic, when does the dispatcher stop being overly pessimistic?
+Q0456_p3	What is the reason behind this: Under current traffic, when does the dispatcher stop being overly pessimistic?
+Q0456_p4	Could you clarify the dispatch rationale here: Under current traffic, when does the dispatcher stop being overly pessimistic?
+Q1531	When does the dispatcher stop being overly cautious about its estimates?
+Q1531_p1	Can you explain this dispatch decision: When does the dispatcher stop being overly cautious about its estimates?
+Q1531_p2	In operational terms, when does the dispatcher stop being overly cautious about its estimates?
+Q1531_p3	What is the reason behind this: When does the dispatcher stop being overly cautious about its estimates?
+Q1531_p4	Could you clarify the dispatch rationale here: When does the dispatcher stop being overly cautious about its estimates?
+Q1536	At what point does the dispatcher stop overestimating risk?
+Q1536_p1	Can you explain this dispatch decision: At what point does the dispatcher stop overestimating risk?
+Q1536_p2	In operational terms, at what point does the dispatcher stop overestimating risk?
+Q1536_p3	What is the reason behind this: At what point does the dispatcher stop overestimating risk?
+Q1536_p4	Could you clarify the dispatch rationale here: At what point does the dispatcher stop overestimating risk?
+Q0501	During the event, when does the dispatcher stop being overly pessimistic?
+Q0501_p1	Can you explain this dispatch decision: During the event, when does the dispatcher stop being overly pessimistic?
+Q0501_p2	In operational terms, during the event, when does the dispatcher stop being overly pessimistic?
+Q0501_p3	What is the reason behind this: During the event, when does the dispatcher stop being overly pessimistic?
+Q0501_p4	Could you clarify the dispatch rationale here: During the event, when does the dispatcher stop being overly pessimistic?
+Q0506	After the event starts, when does the dispatcher stop over-avoiding risk?
+Q0506_p1	Can you explain this dispatch decision: After the event starts, when does the dispatcher stop over-avoiding risk?
+Q0506_p2	In operational terms, after the event starts, when does the dispatcher stop over-avoiding risk?
+Q0506_p3	What is the reason behind this: After the event starts, when does the dispatcher stop over-avoiding risk?
+Q0506_p4	Could you clarify the dispatch rationale here: After the event starts, when does the dispatcher stop over-avoiding risk?
+Q0511	At what epoch during the event does the dispatcher's pessimism resolve?
+Q0511_p1	Can you explain this dispatch decision: At what epoch during the event does the dispatcher's pessimism resolve?
+Q0511_p2	In operational terms, at what epoch during the event does the dispatcher's pessimism resolve?
+Q0511_p3	What is the reason behind this: At what epoch during the event does the dispatcher's pessimism resolve?
+Q0511_p4	Could you clarify the dispatch rationale here: At what epoch during the event does the dispatcher's pessimism resolve?
+Q0516	Once the concert started, when does the dispatcher calm down?
+Q0516_p1	Can you explain this dispatch decision: Once the concert started, when does the dispatcher calm down?
+Q0516_p2	In operational terms, once the concert started, when does the dispatcher calm down?
+Q0516_p3	What is the reason behind this: Once the concert started, when does the dispatcher calm down?
+Q0516_p4	Could you clarify the dispatch rationale here: Once the concert started, when does the dispatcher calm down?
+Q0521	During the event, at what epoch does the dispatcher recalibrate?
+Q0521_p1	Can you explain this dispatch decision: During the event, at what epoch does the dispatcher recalibrate?
+Q0521_p2	In operational terms, during the event, at what epoch does the dispatcher recalibrate?
+Q0521_p3	What is the reason behind this: During the event, at what epoch does the dispatcher recalibrate?
+Q0521_p4	Could you clarify the dispatch rationale here: During the event, at what epoch does the dispatcher recalibrate?
+Q0526	When does the system stop being overly pessimistic after event-induced congestion?
+Q0526_p1	Can you explain this dispatch decision: When does the system stop being overly pessimistic after event-induced congestion?
+Q0526_p2	In operational terms, when does the system stop being overly pessimistic after event-induced congestion?
+Q0526_p3	What is the reason behind this: When does the system stop being overly pessimistic after event-induced congestion?
+Q0526_p4	Could you clarify the dispatch rationale here: When does the system stop being overly pessimistic after event-induced congestion?
+Q0531	When does the dispatcher begin behaving normally again during the event?
+Q0531_p1	Can you explain this dispatch decision: When does the dispatcher begin behaving normally again during the event?
+Q0531_p2	In operational terms, when does the dispatcher begin behaving normally again during the event?
+Q0531_p3	What is the reason behind this: When does the dispatcher begin behaving normally again during the event?
+Q0531_p4	Could you clarify the dispatch rationale here: When does the dispatcher begin behaving normally again during the event?
+Q0536	Under the event's congestion, when does the over-pessimism end?
+Q0536_p1	Can you explain this dispatch decision: Under the event's congestion, when does the over-pessimism end?
+Q0536_p2	In operational terms, under the event's congestion, when does the over-pessimism end?
+Q0536_p3	What is the reason behind this: Under the event's congestion, when does the over-pessimism end?
+Q0536_p4	Could you clarify the dispatch rationale here: Under the event's congestion, when does the over-pessimism end?
+Q1541	During the event, at what epoch does the dispatcher recover from extra caution?
+Q1541_p1	Can you explain this dispatch decision: During the event, at what epoch does the dispatcher recover from extra caution?
+Q1541_p2	In operational terms, during the event, at what epoch does the dispatcher recover from extra caution?
+Q1541_p3	What is the reason behind this: During the event, at what epoch does the dispatcher recover from extra caution?
+Q1541_p4	Could you clarify the dispatch rationale here: During the event, at what epoch does the dispatcher recover from extra caution?
+Q1546	At what epoch does the dispatcher stabilize after the event begins?
+Q1546_p1	Can you explain this dispatch decision: At what epoch does the dispatcher stabilize after the event begins?
+Q1546_p2	In operational terms, at what epoch does the dispatcher stabilize after the event begins?
+Q1546_p3	What is the reason behind this: At what epoch does the dispatcher stabilize after the event begins?
+Q1546_p4	Could you clarify the dispatch rationale here: At what epoch does the dispatcher stabilize after the event begins?
+Q0581	After the accident, how confident is the dispatcher about Vehicle 4 at epoch 4?
+Q0581_p1	Can you explain this dispatch decision: After the accident, how confident is the dispatcher about Vehicle 4 at epoch 4?
+Q0581_p2	In operational terms, after the accident, how confident is the dispatcher about Vehicle 4 at epoch 4?
+Q0581_p3	What is the reason behind this: After the accident, how confident is the dispatcher about Vehicle 4 at epoch 4?
+Q0581_p4	Could you clarify the dispatch rationale here: After the accident, how confident is the dispatcher about Vehicle 4 at epoch 4?
+Q0586	Given the accident, how confident is the system about Vehicle 4 at epoch 5?
+Q0586_p1	Can you explain this dispatch decision: Given the accident, how confident is the system about Vehicle 4 at epoch 5?
+Q0586_p2	In operational terms, given the accident, how confident is the system about Vehicle 4 at epoch 5?
+Q0586_p3	What is the reason behind this: Given the accident, how confident is the system about Vehicle 4 at epoch 5?
+Q0586_p4	Could you clarify the dispatch rationale here: Given the accident, how confident is the system about Vehicle 4 at epoch 5?
+Q0591	At epoch 6 after the crash, how confident is the dispatcher in V0?
+Q0591_p1	Can you explain this dispatch decision: At epoch 6 after the crash, how confident is the dispatcher in V0?
+Q0591_p2	In operational terms, at epoch 6 after the crash, how confident is the dispatcher in V0?
+Q0591_p3	What is the reason behind this: At epoch 6 after the crash, how confident is the dispatcher in V0?
+Q0591_p4	Could you clarify the dispatch rationale here: At epoch 6 after the crash, how confident is the dispatcher in V0?
+Q0596	Post-accident, how confident is the dispatcher about V4 at epoch 4?
+Q0596_p1	Can you explain this dispatch decision: Post-accident, how confident is the dispatcher about V4 at epoch 4?
+Q0596_p2	In operational terms, post-accident, how confident is the dispatcher about V4 at epoch 4?
+Q0596_p3	What is the reason behind this: Post-accident, how confident is the dispatcher about V4 at epoch 4?
+Q0596_p4	Could you clarify the dispatch rationale here: Post-accident, how confident is the dispatcher about V4 at epoch 4?
+Q0601	How confident is the dispatcher about assigning Vehicle 4 at epoch 5 given the blockage?
+Q0601_p1	Can you explain this dispatch decision: How confident is the dispatcher about assigning Vehicle 4 at epoch 5 given the blockage?
+Q0601_p2	In operational terms, how confident is the dispatcher about assigning Vehicle 4 at epoch 5 given the blockage?
+Q0601_p3	What is the reason behind this: How confident is the dispatcher about assigning Vehicle 4 at epoch 5 given the blockage?
+Q0601_p4	Could you clarify the dispatch rationale here: How confident is the dispatcher about assigning Vehicle 4 at epoch 5 given the blockage?
+Q0606	At epoch 6 after the accident, how confident is the system about V0?
+Q0606_p1	Can you explain this dispatch decision: At epoch 6 after the accident, how confident is the system about V0?
+Q0606_p2	In operational terms, at epoch 6 after the accident, how confident is the system about V0?
+Q0606_p3	What is the reason behind this: At epoch 6 after the accident, how confident is the system about V0?
+Q0606_p4	Could you clarify the dispatch rationale here: At epoch 6 after the accident, how confident is the system about V0?
+Q0611	Given the accident, how sure is the dispatcher about V1 at epoch 7?
+Q0611_p1	Can you explain this dispatch decision: Given the accident, how sure is the dispatcher about V1 at epoch 7?
+Q0611_p2	In operational terms, given the accident, how sure is the dispatcher about V1 at epoch 7?
+Q0611_p3	What is the reason behind this: Given the accident, how sure is the dispatcher about V1 at epoch 7?
+Q0611_p4	Could you clarify the dispatch rationale here: Given the accident, how sure is the dispatcher about V1 at epoch 7?
+Q0616	Once travel times spiked, how confident is the dispatcher about V1 at epoch 8?
+Q0616_p1	Can you explain this dispatch decision: Once travel times spiked, how confident is the dispatcher about V1 at epoch 8?
+Q0616_p2	In operational terms, once travel times spiked, how confident is the dispatcher about V1 at epoch 8?
+Q0616_p3	What is the reason behind this: Once travel times spiked, how confident is the dispatcher about V1 at epoch 8?
+Q0616_p4	Could you clarify the dispatch rationale here: Once travel times spiked, how confident is the dispatcher about V1 at epoch 8?
+Q1551	After the accident, how confident is the dispatcher about assigning Vehicle 0 at epoch 9?
+Q1551_p1	Can you explain this dispatch decision: After the accident, how confident is the dispatcher about assigning Vehicle 0 at epoch 9?
+Q1551_p2	In operational terms, after the accident, how confident is the dispatcher about assigning Vehicle 0 at epoch 9?
+Q1551_p3	What is the reason behind this: After the accident, how confident is the dispatcher about assigning Vehicle 0 at epoch 9?
+Q1551_p4	Could you clarify the dispatch rationale here: After the accident, how confident is the dispatcher about assigning Vehicle 0 at epoch 9?
+Q1556	After the crash, how confident is the system about its Vehicle 0 assignment at epoch 10?
+Q1556_p1	Can you explain this dispatch decision: After the crash, how confident is the system about its Vehicle 0 assignment at epoch 10?
+Q1556_p2	In operational terms, after the crash, how confident is the system about its Vehicle 0 assignment at epoch 10?
+Q1556_p3	What is the reason behind this: After the crash, how confident is the system about its Vehicle 0 assignment at epoch 10?
+Q1556_p4	Could you clarify the dispatch rationale here: After the crash, how confident is the system about its Vehicle 0 assignment at epoch 10?
+Q0541	At epoch 1, how confident is the dispatcher about assigning Vehicle 4?
+Q0541_p1	Can you explain this dispatch decision: At epoch 1, how confident is the dispatcher about assigning Vehicle 4?
+Q0541_p2	In operational terms, at epoch 1, how confident is the dispatcher about assigning Vehicle 4?
+Q0541_p3	What is the reason behind this: At epoch 1, how confident is the dispatcher about assigning Vehicle 4?
+Q0541_p4	Could you clarify the dispatch rationale here: At epoch 1, how confident is the dispatcher about assigning Vehicle 4?
+Q0546	At epoch 2, how confident is the system about its Vehicle 4 assignment?
+Q0546_p1	Can you explain this dispatch decision: At epoch 2, how confident is the system about its Vehicle 4 assignment?
+Q0546_p2	In operational terms, at epoch 2, how confident is the system about its Vehicle 4 assignment?
+Q0546_p3	What is the reason behind this: At epoch 2, how confident is the system about its Vehicle 4 assignment?
+Q0546_p4	Could you clarify the dispatch rationale here: At epoch 2, how confident is the system about its Vehicle 4 assignment?
+Q0551	How confident is the dispatcher about Vehicle 4 at epoch 3?
+Q0551_p1	Can you explain this dispatch decision: How confident is the dispatcher about Vehicle 4 at epoch 3?
+Q0551_p2	In operational terms, how confident is the dispatcher about Vehicle 4 at epoch 3?
+Q0551_p3	What is the reason behind this: How confident is the dispatcher about Vehicle 4 at epoch 3?
+Q0551_p4	Could you clarify the dispatch rationale here: How confident is the dispatcher about Vehicle 4 at epoch 3?
+Q0556	At epoch 4, how sure is the dispatcher about assigning V4?
+Q0556_p1	Can you explain this dispatch decision: At epoch 4, how sure is the dispatcher about assigning V4?
+Q0556_p2	In operational terms, at epoch 4, how sure is the dispatcher about assigning V4?
+Q0556_p3	What is the reason behind this: At epoch 4, how sure is the dispatcher about assigning V4?
+Q0556_p4	Could you clarify the dispatch rationale here: At epoch 4, how sure is the dispatcher about assigning V4?
+Q0561	Under this traffic, how confident is the dispatcher about Vehicle 0 at epoch 5?
+Q0561_p1	Can you explain this dispatch decision: Under this traffic, how confident is the dispatcher about Vehicle 0 at epoch 5?
+Q0561_p2	In operational terms, under this traffic, how confident is the dispatcher about Vehicle 0 at epoch 5?
+Q0561_p3	What is the reason behind this: Under this traffic, how confident is the dispatcher about Vehicle 0 at epoch 5?
+Q0561_p4	Could you clarify the dispatch rationale here: Under this traffic, how confident is the dispatcher about Vehicle 0 at epoch 5?
+Q0566	At epoch 6, how confident is the dispatcher about Vehicle 3?
+Q0566_p1	Can you explain this dispatch decision: At epoch 6, how confident is the dispatcher about Vehicle 3?
+Q0566_p2	In operational terms, at epoch 6, how confident is the dispatcher about Vehicle 3?
+Q0566_p3	What is the reason behind this: At epoch 6, how confident is the dispatcher about Vehicle 3?
+Q0566_p4	Could you clarify the dispatch rationale here: At epoch 6, how confident is the dispatcher about Vehicle 3?
+Q0571	How confident is the system about assigning Vehicle 0 at epoch 7?
+Q0571_p1	Can you explain this dispatch decision: How confident is the system about assigning Vehicle 0 at epoch 7?
+Q0571_p2	In operational terms, how confident is the system about assigning Vehicle 0 at epoch 7?
+Q0571_p3	What is the reason behind this: How confident is the system about assigning Vehicle 0 at epoch 7?
+Q0571_p4	Could you clarify the dispatch rationale here: How confident is the system about assigning Vehicle 0 at epoch 7?
+Q0576	At epoch 8, how confident is the dispatcher in its assignment of V0?
+Q0576_p1	Can you explain this dispatch decision: At epoch 8, how confident is the dispatcher in its assignment of V0?
+Q0576_p2	In operational terms, at epoch 8, how confident is the dispatcher in its assignment of V0?
+Q0576_p3	What is the reason behind this: At epoch 8, how confident is the dispatcher in its assignment of V0?
+Q0576_p4	Could you clarify the dispatch rationale here: At epoch 8, how confident is the dispatcher in its assignment of V0?
+Q1391	At epoch 8, how confident is the dispatcher?
+Q1391_p1	Can you explain this dispatch decision: At epoch 8, how confident is the dispatcher?
+Q1391_p2	In operational terms, at epoch 8, how confident is the dispatcher?
+Q1391_p3	What is the reason behind this: At epoch 8, how confident is the dispatcher?
+Q1391_p4	Could you clarify the dispatch rationale here: At epoch 8, how confident is the dispatcher?
+Q1561	At epoch 10, how confident is the system about Vehicle 0?
+Q1561_p1	Can you explain this dispatch decision: At epoch 10, how confident is the system about Vehicle 0?
+Q1561_p2	In operational terms, at epoch 10, how confident is the system about Vehicle 0?
+Q1561_p3	What is the reason behind this: At epoch 10, how confident is the system about Vehicle 0?
+Q1561_p4	Could you clarify the dispatch rationale here: At epoch 10, how confident is the system about Vehicle 0?
+Q0621	During the event, how confident is the dispatcher about Vehicle 3 at epoch 4?
+Q0621_p1	Can you explain this dispatch decision: During the event, how confident is the dispatcher about Vehicle 3 at epoch 4?
+Q0621_p2	In operational terms, during the event, how confident is the dispatcher about Vehicle 3 at epoch 4?
+Q0621_p3	What is the reason behind this: During the event, how confident is the dispatcher about Vehicle 3 at epoch 4?
+Q0621_p4	Could you clarify the dispatch rationale here: During the event, how confident is the dispatcher about Vehicle 3 at epoch 4?
+Q0626	At epoch 5 during the concert, how sure is the system about Vehicle 2?
+Q0626_p1	Can you explain this dispatch decision: At epoch 5 during the concert, how sure is the system about Vehicle 2?
+Q0626_p2	In operational terms, at epoch 5 during the concert, how sure is the system about Vehicle 2?
+Q0626_p3	What is the reason behind this: At epoch 5 during the concert, how sure is the system about Vehicle 2?
+Q0626_p4	Could you clarify the dispatch rationale here: At epoch 5 during the concert, how sure is the system about Vehicle 2?
+Q0631	With the event congestion, how confident is the dispatcher about V0 at epoch 6?
+Q0631_p1	Can you explain this dispatch decision: With the event congestion, how confident is the dispatcher about V0 at epoch 6?
+Q0631_p2	In operational terms, with the event congestion, how confident is the dispatcher about V0 at epoch 6?
+Q0631_p3	What is the reason behind this: With the event congestion, how confident is the dispatcher about V0 at epoch 6?
+Q0631_p4	Could you clarify the dispatch rationale here: With the event congestion, how confident is the dispatcher about V0 at epoch 6?
+Q0636	At epoch 4 during the stadium event, how confident is the system about V3?
+Q0636_p1	Can you explain this dispatch decision: At epoch 4 during the stadium event, how confident is the system about V3?
+Q0636_p2	In operational terms, at epoch 4 during the stadium event, how confident is the system about V3?
+Q0636_p3	What is the reason behind this: At epoch 4 during the stadium event, how confident is the system about V3?
+Q0636_p4	Could you clarify the dispatch rationale here: At epoch 4 during the stadium event, how confident is the system about V3?
+Q0641	Given the event, how sure is the dispatcher about Vehicle 2 at epoch 5?
+Q0641_p1	Can you explain this dispatch decision: Given the event, how sure is the dispatcher about Vehicle 2 at epoch 5?
+Q0641_p2	In operational terms, given the event, how sure is the dispatcher about Vehicle 2 at epoch 5?
+Q0641_p3	What is the reason behind this: Given the event, how sure is the dispatcher about Vehicle 2 at epoch 5?
+Q0641_p4	Could you clarify the dispatch rationale here: Given the event, how sure is the dispatcher about Vehicle 2 at epoch 5?
+Q0646	During the event, how confident is the system about V0 at epoch 6?
+Q0646_p1	Can you explain this dispatch decision: During the event, how confident is the system about V0 at epoch 6?
+Q0646_p2	In operational terms, during the event, how confident is the system about V0 at epoch 6?
+Q0646_p3	What is the reason behind this: During the event, how confident is the system about V0 at epoch 6?
+Q0646_p4	Could you clarify the dispatch rationale here: During the event, how confident is the system about V0 at epoch 6?
+Q0651	At epoch 7 with the event ongoing, how confident is the dispatcher about V0?
+Q0651_p1	Can you explain this dispatch decision: At epoch 7 with the event ongoing, how confident is the dispatcher about V0?
+Q0651_p2	In operational terms, at epoch 7 with the event ongoing, how confident is the dispatcher about V0?
+Q0651_p3	What is the reason behind this: At epoch 7 with the event ongoing, how confident is the dispatcher about V0?
+Q0651_p4	Could you clarify the dispatch rationale here: At epoch 7 with the event ongoing, how confident is the dispatcher about V0?
+Q0656	Once the event peaked, how sure is the dispatcher about Vehicle 1 at epoch 8?
+Q0656_p1	Can you explain this dispatch decision: Once the event peaked, how sure is the dispatcher about Vehicle 1 at epoch 8?
+Q0656_p2	In operational terms, once the event peaked, how sure is the dispatcher about Vehicle 1 at epoch 8?
+Q0656_p3	What is the reason behind this: Once the event peaked, how sure is the dispatcher about Vehicle 1 at epoch 8?
+Q0656_p4	Could you clarify the dispatch rationale here: Once the event peaked, how sure is the dispatcher about Vehicle 1 at epoch 8?
+Q1566	During the event, how confident is the dispatcher about Vehicle 1 at epoch 9?
+Q1566_p1	Can you explain this dispatch decision: During the event, how confident is the dispatcher about Vehicle 1 at epoch 9?
+Q1566_p2	In operational terms, during the event, how confident is the dispatcher about Vehicle 1 at epoch 9?
+Q1566_p3	What is the reason behind this: During the event, how confident is the dispatcher about Vehicle 1 at epoch 9?
+Q1566_p4	Could you clarify the dispatch rationale here: During the event, how confident is the dispatcher about Vehicle 1 at epoch 9?
+Q1571	At epoch 10 during the event, how sure is the system about Vehicle 3?
+Q1571_p1	Can you explain this dispatch decision: At epoch 10 during the event, how sure is the system about Vehicle 3?
+Q1571_p2	In operational terms, at epoch 10 during the event, how sure is the system about Vehicle 3?
+Q1571_p3	What is the reason behind this: At epoch 10 during the event, how sure is the system about Vehicle 3?
+Q1571_p4	Could you clarify the dispatch rationale here: At epoch 10 during the event, how sure is the system about Vehicle 3?
+Q1051	How did the event affect assignment at epoch 4?
+Q1051_p1	Can you explain this dispatch decision: How did the event affect assignment at epoch 4?
+Q1051_p2	In operational terms, how did the event affect assignment at epoch 4?
+Q1051_p3	What is the reason behind this: How did the event affect assignment at epoch 4?
+Q1051_p4	Could you clarify the dispatch rationale here: How did the event affect assignment at epoch 4?
+Q1056	At epoch 5, how did the event change the assignment decision?
+Q1056_p1	Can you explain this dispatch decision: At epoch 5, how did the event change the assignment decision?
+Q1056_p2	In operational terms, at epoch 5, how did the event change the assignment decision?
+Q1056_p3	What is the reason behind this: At epoch 5, how did the event change the assignment decision?
+Q1056_p4	Could you clarify the dispatch rationale here: At epoch 5, how did the event change the assignment decision?
+Q1061	What effect did the event have on assignment at epoch 6?
+Q1061_p1	Can you explain this dispatch decision: What effect did the event have on assignment at epoch 6?
+Q1061_p2	In operational terms, what effect did the event have on assignment at epoch 6?
+Q1061_p3	What is the reason behind this: What effect did the event have on assignment at epoch 6?
+Q1061_p4	Could you clarify the dispatch rationale here: What effect did the event have on assignment at epoch 6?
+Q1066	How did the stadium event change the assignment at epoch 4?
+Q1066_p1	Can you explain this dispatch decision: How did the stadium event change the assignment at epoch 4?
+Q1066_p2	In operational terms, how did the stadium event change the assignment at epoch 4?
+Q1066_p3	What is the reason behind this: How did the stadium event change the assignment at epoch 4?
+Q1066_p4	Could you clarify the dispatch rationale here: How did the stadium event change the assignment at epoch 4?
+Q1071	At epoch 5, how was the assignment shaped by the event?
+Q1071_p1	Can you explain this dispatch decision: At epoch 5, how was the assignment shaped by the event?
+Q1071_p2	In operational terms, at epoch 5, how was the assignment shaped by the event?
+Q1071_p3	What is the reason behind this: At epoch 5, how was the assignment shaped by the event?
+Q1071_p4	Could you clarify the dispatch rationale here: At epoch 5, how was the assignment shaped by the event?
+Q1076	Once the concert started, how did it affect the assignment at epoch 6?
+Q1076_p1	Can you explain this dispatch decision: Once the concert started, how did it affect the assignment at epoch 6?
+Q1076_p2	In operational terms, once the concert started, how did it affect the assignment at epoch 6?
+Q1076_p3	What is the reason behind this: Once the concert started, how did it affect the assignment at epoch 6?
+Q1076_p4	Could you clarify the dispatch rationale here: Once the concert started, how did it affect the assignment at epoch 6?
+Q1081	How did the event influence assignment at epoch 7?
+Q1081_p1	Can you explain this dispatch decision: How did the event influence assignment at epoch 7?
+Q1081_p2	In operational terms, how did the event influence assignment at epoch 7?
+Q1081_p3	What is the reason behind this: How did the event influence assignment at epoch 7?
+Q1081_p4	Could you clarify the dispatch rationale here: How did the event influence assignment at epoch 7?
+Q1086	At epoch 8, how did event-induced congestion impact the assignment?
+Q1086_p1	Can you explain this dispatch decision: At epoch 8, how did event-induced congestion impact the assignment?
+Q1086_p2	In operational terms, at epoch 8, how did event-induced congestion impact the assignment?
+Q1086_p3	What is the reason behind this: At epoch 8, how did event-induced congestion impact the assignment?
+Q1086_p4	Could you clarify the dispatch rationale here: At epoch 8, how did event-induced congestion impact the assignment?
+Q1091	How did the event's impact change what vehicle was chosen at epoch 9?
+Q1091_p1	Can you explain this dispatch decision: How did the event's impact change what vehicle was chosen at epoch 9?
+Q1091_p2	In operational terms, how did the event's impact change what vehicle was chosen at epoch 9?
+Q1091_p3	What is the reason behind this: How did the event's impact change what vehicle was chosen at epoch 9?
+Q1091_p4	Could you clarify the dispatch rationale here: How did the event's impact change what vehicle was chosen at epoch 9?
+Q1096	What effect did the event have on the assignment outcome at epoch 10?
+Q1096_p1	Can you explain this dispatch decision: What effect did the event have on the assignment outcome at epoch 10?
+Q1096_p2	In operational terms, what effect did the event have on the assignment outcome at epoch 10?
+Q1096_p3	What is the reason behind this: What effect did the event have on the assignment outcome at epoch 10?
+Q1096_p4	Could you clarify the dispatch rationale here: What effect did the event have on the assignment outcome at epoch 10?
+Q1101	At epoch 4, how did the event shift which vehicle got assigned?
+Q1101_p1	Can you explain this dispatch decision: At epoch 4, how did the event shift which vehicle got assigned?
+Q1101_p2	In operational terms, at epoch 4, how did the event shift which vehicle got assigned?
+Q1101_p3	What is the reason behind this: At epoch 4, how did the event shift which vehicle got assigned?
+Q1101_p4	Could you clarify the dispatch rationale here: At epoch 4, how did the event shift which vehicle got assigned?
+Q1106	How did the event's congestion change the assignment at epoch 5?
+Q1106_p1	Can you explain this dispatch decision: How did the event's congestion change the assignment at epoch 5?
+Q1106_p2	In operational terms, how did the event's congestion change the assignment at epoch 5?
+Q1106_p3	What is the reason behind this: How did the event's congestion change the assignment at epoch 5?
+Q1106_p4	Could you clarify the dispatch rationale here: How did the event's congestion change the assignment at epoch 5?
+Q1111	During the event, how was the assignment at epoch 6 different?
+Q1111_p1	Can you explain this dispatch decision: During the event, how was the assignment at epoch 6 different?
+Q1111_p2	In operational terms, during the event, how was the assignment at epoch 6 different?
+Q1111_p3	What is the reason behind this: During the event, how was the assignment at epoch 6 different?
+Q1111_p4	Could you clarify the dispatch rationale here: During the event, how was the assignment at epoch 6 different?
+Q1116	How did event congestion play into the assignment at epoch 4?
+Q1116_p1	Can you explain this dispatch decision: How did event congestion play into the assignment at epoch 4?
+Q1116_p2	In operational terms, how did event congestion play into the assignment at epoch 4?
+Q1116_p3	What is the reason behind this: How did event congestion play into the assignment at epoch 4?
+Q1116_p4	Could you clarify the dispatch rationale here: How did event congestion play into the assignment at epoch 4?
+Q1121	What was the event's impact on the assignment at epoch 5?
+Q1121_p1	Can you explain this dispatch decision: What was the event's impact on the assignment at epoch 5?
+Q1121_p2	In operational terms, what was the event's impact on the assignment at epoch 5?
+Q1121_p3	What is the reason behind this: What was the event's impact on the assignment at epoch 5?
+Q1121_p4	Could you clarify the dispatch rationale here: What was the event's impact on the assignment at epoch 5?
+Q1126	At epoch 6, once the event peaked, how did it affect assignment?
+Q1126_p1	Can you explain this dispatch decision: At epoch 6, once the event peaked, how did it affect assignment?
+Q1126_p2	In operational terms, at epoch 6, once the event peaked, how did it affect assignment?
+Q1126_p3	What is the reason behind this: At epoch 6, once the event peaked, how did it affect assignment?
+Q1126_p4	Could you clarify the dispatch rationale here: At epoch 6, once the event peaked, how did it affect assignment?
+Q1131	During the stadium event, how was the assignment at epoch 7 different?
+Q1131_p1	Can you explain this dispatch decision: During the stadium event, how was the assignment at epoch 7 different?
+Q1131_p2	In operational terms, during the stadium event, how was the assignment at epoch 7 different?
+Q1131_p3	What is the reason behind this: During the stadium event, how was the assignment at epoch 7 different?
+Q1131_p4	Could you clarify the dispatch rationale here: During the stadium event, how was the assignment at epoch 7 different?
+Q1136	How did event-driven traffic reshape the assignment at epoch 8?
+Q1136_p1	Can you explain this dispatch decision: How did event-driven traffic reshape the assignment at epoch 8?
+Q1136_p2	In operational terms, how did event-driven traffic reshape the assignment at epoch 8?
+Q1136_p3	What is the reason behind this: How did event-driven traffic reshape the assignment at epoch 8?
+Q1136_p4	Could you clarify the dispatch rationale here: How did event-driven traffic reshape the assignment at epoch 8?
+Q1141	How did the event affect which vehicle was picked at epoch 9?
+Q1141_p1	Can you explain this dispatch decision: How did the event affect which vehicle was picked at epoch 9?
+Q1141_p2	In operational terms, how did the event affect which vehicle was picked at epoch 9?
+Q1141_p3	What is the reason behind this: How did the event affect which vehicle was picked at epoch 9?
+Q1141_p4	Could you clarify the dispatch rationale here: How did the event affect which vehicle was picked at epoch 9?
+Q1146	At epoch 10, how did the event change the dispatcher's behavior?
+Q1146_p1	Can you explain this dispatch decision: At epoch 10, how did the event change the dispatcher's behavior?
+Q1146_p2	In operational terms, at epoch 10, how did the event change the dispatcher's behavior?
+Q1146_p3	What is the reason behind this: At epoch 10, how did the event change the dispatcher's behavior?
+Q1146_p4	Could you clarify the dispatch rationale here: At epoch 10, how did the event change the dispatcher's behavior?
+Q1396	At epoch 4 during the event, how much did congestion from the event change the assignment?
+Q1396_p1	Can you explain this dispatch decision: At epoch 4 during the event, how much did congestion from the event change the assignment?
+Q1396_p2	In operational terms, at epoch 4 during the event, how much did congestion from the event change the assignment?
+Q1396_p3	What is the reason behind this: At epoch 4 during the event, how much did congestion from the event change the assignment?
+Q1396_p4	Could you clarify the dispatch rationale here: At epoch 4 during the event, how much did congestion from the event change the assignment?
+Q1576	At epoch 5, what impact did the event have on the assignment?
+Q1576_p1	Can you explain this dispatch decision: At epoch 5, what impact did the event have on the assignment?
+Q1576_p2	In operational terms, at epoch 5, what impact did the event have on the assignment?
+Q1576_p3	What is the reason behind this: At epoch 5, what impact did the event have on the assignment?
+Q1576_p4	Could you clarify the dispatch rationale here: At epoch 5, what impact did the event have on the assignment?
+Q1581	At epoch 6, how did event congestion reshape the assignment?
+Q1581_p1	Can you explain this dispatch decision: At epoch 6, how did event congestion reshape the assignment?
+Q1581_p2	In operational terms, at epoch 6, how did event congestion reshape the assignment?
+Q1581_p3	What is the reason behind this: At epoch 6, how did event congestion reshape the assignment?
+Q1581_p4	Could you clarify the dispatch rationale here: At epoch 6, how did event congestion reshape the assignment?
+Q1586	At epoch 4, how did the event's onset shift the assignment?
+Q1586_p1	Can you explain this dispatch decision: At epoch 4, how did the event's onset shift the assignment?
+Q1586_p2	In operational terms, at epoch 4, how did the event's onset shift the assignment?
+Q1586_p3	What is the reason behind this: At epoch 4, how did the event's onset shift the assignment?
+Q1586_p4	Could you clarify the dispatch rationale here: At epoch 4, how did the event's onset shift the assignment?
+Q1591	How did the stadium event change the assignment at epoch 5?
+Q1591_p1	Can you explain this dispatch decision: How did the stadium event change the assignment at epoch 5?
+Q1591_p2	In operational terms, how did the stadium event change the assignment at epoch 5?
+Q1591_p3	What is the reason behind this: How did the stadium event change the assignment at epoch 5?
+Q1591_p4	Could you clarify the dispatch rationale here: How did the stadium event change the assignment at epoch 5?
+Q1596	At epoch 6, how did event-driven congestion affect the assignment decision?
+Q1596_p1	Can you explain this dispatch decision: At epoch 6, how did event-driven congestion affect the assignment decision?
+Q1596_p2	In operational terms, at epoch 6, how did event-driven congestion affect the assignment decision?
+Q1596_p3	What is the reason behind this: At epoch 6, how did event-driven congestion affect the assignment decision?
+Q1596_p4	Could you clarify the dispatch rationale here: At epoch 6, how did event-driven congestion affect the assignment decision?
+Q1601	At epoch 7, how did the event's impact reshape vehicle selection?
+Q1601_p1	Can you explain this dispatch decision: At epoch 7, how did the event's impact reshape vehicle selection?
+Q1601_p2	In operational terms, at epoch 7, how did the event's impact reshape vehicle selection?
+Q1601_p3	What is the reason behind this: At epoch 7, how did the event's impact reshape vehicle selection?
+Q1601_p4	Could you clarify the dispatch rationale here: At epoch 7, how did the event's impact reshape vehicle selection?
+Q1606	How did concert traffic alter the assignment at epoch 8?
+Q1606_p1	Can you explain this dispatch decision: How did concert traffic alter the assignment at epoch 8?
+Q1606_p2	In operational terms, how did concert traffic alter the assignment at epoch 8?
+Q1606_p3	What is the reason behind this: How did concert traffic alter the assignment at epoch 8?
+Q1606_p4	Could you clarify the dispatch rationale here: How did concert traffic alter the assignment at epoch 8?
+Q1611	At epoch 9, how did the event shape the assignment outcome?
+Q1611_p1	Can you explain this dispatch decision: At epoch 9, how did the event shape the assignment outcome?
+Q1611_p2	In operational terms, at epoch 9, how did the event shape the assignment outcome?
+Q1611_p3	What is the reason behind this: At epoch 9, how did the event shape the assignment outcome?
+Q1611_p4	Could you clarify the dispatch rationale here: At epoch 9, how did the event shape the assignment outcome?
+Q1616	At epoch 10, how did the event reshape the assignment decision?
+Q1616_p1	Can you explain this dispatch decision: At epoch 10, how did the event reshape the assignment decision?
+Q1616_p2	In operational terms, at epoch 10, how did the event reshape the assignment decision?
+Q1616_p3	What is the reason behind this: At epoch 10, how did the event reshape the assignment decision?
+Q1616_p4	Could you clarify the dispatch rationale here: At epoch 10, how did the event reshape the assignment decision?
+Q1271	At event epoch 4, how much does congestion affect assigned timing?
+Q1271_p1	Can you explain this dispatch decision: At event epoch 4, how much does congestion affect assigned timing?
+Q1271_p2	In operational terms, at event epoch 4, how much does congestion affect assigned timing?
+Q1271_p3	What is the reason behind this: At event epoch 4, how much does congestion affect assigned timing?
+Q1271_p4	Could you clarify the dispatch rationale here: At event epoch 4, how much does congestion affect assigned timing?
+Q1276	How much delay does event congestion add to assigned timing at epoch 5?
+Q1276_p1	Can you explain this dispatch decision: How much delay does event congestion add to assigned timing at epoch 5?
+Q1276_p2	In operational terms, how much delay does event congestion add to assigned timing at epoch 5?
+Q1276_p3	What is the reason behind this: How much delay does event congestion add to assigned timing at epoch 5?
+Q1276_p4	Could you clarify the dispatch rationale here: How much delay does event congestion add to assigned timing at epoch 5?
+Q1281	At epoch 6 during the event, how much does congestion slow the assigned vehicle?
+Q1281_p1	Can you explain this dispatch decision: At epoch 6 during the event, how much does congestion slow the assigned vehicle?
+Q1281_p2	In operational terms, at epoch 6 during the event, how much does congestion slow the assigned vehicle?
+Q1281_p3	What is the reason behind this: At epoch 6 during the event, how much does congestion slow the assigned vehicle?
+Q1281_p4	Could you clarify the dispatch rationale here: At epoch 6 during the event, how much does congestion slow the assigned vehicle?
+Q1286	How big is the congestion impact on assigned timing at event epoch 4?
+Q1286_p1	Can you explain this dispatch decision: How big is the congestion impact on assigned timing at event epoch 4?
+Q1286_p2	In operational terms, how big is the congestion impact on assigned timing at event epoch 4?
+Q1286_p3	What is the reason behind this: How big is the congestion impact on assigned timing at event epoch 4?
+Q1286_p4	Could you clarify the dispatch rationale here: How big is the congestion impact on assigned timing at event epoch 4?
+Q1291	During the event, how much extra time does congestion add at epoch 5?
+Q1291_p1	Can you explain this dispatch decision: During the event, how much extra time does congestion add at epoch 5?
+Q1291_p2	In operational terms, during the event, how much extra time does congestion add at epoch 5?
+Q1291_p3	What is the reason behind this: During the event, how much extra time does congestion add at epoch 5?
+Q1291_p4	Could you clarify the dispatch rationale here: During the event, how much extra time does congestion add at epoch 5?
+Q1296	At event epoch 6, how much does congestion lengthen the assigned vehicle's timing?
+Q1296_p1	Can you explain this dispatch decision: At event epoch 6, how much does congestion lengthen the assigned vehicle's timing?
+Q1296_p2	In operational terms, at event epoch 6, how much does congestion lengthen the assigned vehicle's timing?
+Q1296_p3	What is the reason behind this: At event epoch 6, how much does congestion lengthen the assigned vehicle's timing?
+Q1296_p4	Could you clarify the dispatch rationale here: At event epoch 6, how much does congestion lengthen the assigned vehicle's timing?
+Q1301	How much does congestion from the event delay assigned timing at epoch 7?
+Q1301_p1	Can you explain this dispatch decision: How much does congestion from the event delay assigned timing at epoch 7?
+Q1301_p2	In operational terms, how much does congestion from the event delay assigned timing at epoch 7?
+Q1301_p3	What is the reason behind this: How much does congestion from the event delay assigned timing at epoch 7?
+Q1301_p4	Could you clarify the dispatch rationale here: How much does congestion from the event delay assigned timing at epoch 7?
+Q1306	During the event at epoch 8, how much does congestion push back assigned timing?
+Q1306_p1	Can you explain this dispatch decision: During the event at epoch 8, how much does congestion push back assigned timing?
+Q1306_p2	In operational terms, during the event at epoch 8, how much does congestion push back assigned timing?
+Q1306_p3	What is the reason behind this: During the event at epoch 8, how much does congestion push back assigned timing?
+Q1306_p4	Could you clarify the dispatch rationale here: During the event at epoch 8, how much does congestion push back assigned timing?
+Q1311	At event epoch 9, how much does traffic congestion affect the assigned vehicle's timing?
+Q1311_p1	Can you explain this dispatch decision: At event epoch 9, how much does traffic congestion affect the assigned vehicle's timing?
+Q1311_p2	In operational terms, at event epoch 9, how much does traffic congestion affect the assigned vehicle's timing?
+Q1311_p3	What is the reason behind this: At event epoch 9, how much does traffic congestion affect the assigned vehicle's timing?
+Q1311_p4	Could you clarify the dispatch rationale here: At event epoch 9, how much does traffic congestion affect the assigned vehicle's timing?
+Q1316	How large is congestion's effect on assigned timing at event epoch 10?
+Q1316_p1	Can you explain this dispatch decision: How large is congestion's effect on assigned timing at event epoch 10?
+Q1316_p2	In operational terms, how large is congestion's effect on assigned timing at event epoch 10?
+Q1316_p3	What is the reason behind this: How large is congestion's effect on assigned timing at event epoch 10?
+Q1316_p4	Could you clarify the dispatch rationale here: How large is congestion's effect on assigned timing at event epoch 10?
+Q1321	At event epoch 4, how much does the event's congestion slow the assigned van?
+Q1321_p1	Can you explain this dispatch decision: At event epoch 4, how much does the event's congestion slow the assigned van?
+Q1321_p2	In operational terms, at event epoch 4, how much does the event's congestion slow the assigned van?
+Q1321_p3	What is the reason behind this: At event epoch 4, how much does the event's congestion slow the assigned van?
+Q1321_p4	Could you clarify the dispatch rationale here: At event epoch 4, how much does the event's congestion slow the assigned van?
+Q1326	During the event, how much does congestion extend assigned pickup/dropoff timing at epoch 5?
+Q1326_p1	Can you explain this dispatch decision: During the event, how much does congestion extend assigned pickup/dropoff timing at epoch 5?
+Q1326_p2	In operational terms, during the event, how much does congestion extend assigned pickup/dropoff timing at epoch 5?
+Q1326_p3	What is the reason behind this: During the event, how much does congestion extend assigned pickup/dropoff timing at epoch 5?
+Q1326_p4	Could you clarify the dispatch rationale here: During the event, how much does congestion extend assigned pickup/dropoff timing at epoch 5?
+Q1331	How much of the assigned vehicle's delay comes from event congestion at epoch 6?
+Q1331_p1	Can you explain this dispatch decision: How much of the assigned vehicle's delay comes from event congestion at epoch 6?
+Q1331_p2	In operational terms, how much of the assigned vehicle's delay comes from event congestion at epoch 6?
+Q1331_p3	What is the reason behind this: How much of the assigned vehicle's delay comes from event congestion at epoch 6?
+Q1331_p4	Could you clarify the dispatch rationale here: How much of the assigned vehicle's delay comes from event congestion at epoch 6?
+Q1336	At event epoch 4, how much does congestion hurt assigned timing?
+Q1336_p1	Can you explain this dispatch decision: At event epoch 4, how much does congestion hurt assigned timing?
+Q1336_p2	In operational terms, at event epoch 4, how much does congestion hurt assigned timing?
+Q1336_p3	What is the reason behind this: At event epoch 4, how much does congestion hurt assigned timing?
+Q1336_p4	Could you clarify the dispatch rationale here: At event epoch 4, how much does congestion hurt assigned timing?
+Q1341	During the event at epoch 5, how much additional delay does congestion cause for the assigned vehicle?
+Q1341_p1	Can you explain this dispatch decision: During the event at epoch 5, how much additional delay does congestion cause for the assigned vehicle?
+Q1341_p2	In operational terms, during the event at epoch 5, how much additional delay does congestion cause for the assigned vehicle?
+Q1341_p3	What is the reason behind this: During the event at epoch 5, how much additional delay does congestion cause for the assigned vehicle?
+Q1341_p4	Could you clarify the dispatch rationale here: During the event at epoch 5, how much additional delay does congestion cause for the assigned vehicle?
+Q1346	How much does event-induced congestion slow the assigned vehicle at epoch 6?
+Q1346_p1	Can you explain this dispatch decision: How much does event-induced congestion slow the assigned vehicle at epoch 6?
+Q1346_p2	In operational terms, how much does event-induced congestion slow the assigned vehicle at epoch 6?
+Q1346_p3	What is the reason behind this: How much does event-induced congestion slow the assigned vehicle at epoch 6?
+Q1346_p4	Could you clarify the dispatch rationale here: How much does event-induced congestion slow the assigned vehicle at epoch 6?
+Q1351	At event epoch 7, how much does congestion add to assigned travel time?
+Q1351_p1	Can you explain this dispatch decision: At event epoch 7, how much does congestion add to assigned travel time?
+Q1351_p2	In operational terms, at event epoch 7, how much does congestion add to assigned travel time?
+Q1351_p3	What is the reason behind this: At event epoch 7, how much does congestion add to assigned travel time?
+Q1351_p4	Could you clarify the dispatch rationale here: At event epoch 7, how much does congestion add to assigned travel time?
+Q1356	How much does congestion stretch assigned vehicle timing at event epoch 8?
+Q1356_p1	Can you explain this dispatch decision: How much does congestion stretch assigned vehicle timing at event epoch 8?
+Q1356_p2	In operational terms, how much does congestion stretch assigned vehicle timing at event epoch 8?
+Q1356_p3	What is the reason behind this: How much does congestion stretch assigned vehicle timing at event epoch 8?
+Q1356_p4	Could you clarify the dispatch rationale here: How much does congestion stretch assigned vehicle timing at event epoch 8?
+Q1361	At event epoch 9, how much does congestion impact the assigned vehicle's pickup time?
+Q1361_p1	Can you explain this dispatch decision: At event epoch 9, how much does congestion impact the assigned vehicle's pickup time?
+Q1361_p2	In operational terms, at event epoch 9, how much does congestion impact the assigned vehicle's pickup time?
+Q1361_p3	What is the reason behind this: At event epoch 9, how much does congestion impact the assigned vehicle's pickup time?
+Q1361_p4	Could you clarify the dispatch rationale here: At event epoch 9, how much does congestion impact the assigned vehicle's pickup time?
+Q1366	During the event's peak at epoch 10, how much does congestion delay the assigned van?
+Q1366_p1	Can you explain this dispatch decision: During the event's peak at epoch 10, how much does congestion delay the assigned van?
+Q1366_p2	In operational terms, during the event's peak at epoch 10, how much does congestion delay the assigned van?
+Q1366_p3	What is the reason behind this: During the event's peak at epoch 10, how much does congestion delay the assigned van?
+Q1366_p4	Could you clarify the dispatch rationale here: During the event's peak at epoch 10, how much does congestion delay the assigned van?
+Q1621	At event epoch 4, how much delay does congestion cause for assigned timing?
+Q1621_p1	Can you explain this dispatch decision: At event epoch 4, how much delay does congestion cause for assigned timing?
+Q1621_p2	In operational terms, at event epoch 4, how much delay does congestion cause for assigned timing?
+Q1621_p3	What is the reason behind this: At event epoch 4, how much delay does congestion cause for assigned timing?
+Q1621_p4	Could you clarify the dispatch rationale here: At event epoch 4, how much delay does congestion cause for assigned timing?
+Q1626	How much does event congestion slow the assigned vehicle at epoch 5?
+Q1626_p1	Can you explain this dispatch decision: How much does event congestion slow the assigned vehicle at epoch 5?
+Q1626_p2	In operational terms, how much does event congestion slow the assigned vehicle at epoch 5?
+Q1626_p3	What is the reason behind this: How much does event congestion slow the assigned vehicle at epoch 5?
+Q1626_p4	Could you clarify the dispatch rationale here: How much does event congestion slow the assigned vehicle at epoch 5?
+Q1631	At epoch 6, how much extra travel time does event congestion add to the assigned?
+Q1631_p1	Can you explain this dispatch decision: At epoch 6, how much extra travel time does event congestion add to the assigned?
+Q1631_p2	In operational terms, at epoch 6, how much extra travel time does event congestion add to the assigned?
+Q1631_p3	What is the reason behind this: At epoch 6, how much extra travel time does event congestion add to the assigned?
+Q1631_p4	Could you clarify the dispatch rationale here: At epoch 6, how much extra travel time does event congestion add to the assigned?
+Q1636	How much additional delay does the event bring to assigned timing at epoch 4?
+Q1636_p1	Can you explain this dispatch decision: How much additional delay does the event bring to assigned timing at epoch 4?
+Q1636_p2	In operational terms, how much additional delay does the event bring to assigned timing at epoch 4?
+Q1636_p3	What is the reason behind this: How much additional delay does the event bring to assigned timing at epoch 4?
+Q1636_p4	Could you clarify the dispatch rationale here: How much additional delay does the event bring to assigned timing at epoch 4?
+Q1641	At event epoch 5, what's the congestion impact on assigned timing?
+Q1641_p1	Can you explain this dispatch decision: At event epoch 5, what's the congestion impact on assigned timing?
+Q1641_p2	In operational terms, at event epoch 5, what's the congestion impact on assigned timing?
+Q1641_p3	What is the reason behind this: At event epoch 5, what's the congestion impact on assigned timing?
+Q1641_p4	Could you clarify the dispatch rationale here: At event epoch 5, what's the congestion impact on assigned timing?
+Q1646	How long does event congestion delay the assigned vehicle at epoch 6?
+Q1646_p1	Can you explain this dispatch decision: How long does event congestion delay the assigned vehicle at epoch 6?
+Q1646_p2	In operational terms, how long does event congestion delay the assigned vehicle at epoch 6?
+Q1646_p3	What is the reason behind this: How long does event congestion delay the assigned vehicle at epoch 6?
+Q1646_p4	Could you clarify the dispatch rationale here: How long does event congestion delay the assigned vehicle at epoch 6?
+Q1651	At epoch 7, how much is assigned timing affected by event congestion?
+Q1651_p1	Can you explain this dispatch decision: At epoch 7, how much is assigned timing affected by event congestion?
+Q1651_p2	In operational terms, at epoch 7, how much is assigned timing affected by event congestion?
+Q1651_p3	What is the reason behind this: At epoch 7, how much is assigned timing affected by event congestion?
+Q1651_p4	Could you clarify the dispatch rationale here: At epoch 7, how much is assigned timing affected by event congestion?
+Q1656	How much extra time does event congestion add to assigned service at epoch 8?
+Q1656_p1	Can you explain this dispatch decision: How much extra time does event congestion add to assigned service at epoch 8?
+Q1656_p2	In operational terms, how much extra time does event congestion add to assigned service at epoch 8?
+Q1656_p3	What is the reason behind this: How much extra time does event congestion add to assigned service at epoch 8?
+Q1656_p4	Could you clarify the dispatch rationale here: How much extra time does event congestion add to assigned service at epoch 8?
+Q1661	At event epoch 9, how much delay comes from congestion for the assigned vehicle?
+Q1661_p1	Can you explain this dispatch decision: At event epoch 9, how much delay comes from congestion for the assigned vehicle?
+Q1661_p2	In operational terms, at event epoch 9, how much delay comes from congestion for the assigned vehicle?
+Q1661_p3	What is the reason behind this: At event epoch 9, how much delay comes from congestion for the assigned vehicle?
+Q1661_p4	Could you clarify the dispatch rationale here: At event epoch 9, how much delay comes from congestion for the assigned vehicle?
+Q1666	How much slower is the assigned vehicle due to event congestion at epoch 10?
+Q1666_p1	Can you explain this dispatch decision: How much slower is the assigned vehicle due to event congestion at epoch 10?
+Q1666_p2	In operational terms, how much slower is the assigned vehicle due to event congestion at epoch 10?
+Q1666_p3	What is the reason behind this: How much slower is the assigned vehicle due to event congestion at epoch 10?
+Q1666_p4	Could you clarify the dispatch rationale here: How much slower is the assigned vehicle due to event congestion at epoch 10?
+Q1191	At request 4 after the crash, how do traffic and route burden affect assigned vs closest timing?
+Q1191_p1	Can you explain this dispatch decision: At request 4 after the crash, how do traffic and route burden affect assigned vs closest timing?
+Q1191_p2	In operational terms, at request 4 after the crash, how do traffic and route burden affect assigned vs closest timing?
+Q1191_p3	What is the reason behind this: At request 4 after the crash, how do traffic and route burden affect assigned vs closest timing?
+Q1191_p4	Could you clarify the dispatch rationale here: At request 4 after the crash, how do traffic and route burden affect assigned vs closest timing?
+Q1196	Given the accident, how do traffic and route load impact assigned vs closest timing at request 5?
+Q1196_p1	Can you explain this dispatch decision: Given the accident, how do traffic and route load impact assigned vs closest timing at request 5?
+Q1196_p2	In operational terms, given the accident, how do traffic and route load impact assigned vs closest timing at request 5?
+Q1196_p3	What is the reason behind this: Given the accident, how do traffic and route load impact assigned vs closest timing at request 5?
+Q1196_p4	Could you clarify the dispatch rationale here: Given the accident, how do traffic and route load impact assigned vs closest timing at request 5?
+Q1201	After the accident, at request 6, how do traffic and route burden shape the gap in assigned vs closest timing?
+Q1201_p1	Can you explain this dispatch decision: After the accident, at request 6, how do traffic and route burden shape the gap in assigned vs closest timing?
+Q1201_p2	In operational terms, after the accident, at request 6, how do traffic and route burden shape the gap in assigned vs closest timing?
+Q1201_p3	What is the reason behind this: After the accident, at request 6, how do traffic and route burden shape the gap in assigned vs closest timing?
+Q1201_p4	Could you clarify the dispatch rationale here: After the accident, at request 6, how do traffic and route burden shape the gap in assigned vs closest timing?
+Q1206	With travel times spiked, at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1206_p1	Can you explain this dispatch decision: With travel times spiked, at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1206_p2	In operational terms, with travel times spiked, at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1206_p3	What is the reason behind this: With travel times spiked, at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1206_p4	Could you clarify the dispatch rationale here: With travel times spiked, at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1211	At request 5 post-accident, how do traffic and route burden affect assigned vs closest timing?
+Q1211_p1	Can you explain this dispatch decision: At request 5 post-accident, how do traffic and route burden affect assigned vs closest timing?
+Q1211_p2	In operational terms, at request 5 post-accident, how do traffic and route burden affect assigned vs closest timing?
+Q1211_p3	What is the reason behind this: At request 5 post-accident, how do traffic and route burden affect assigned vs closest timing?
+Q1211_p4	Could you clarify the dispatch rationale here: At request 5 post-accident, how do traffic and route burden affect assigned vs closest timing?
+Q1216	After the road was blocked, at request 6, how do traffic and burden affect assigned vs closest timing?
+Q1216_p1	Can you explain this dispatch decision: After the road was blocked, at request 6, how do traffic and burden affect assigned vs closest timing?
+Q1216_p2	In operational terms, after the road was blocked, at request 6, how do traffic and burden affect assigned vs closest timing?
+Q1216_p3	What is the reason behind this: After the road was blocked, at request 6, how do traffic and burden affect assigned vs closest timing?
+Q1216_p4	Could you clarify the dispatch rationale here: After the road was blocked, at request 6, how do traffic and burden affect assigned vs closest timing?
+Q1221	Given the crash, how do traffic and route burden shape assigned vs closest timing at request 7?
+Q1221_p1	Can you explain this dispatch decision: Given the crash, how do traffic and route burden shape assigned vs closest timing at request 7?
+Q1221_p2	In operational terms, given the crash, how do traffic and route burden shape assigned vs closest timing at request 7?
+Q1221_p3	What is the reason behind this: Given the crash, how do traffic and route burden shape assigned vs closest timing at request 7?
+Q1221_p4	Could you clarify the dispatch rationale here: Given the crash, how do traffic and route burden shape assigned vs closest timing at request 7?
+Q1226	Once travel times stabilized, how do traffic and route burden affect assigned vs closest timing at request 8?
+Q1226_p1	Can you explain this dispatch decision: Once travel times stabilized, how do traffic and route burden affect assigned vs closest timing at request 8?
+Q1226_p2	In operational terms, once travel times stabilized, how do traffic and route burden affect assigned vs closest timing at request 8?
+Q1226_p3	What is the reason behind this: Once travel times stabilized, how do traffic and route burden affect assigned vs closest timing at request 8?
+Q1226_p4	Could you clarify the dispatch rationale here: Once travel times stabilized, how do traffic and route burden affect assigned vs closest timing at request 8?
+Q1671	At request 9, how much later is the assigned vehicle's ETA than the closest's after the accident?
+Q1671_p1	Can you explain this dispatch decision: At request 9, how much later is the assigned vehicle's ETA than the closest's after the accident?
+Q1671_p2	In operational terms, at request 9, how much later is the assigned vehicle's ETA than the closest's after the accident?
+Q1671_p3	What is the reason behind this: At request 9, how much later is the assigned vehicle's ETA than the closest's after the accident?
+Q1671_p4	Could you clarify the dispatch rationale here: At request 9, how much later is the assigned vehicle's ETA than the closest's after the accident?
+Q1676	How much longer will the assigned vehicle take vs the closest at request 10 after the crash?
+Q1676_p1	Can you explain this dispatch decision: How much longer will the assigned vehicle take vs the closest at request 10 after the crash?
+Q1676_p2	In operational terms, how much longer will the assigned vehicle take vs the closest at request 10 after the crash?
+Q1676_p3	What is the reason behind this: How much longer will the assigned vehicle take vs the closest at request 10 after the crash?
+Q1676_p4	Could you clarify the dispatch rationale here: How much longer will the assigned vehicle take vs the closest at request 10 after the crash?
+Q1151	At request 1, how do traffic and route burden affect the assigned vs closest vehicle's timing?
+Q1151_p1	Can you explain this dispatch decision: At request 1, how do traffic and route burden affect the assigned vs closest vehicle's timing?
+Q1151_p2	In operational terms, at request 1, how do traffic and route burden affect the assigned vs closest vehicle's timing?
+Q1151_p3	What is the reason behind this: At request 1, how do traffic and route burden affect the assigned vs closest vehicle's timing?
+Q1151_p4	Could you clarify the dispatch rationale here: At request 1, how do traffic and route burden affect the assigned vs closest vehicle's timing?
+Q1156	How do traffic and route load shape timing differences between assigned and closest vehicles at request 2?
+Q1156_p1	Can you explain this dispatch decision: How do traffic and route load shape timing differences between assigned and closest vehicles at request 2?
+Q1156_p2	In operational terms, how do traffic and route load shape timing differences between assigned and closest vehicles at request 2?
+Q1156_p3	What is the reason behind this: How do traffic and route load shape timing differences between assigned and closest vehicles at request 2?
+Q1156_p4	Could you clarify the dispatch rationale here: How do traffic and route load shape timing differences between assigned and closest vehicles at request 2?
+Q1161	At request 3, how does traffic and route burden influence assigned and closest vehicle timing?
+Q1161_p1	Can you explain this dispatch decision: At request 3, how does traffic and route burden influence assigned and closest vehicle timing?
+Q1161_p2	In operational terms, at request 3, how does traffic and route burden influence assigned and closest vehicle timing?
+Q1161_p3	What is the reason behind this: At request 3, how does traffic and route burden influence assigned and closest vehicle timing?
+Q1161_p4	Could you clarify the dispatch rationale here: At request 3, how does traffic and route burden influence assigned and closest vehicle timing?
+Q1166	How do current traffic and route load affect assigned vs closest timing at request 4?
+Q1166_p1	Can you explain this dispatch decision: How do current traffic and route load affect assigned vs closest timing at request 4?
+Q1166_p2	In operational terms, how do current traffic and route load affect assigned vs closest timing at request 4?
+Q1166_p3	What is the reason behind this: How do current traffic and route load affect assigned vs closest timing at request 4?
+Q1166_p4	Could you clarify the dispatch rationale here: How do current traffic and route load affect assigned vs closest timing at request 4?
+Q1171	At request 5, how do traffic and route burden shape assigned and closest service timing?
+Q1171_p1	Can you explain this dispatch decision: At request 5, how do traffic and route burden shape assigned and closest service timing?
+Q1171_p2	In operational terms, at request 5, how do traffic and route burden shape assigned and closest service timing?
+Q1171_p3	What is the reason behind this: At request 5, how do traffic and route burden shape assigned and closest service timing?
+Q1171_p4	Could you clarify the dispatch rationale here: At request 5, how do traffic and route burden shape assigned and closest service timing?
+Q1176	At request 6, how do traffic and burden from pending routes affect timing between assigned and closest?
+Q1176_p1	Can you explain this dispatch decision: At request 6, how do traffic and burden from pending routes affect timing between assigned and closest?
+Q1176_p2	In operational terms, at request 6, how do traffic and burden from pending routes affect timing between assigned and closest?
+Q1176_p3	What is the reason behind this: At request 6, how do traffic and burden from pending routes affect timing between assigned and closest?
+Q1176_p4	Could you clarify the dispatch rationale here: At request 6, how do traffic and burden from pending routes affect timing between assigned and closest?
+Q1181	How do traffic and route load affect timing at request 7 for assigned and closest vans?
+Q1181_p1	Can you explain this dispatch decision: How do traffic and route load affect timing at request 7 for assigned and closest vans?
+Q1181_p2	In operational terms, how do traffic and route load affect timing at request 7 for assigned and closest vans?
+Q1181_p3	What is the reason behind this: How do traffic and route load affect timing at request 7 for assigned and closest vans?
+Q1181_p4	Could you clarify the dispatch rationale here: How do traffic and route load affect timing at request 7 for assigned and closest vans?
+Q1186	At request 8, how do traffic and route burden shift timing between the assigned and closest?
+Q1186_p1	Can you explain this dispatch decision: At request 8, how do traffic and route burden shift timing between the assigned and closest?
+Q1186_p2	In operational terms, at request 8, how do traffic and route burden shift timing between the assigned and closest?
+Q1186_p3	What is the reason behind this: At request 8, how do traffic and route burden shift timing between the assigned and closest?
+Q1186_p4	Could you clarify the dispatch rationale here: At request 8, how do traffic and route burden shift timing between the assigned and closest?
+Q1681	At request 9, how much later will the assigned arrive than the closest?
+Q1681_p1	Can you explain this dispatch decision: At request 9, how much later will the assigned arrive than the closest?
+Q1681_p2	In operational terms, at request 9, how much later will the assigned arrive than the closest?
+Q1681_p3	What is the reason behind this: At request 9, how much later will the assigned arrive than the closest?
+Q1681_p4	Could you clarify the dispatch rationale here: At request 9, how much later will the assigned arrive than the closest?
+Q1686	At request 10, how big is the ETA gap between assigned and closest vehicles?
+Q1686_p1	Can you explain this dispatch decision: At request 10, how big is the ETA gap between assigned and closest vehicles?
+Q1686_p2	In operational terms, at request 10, how big is the ETA gap between assigned and closest vehicles?
+Q1686_p3	What is the reason behind this: At request 10, how big is the ETA gap between assigned and closest vehicles?
+Q1686_p4	Could you clarify the dispatch rationale here: At request 10, how big is the ETA gap between assigned and closest vehicles?
+Q1231	During the event at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1231_p1	Can you explain this dispatch decision: During the event at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1231_p2	In operational terms, during the event at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1231_p3	What is the reason behind this: During the event at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1231_p4	Could you clarify the dispatch rationale here: During the event at request 4, how do traffic and route burden affect assigned vs closest timing?
+Q1236	With event congestion, how do traffic and route burden impact assigned vs closest timing at request 5?
+Q1236_p1	Can you explain this dispatch decision: With event congestion, how do traffic and route burden impact assigned vs closest timing at request 5?
+Q1236_p2	In operational terms, with event congestion, how do traffic and route burden impact assigned vs closest timing at request 5?
+Q1236_p3	What is the reason behind this: With event congestion, how do traffic and route burden impact assigned vs closest timing at request 5?
+Q1236_p4	Could you clarify the dispatch rationale here: With event congestion, how do traffic and route burden impact assigned vs closest timing at request 5?
+Q1241	During the concert, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1241_p1	Can you explain this dispatch decision: During the concert, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1241_p2	In operational terms, during the concert, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1241_p3	What is the reason behind this: During the concert, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1241_p4	Could you clarify the dispatch rationale here: During the concert, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1246	At request 4 with the event, how do traffic and burden shape assigned vs closest timing?
+Q1246_p1	Can you explain this dispatch decision: At request 4 with the event, how do traffic and burden shape assigned vs closest timing?
+Q1246_p2	In operational terms, at request 4 with the event, how do traffic and burden shape assigned vs closest timing?
+Q1246_p3	What is the reason behind this: At request 4 with the event, how do traffic and burden shape assigned vs closest timing?
+Q1246_p4	Could you clarify the dispatch rationale here: At request 4 with the event, how do traffic and burden shape assigned vs closest timing?
+Q1251	Given event-induced delays, at request 5, how do traffic and route burden affect assigned vs closest timing?
+Q1251_p1	Can you explain this dispatch decision: Given event-induced delays, at request 5, how do traffic and route burden affect assigned vs closest timing?
+Q1251_p2	In operational terms, given event-induced delays, at request 5, how do traffic and route burden affect assigned vs closest timing?
+Q1251_p3	What is the reason behind this: Given event-induced delays, at request 5, how do traffic and route burden affect assigned vs closest timing?
+Q1251_p4	Could you clarify the dispatch rationale here: Given event-induced delays, at request 5, how do traffic and route burden affect assigned vs closest timing?
+Q1256	During the stadium event, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1256_p1	Can you explain this dispatch decision: During the stadium event, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1256_p2	In operational terms, during the stadium event, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1256_p3	What is the reason behind this: During the stadium event, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1256_p4	Could you clarify the dispatch rationale here: During the stadium event, how do traffic and route load affect assigned vs closest timing at request 6?
+Q1261	With the event at request 7, how do traffic and route burden affect assigned vs closest timing?
+Q1261_p1	Can you explain this dispatch decision: With the event at request 7, how do traffic and route burden affect assigned vs closest timing?
+Q1261_p2	In operational terms, with the event at request 7, how do traffic and route burden affect assigned vs closest timing?
+Q1261_p3	What is the reason behind this: With the event at request 7, how do traffic and route burden affect assigned vs closest timing?
+Q1261_p4	Could you clarify the dispatch rationale here: With the event at request 7, how do traffic and route burden affect assigned vs closest timing?
+Q1266	Given concert traffic, how do traffic and burden shape assigned vs closest timing at request 8?
+Q1266_p1	Can you explain this dispatch decision: Given concert traffic, how do traffic and burden shape assigned vs closest timing at request 8?
+Q1266_p2	In operational terms, given concert traffic, how do traffic and burden shape assigned vs closest timing at request 8?
+Q1266_p3	What is the reason behind this: Given concert traffic, how do traffic and burden shape assigned vs closest timing at request 8?
+Q1266_p4	Could you clarify the dispatch rationale here: Given concert traffic, how do traffic and burden shape assigned vs closest timing at request 8?
+Q1691	With the event, how much later is the assigned ETA vs the closest at request 9?
+Q1691_p1	Can you explain this dispatch decision: With the event, how much later is the assigned ETA vs the closest at request 9?
+Q1691_p2	In operational terms, with the event, how much later is the assigned ETA vs the closest at request 9?
+Q1691_p3	What is the reason behind this: With the event, how much later is the assigned ETA vs the closest at request 9?
+Q1691_p4	Could you clarify the dispatch rationale here: With the event, how much later is the assigned ETA vs the closest at request 9?
+Q1696	At request 10 during the event, how much does the assigned lag behind the closest?
+Q1696_p1	Can you explain this dispatch decision: At request 10 during the event, how much does the assigned lag behind the closest?
+Q1696_p2	In operational terms, at request 10 during the event, how much does the assigned lag behind the closest?
+Q1696_p3	What is the reason behind this: At request 10 during the event, how much does the assigned lag behind the closest?
+Q1696_p4	Could you clarify the dispatch rationale here: At request 10 during the event, how much does the assigned lag behind the closest?
